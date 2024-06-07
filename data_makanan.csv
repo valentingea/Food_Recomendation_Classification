@@ -1,0 +1,101 @@
+id_makanan,nama_makanan,kategori,Gagal Jantung,Diabetes,Hipertensi,Penyakit Jantung,PPOK,Kanker,Gagal Ginjal Kronis,Radang Sendi
+1,Apel,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+2,Pisang,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+3,Jeruk,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+4,Anggur,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+5,Mangga,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+6,Stroberi,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+7,Kiwi,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+8,Nanas,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+9,Semangka,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+10,Pepaya,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+11,Melon,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+12,Durian,buah,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+13,Jambu Biji,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+14,Alpukat,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+15,Blueberry,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+16,Buah Naga,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+17,Delima,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+18,Sirsak,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+19,Kelengkeng,buah,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+20,Markisa,buah,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+21,Kubis,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+22,Bayam,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+23,Wortel,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+24,Terong,sayur,tidak dianjurkan,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+25,Labu Siam,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+26,Kangkung,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+27,Bawang Putih,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+28,Seledri,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+29,Tomat,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+30,Kale,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+31,Kacang Hijau,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+32,Asparagus,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+33,Sawi,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+34,Selada,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+35,Buncis,sayur,boleh,tidak dianjurkan,boleh,boleh,boleh,boleh,boleh,boleh
+36,Kubis Merah,sayur,tidak dianjurkan,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+37,Jamur,sayur,boleh,tidak dianjurkan,boleh,boleh,boleh,boleh,boleh,boleh
+38,Bawang Bombay,sayur,boleh,tidak dianjurkan,boleh,boleh,boleh,boleh,boleh,boleh
+39,Brokoli,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+40,Paprika,sayur,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+41,Ayam,protein,boleh,boleh,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+42,Ikan Salmon,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+43,Kacang Kedelai,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+44,Tahu,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+45,Telur,protein,boleh,boleh,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+46,Daging Sapi,protein,tidak dianjurkan,boleh,boleh,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+47,Kacang Almond,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+48,Susu,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+49,Daging Ayam,protein,boleh,boleh,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+50,Ikan Tuna,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+51,Tempe,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+52,Kacang Hijau,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+53,Daging Kambing,protein,tidak dianjurkan,boleh,boleh,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+54,Kacang Mete,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+55,Keju,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+56,Daging Bebek,protein,tidak dianjurkan,boleh,boleh,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+57,Udang,protein,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+58,Kacang Tanah,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+59,Daging Kuda,protein,tidak dianjurkan,boleh,boleh,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+60,Ikan Gurame,protein,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+61,Nasi Putih,karbohidrat,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+62,Kentang,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+63,Ubi Jalar,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+64,Gandum Utuh,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+65,Beras Merah,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+66,Jagung,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+67,Oatmeal,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+68,Quinoa,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+69,Sagu,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+70,Roti Gandum,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+71,Pasta Gandum,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+72,Biji Chia,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+73,Kacang Hijau,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+74,Kacang Merah,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+75,Sukun,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+76,Singkong,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+77,Roti Putih,karbohidrat,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+78,Mi Instan,karbohidrat,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+79,Makaroni,karbohidrat,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+80,Talas,karbohidrat,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+81,Gula,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+82,Madu,pemanis,boleh,tidak dianjurkan,boleh,boleh,boleh,boleh,boleh,boleh
+83,Sirup Maple,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+84,Stevia,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+85,Gula Kelapa,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+86,Molases,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+87,Sirup Agave,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+88,Gula Aren,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+89,Gula Merah,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+90,Sorbitol,pemanis,tidak dianjurkan,tidak dianjurkan,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+91,Xylitol,pemanis,boleh,boleh,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+92,Erythritol,pemanis,boleh,boleh,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+93,Sukralosa,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+94,Aspartam,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+95,Sakarina,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+96,Maltitol,pemanis,boleh,boleh,boleh,boleh,boleh,tidak dianjurkan,boleh,boleh
+97,Neotame,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+98,Acesulfame Potassium,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan
+99,Gula Bit,pemanis,boleh,boleh,boleh,boleh,boleh,boleh,boleh,boleh
+100,Dextrose,pemanis,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan,tidak dianjurkan

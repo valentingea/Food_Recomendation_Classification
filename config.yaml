@@ -1,0 +1,38 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    batara:
+      email: mahardsyech@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Batara Mahardika Aryoko
+      password: $2b$12$XgxJbXgfOqj2PcXx1B1m3uEk3niWrcblb07BCt98pb1SxxOjPDMpC
+    dika:
+      email: dika@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: dika
+      password: $2b$12$diU6ZoUOk8eb3uj6jzH7.u.d/OYuPVZ3tiU8B40h63o75Z5IQi0Sa
+    gea:
+      email: emailgea@gmail.com
+      logged_in: false
+      name: Valentin Gea
+      password: $2b$12$7OggLiNLxiEHGnaoHGCI6eeaOvLsulAWZLKmkGXVKKmIOBt8DVG9e
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$dKmvE7KlLZ1hbgh4qj42ked8NdA1rsq1NbzwIg2VTIG0LxUoaBJtO
+    lol:
+      email: lol@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: lol
+      password: $2b$12$TXLT4cde/TTqrweUJSjuIu.AkGD830mevJ3a2ybJNK1LQi385R6sy
+pre-authorized:
+  emails:
+  - melsby@gmail.com
