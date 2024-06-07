@@ -1,0 +1,10501 @@
+id_user,id_makanan,rekomendasi
+1,1,allowed
+1,2,allowed
+1,3,allowed
+1,4,allowed
+1,5,allowed
+1,6,allowed
+1,7,allowed
+1,8,allowed
+1,9,allowed
+1,10,allowed
+1,11,allowed
+1,12,not allowed
+1,13,allowed
+1,14,allowed
+1,15,allowed
+1,16,allowed
+1,17,allowed
+1,18,allowed
+1,19,not allowed
+1,20,allowed
+1,21,allowed
+1,22,allowed
+1,23,allowed
+1,24,allowed
+1,25,allowed
+1,26,allowed
+1,27,allowed
+1,28,allowed
+1,29,allowed
+1,30,allowed
+1,31,allowed
+1,32,allowed
+1,33,allowed
+1,34,allowed
+1,35,allowed
+1,36,allowed
+1,37,allowed
+1,38,allowed
+1,39,allowed
+1,40,allowed
+1,41,allowed
+1,42,allowed
+1,43,allowed
+1,44,allowed
+1,45,allowed
+1,46,not allowed
+1,47,allowed
+1,48,allowed
+1,49,allowed
+1,50,allowed
+1,51,allowed
+1,52,allowed
+1,53,not allowed
+1,54,allowed
+1,55,allowed
+1,56,not allowed
+1,57,not allowed
+1,58,allowed
+1,59,not allowed
+1,60,allowed
+1,61,not allowed
+1,62,allowed
+1,63,allowed
+1,64,allowed
+1,65,allowed
+1,66,allowed
+1,67,allowed
+1,68,allowed
+1,69,allowed
+1,70,allowed
+1,71,allowed
+1,72,allowed
+1,73,allowed
+1,74,allowed
+1,75,allowed
+1,76,allowed
+1,77,not allowed
+1,78,not allowed
+1,79,not allowed
+1,80,allowed
+1,81,not allowed
+1,82,allowed
+1,83,allowed
+1,84,allowed
+1,85,allowed
+1,86,allowed
+1,87,not allowed
+1,88,allowed
+1,89,allowed
+1,90,allowed
+1,91,allowed
+1,92,allowed
+1,93,not allowed
+1,94,not allowed
+1,95,not allowed
+1,96,allowed
+1,97,not allowed
+1,98,not allowed
+1,99,allowed
+1,100,not allowed
+2,1,allowed
+2,2,allowed
+2,3,allowed
+2,4,allowed
+2,5,allowed
+2,6,allowed
+2,7,allowed
+2,8,allowed
+2,9,allowed
+2,10,allowed
+2,11,allowed
+2,12,not allowed
+2,13,allowed
+2,14,allowed
+2,15,allowed
+2,16,allowed
+2,17,allowed
+2,18,allowed
+2,19,not allowed
+2,20,allowed
+2,21,allowed
+2,22,allowed
+2,23,allowed
+2,24,allowed
+2,25,allowed
+2,26,allowed
+2,27,allowed
+2,28,allowed
+2,29,allowed
+2,30,allowed
+2,31,allowed
+2,32,allowed
+2,33,allowed
+2,34,allowed
+2,35,allowed
+2,36,allowed
+2,37,allowed
+2,38,allowed
+2,39,allowed
+2,40,allowed
+2,41,allowed
+2,42,allowed
+2,43,allowed
+2,44,allowed
+2,45,allowed
+2,46,not allowed
+2,47,allowed
+2,48,allowed
+2,49,allowed
+2,50,allowed
+2,51,allowed
+2,52,allowed
+2,53,not allowed
+2,54,allowed
+2,55,allowed
+2,56,not allowed
+2,57,not allowed
+2,58,allowed
+2,59,not allowed
+2,60,allowed
+2,61,not allowed
+2,62,allowed
+2,63,allowed
+2,64,allowed
+2,65,allowed
+2,66,allowed
+2,67,allowed
+2,68,allowed
+2,69,allowed
+2,70,allowed
+2,71,allowed
+2,72,allowed
+2,73,allowed
+2,74,allowed
+2,75,allowed
+2,76,allowed
+2,77,not allowed
+2,78,not allowed
+2,79,not allowed
+2,80,allowed
+2,81,not allowed
+2,82,allowed
+2,83,allowed
+2,84,allowed
+2,85,allowed
+2,86,allowed
+2,87,not allowed
+2,88,allowed
+2,89,allowed
+2,90,allowed
+2,91,allowed
+2,92,allowed
+2,93,not allowed
+2,94,not allowed
+2,95,not allowed
+2,96,allowed
+2,97,not allowed
+2,98,not allowed
+2,99,allowed
+2,100,not allowed
+3,1,allowed
+3,2,allowed
+3,3,allowed
+3,4,allowed
+3,5,allowed
+3,6,allowed
+3,7,allowed
+3,8,allowed
+3,9,allowed
+3,10,allowed
+3,11,allowed
+3,12,not allowed
+3,13,allowed
+3,14,allowed
+3,15,allowed
+3,16,allowed
+3,17,allowed
+3,18,allowed
+3,19,not allowed
+3,20,allowed
+3,21,allowed
+3,22,allowed
+3,23,allowed
+3,24,allowed
+3,25,allowed
+3,26,allowed
+3,27,allowed
+3,28,allowed
+3,29,allowed
+3,30,allowed
+3,31,allowed
+3,32,allowed
+3,33,allowed
+3,34,allowed
+3,35,allowed
+3,36,allowed
+3,37,allowed
+3,38,allowed
+3,39,allowed
+3,40,allowed
+3,41,allowed
+3,42,allowed
+3,43,allowed
+3,44,allowed
+3,45,allowed
+3,46,not allowed
+3,47,allowed
+3,48,allowed
+3,49,allowed
+3,50,allowed
+3,51,allowed
+3,52,allowed
+3,53,not allowed
+3,54,allowed
+3,55,allowed
+3,56,not allowed
+3,57,not allowed
+3,58,allowed
+3,59,not allowed
+3,60,allowed
+3,61,not allowed
+3,62,allowed
+3,63,allowed
+3,64,allowed
+3,65,allowed
+3,66,allowed
+3,67,allowed
+3,68,allowed
+3,69,allowed
+3,70,allowed
+3,71,allowed
+3,72,allowed
+3,73,allowed
+3,74,allowed
+3,75,allowed
+3,76,allowed
+3,77,not allowed
+3,78,not allowed
+3,79,not allowed
+3,80,allowed
+3,81,not allowed
+3,82,allowed
+3,83,allowed
+3,84,allowed
+3,85,allowed
+3,86,allowed
+3,87,not allowed
+3,88,allowed
+3,89,allowed
+3,90,allowed
+3,91,allowed
+3,92,allowed
+3,93,not allowed
+3,94,not allowed
+3,95,not allowed
+3,96,allowed
+3,97,not allowed
+3,98,not allowed
+3,99,allowed
+3,100,not allowed
+4,1,allowed
+4,2,allowed
+4,3,allowed
+4,4,allowed
+4,5,allowed
+4,6,allowed
+4,7,allowed
+4,8,allowed
+4,9,allowed
+4,10,allowed
+4,11,allowed
+4,12,not allowed
+4,13,allowed
+4,14,allowed
+4,15,allowed
+4,16,allowed
+4,17,allowed
+4,18,allowed
+4,19,not allowed
+4,20,allowed
+4,21,allowed
+4,22,allowed
+4,23,allowed
+4,24,allowed
+4,25,allowed
+4,26,allowed
+4,27,allowed
+4,28,allowed
+4,29,allowed
+4,30,allowed
+4,31,allowed
+4,32,allowed
+4,33,allowed
+4,34,allowed
+4,35,allowed
+4,36,allowed
+4,37,allowed
+4,38,allowed
+4,39,allowed
+4,40,allowed
+4,41,allowed
+4,42,allowed
+4,43,allowed
+4,44,allowed
+4,45,allowed
+4,46,not allowed
+4,47,allowed
+4,48,allowed
+4,49,allowed
+4,50,allowed
+4,51,allowed
+4,52,allowed
+4,53,not allowed
+4,54,allowed
+4,55,allowed
+4,56,not allowed
+4,57,not allowed
+4,58,allowed
+4,59,not allowed
+4,60,allowed
+4,61,not allowed
+4,62,allowed
+4,63,allowed
+4,64,allowed
+4,65,allowed
+4,66,allowed
+4,67,allowed
+4,68,allowed
+4,69,allowed
+4,70,allowed
+4,71,allowed
+4,72,allowed
+4,73,allowed
+4,74,allowed
+4,75,allowed
+4,76,allowed
+4,77,not allowed
+4,78,not allowed
+4,79,not allowed
+4,80,allowed
+4,81,not allowed
+4,82,allowed
+4,83,allowed
+4,84,allowed
+4,85,allowed
+4,86,allowed
+4,87,not allowed
+4,88,allowed
+4,89,allowed
+4,90,allowed
+4,91,allowed
+4,92,allowed
+4,93,not allowed
+4,94,not allowed
+4,95,not allowed
+4,96,allowed
+4,97,not allowed
+4,98,not allowed
+4,99,allowed
+4,100,not allowed
+5,1,allowed
+5,2,allowed
+5,3,allowed
+5,4,allowed
+5,5,allowed
+5,6,allowed
+5,7,allowed
+5,8,allowed
+5,9,allowed
+5,10,allowed
+5,11,allowed
+5,12,not allowed
+5,13,allowed
+5,14,allowed
+5,15,allowed
+5,16,allowed
+5,17,allowed
+5,18,allowed
+5,19,not allowed
+5,20,allowed
+5,21,allowed
+5,22,allowed
+5,23,allowed
+5,24,allowed
+5,25,allowed
+5,26,allowed
+5,27,allowed
+5,28,allowed
+5,29,allowed
+5,30,allowed
+5,31,allowed
+5,32,allowed
+5,33,allowed
+5,34,allowed
+5,35,allowed
+5,36,allowed
+5,37,allowed
+5,38,allowed
+5,39,allowed
+5,40,allowed
+5,41,allowed
+5,42,allowed
+5,43,allowed
+5,44,allowed
+5,45,allowed
+5,46,not allowed
+5,47,allowed
+5,48,allowed
+5,49,allowed
+5,50,allowed
+5,51,allowed
+5,52,allowed
+5,53,not allowed
+5,54,allowed
+5,55,allowed
+5,56,not allowed
+5,57,not allowed
+5,58,allowed
+5,59,not allowed
+5,60,allowed
+5,61,not allowed
+5,62,allowed
+5,63,allowed
+5,64,allowed
+5,65,allowed
+5,66,allowed
+5,67,allowed
+5,68,allowed
+5,69,allowed
+5,70,allowed
+5,71,allowed
+5,72,allowed
+5,73,allowed
+5,74,allowed
+5,75,allowed
+5,76,allowed
+5,77,not allowed
+5,78,not allowed
+5,79,not allowed
+5,80,allowed
+5,81,not allowed
+5,82,allowed
+5,83,allowed
+5,84,allowed
+5,85,allowed
+5,86,allowed
+5,87,not allowed
+5,88,allowed
+5,89,allowed
+5,90,allowed
+5,91,allowed
+5,92,allowed
+5,93,not allowed
+5,94,not allowed
+5,95,not allowed
+5,96,allowed
+5,97,not allowed
+5,98,not allowed
+5,99,allowed
+5,100,not allowed
+6,1,allowed
+6,2,allowed
+6,3,allowed
+6,4,allowed
+6,5,allowed
+6,6,allowed
+6,7,allowed
+6,8,allowed
+6,9,allowed
+6,10,allowed
+6,11,allowed
+6,12,not allowed
+6,13,allowed
+6,14,allowed
+6,15,allowed
+6,16,allowed
+6,17,allowed
+6,18,allowed
+6,19,not allowed
+6,20,allowed
+6,21,allowed
+6,22,allowed
+6,23,allowed
+6,24,allowed
+6,25,allowed
+6,26,allowed
+6,27,allowed
+6,28,allowed
+6,29,allowed
+6,30,allowed
+6,31,allowed
+6,32,allowed
+6,33,allowed
+6,34,allowed
+6,35,allowed
+6,36,allowed
+6,37,allowed
+6,38,allowed
+6,39,allowed
+6,40,allowed
+6,41,allowed
+6,42,allowed
+6,43,allowed
+6,44,allowed
+6,45,allowed
+6,46,not allowed
+6,47,allowed
+6,48,allowed
+6,49,allowed
+6,50,allowed
+6,51,allowed
+6,52,allowed
+6,53,not allowed
+6,54,allowed
+6,55,allowed
+6,56,not allowed
+6,57,not allowed
+6,58,allowed
+6,59,not allowed
+6,60,allowed
+6,61,not allowed
+6,62,allowed
+6,63,allowed
+6,64,allowed
+6,65,allowed
+6,66,allowed
+6,67,allowed
+6,68,allowed
+6,69,allowed
+6,70,allowed
+6,71,allowed
+6,72,allowed
+6,73,allowed
+6,74,allowed
+6,75,allowed
+6,76,allowed
+6,77,not allowed
+6,78,not allowed
+6,79,not allowed
+6,80,allowed
+6,81,not allowed
+6,82,allowed
+6,83,allowed
+6,84,allowed
+6,85,allowed
+6,86,allowed
+6,87,not allowed
+6,88,allowed
+6,89,allowed
+6,90,allowed
+6,91,allowed
+6,92,allowed
+6,93,not allowed
+6,94,not allowed
+6,95,not allowed
+6,96,allowed
+6,97,not allowed
+6,98,not allowed
+6,99,allowed
+6,100,not allowed
+7,1,allowed
+7,2,allowed
+7,3,allowed
+7,4,allowed
+7,5,allowed
+7,6,allowed
+7,7,allowed
+7,8,allowed
+7,9,allowed
+7,10,allowed
+7,11,allowed
+7,12,not allowed
+7,13,allowed
+7,14,allowed
+7,15,allowed
+7,16,allowed
+7,17,allowed
+7,18,allowed
+7,19,not allowed
+7,20,allowed
+7,21,allowed
+7,22,allowed
+7,23,allowed
+7,24,allowed
+7,25,allowed
+7,26,allowed
+7,27,allowed
+7,28,allowed
+7,29,allowed
+7,30,allowed
+7,31,allowed
+7,32,allowed
+7,33,allowed
+7,34,allowed
+7,35,allowed
+7,36,allowed
+7,37,allowed
+7,38,allowed
+7,39,allowed
+7,40,allowed
+7,41,allowed
+7,42,allowed
+7,43,allowed
+7,44,allowed
+7,45,allowed
+7,46,not allowed
+7,47,allowed
+7,48,allowed
+7,49,allowed
+7,50,allowed
+7,51,allowed
+7,52,allowed
+7,53,not allowed
+7,54,allowed
+7,55,allowed
+7,56,not allowed
+7,57,not allowed
+7,58,allowed
+7,59,not allowed
+7,60,allowed
+7,61,not allowed
+7,62,allowed
+7,63,allowed
+7,64,allowed
+7,65,allowed
+7,66,allowed
+7,67,allowed
+7,68,allowed
+7,69,allowed
+7,70,allowed
+7,71,allowed
+7,72,allowed
+7,73,allowed
+7,74,allowed
+7,75,allowed
+7,76,allowed
+7,77,not allowed
+7,78,not allowed
+7,79,not allowed
+7,80,allowed
+7,81,not allowed
+7,82,allowed
+7,83,allowed
+7,84,allowed
+7,85,allowed
+7,86,allowed
+7,87,not allowed
+7,88,allowed
+7,89,allowed
+7,90,allowed
+7,91,allowed
+7,92,allowed
+7,93,not allowed
+7,94,not allowed
+7,95,not allowed
+7,96,allowed
+7,97,not allowed
+7,98,not allowed
+7,99,allowed
+7,100,not allowed
+8,1,allowed
+8,2,allowed
+8,3,allowed
+8,4,allowed
+8,5,allowed
+8,6,allowed
+8,7,allowed
+8,8,allowed
+8,9,allowed
+8,10,allowed
+8,11,allowed
+8,12,not allowed
+8,13,allowed
+8,14,allowed
+8,15,allowed
+8,16,allowed
+8,17,allowed
+8,18,allowed
+8,19,not allowed
+8,20,allowed
+8,21,allowed
+8,22,allowed
+8,23,allowed
+8,24,allowed
+8,25,allowed
+8,26,allowed
+8,27,allowed
+8,28,allowed
+8,29,allowed
+8,30,allowed
+8,31,allowed
+8,32,allowed
+8,33,allowed
+8,34,allowed
+8,35,allowed
+8,36,allowed
+8,37,allowed
+8,38,allowed
+8,39,allowed
+8,40,allowed
+8,41,allowed
+8,42,allowed
+8,43,allowed
+8,44,allowed
+8,45,allowed
+8,46,not allowed
+8,47,allowed
+8,48,allowed
+8,49,allowed
+8,50,allowed
+8,51,allowed
+8,52,allowed
+8,53,not allowed
+8,54,allowed
+8,55,allowed
+8,56,not allowed
+8,57,not allowed
+8,58,allowed
+8,59,not allowed
+8,60,allowed
+8,61,not allowed
+8,62,allowed
+8,63,allowed
+8,64,allowed
+8,65,allowed
+8,66,allowed
+8,67,allowed
+8,68,allowed
+8,69,allowed
+8,70,allowed
+8,71,allowed
+8,72,allowed
+8,73,allowed
+8,74,allowed
+8,75,allowed
+8,76,allowed
+8,77,not allowed
+8,78,not allowed
+8,79,not allowed
+8,80,allowed
+8,81,not allowed
+8,82,allowed
+8,83,allowed
+8,84,allowed
+8,85,allowed
+8,86,allowed
+8,87,not allowed
+8,88,allowed
+8,89,allowed
+8,90,allowed
+8,91,allowed
+8,92,allowed
+8,93,not allowed
+8,94,not allowed
+8,95,not allowed
+8,96,allowed
+8,97,not allowed
+8,98,not allowed
+8,99,allowed
+8,100,not allowed
+9,1,allowed
+9,2,allowed
+9,3,allowed
+9,4,allowed
+9,5,allowed
+9,6,allowed
+9,7,allowed
+9,8,allowed
+9,9,allowed
+9,10,allowed
+9,11,allowed
+9,12,not allowed
+9,13,allowed
+9,14,allowed
+9,15,allowed
+9,16,allowed
+9,17,allowed
+9,18,allowed
+9,19,not allowed
+9,20,allowed
+9,21,allowed
+9,22,allowed
+9,23,allowed
+9,24,allowed
+9,25,allowed
+9,26,allowed
+9,27,allowed
+9,28,allowed
+9,29,allowed
+9,30,allowed
+9,31,allowed
+9,32,allowed
+9,33,allowed
+9,34,allowed
+9,35,allowed
+9,36,allowed
+9,37,allowed
+9,38,allowed
+9,39,allowed
+9,40,allowed
+9,41,allowed
+9,42,allowed
+9,43,allowed
+9,44,allowed
+9,45,allowed
+9,46,not allowed
+9,47,allowed
+9,48,allowed
+9,49,allowed
+9,50,allowed
+9,51,allowed
+9,52,allowed
+9,53,not allowed
+9,54,allowed
+9,55,allowed
+9,56,not allowed
+9,57,not allowed
+9,58,allowed
+9,59,not allowed
+9,60,allowed
+9,61,not allowed
+9,62,allowed
+9,63,allowed
+9,64,allowed
+9,65,allowed
+9,66,allowed
+9,67,allowed
+9,68,allowed
+9,69,allowed
+9,70,allowed
+9,71,allowed
+9,72,allowed
+9,73,allowed
+9,74,allowed
+9,75,allowed
+9,76,allowed
+9,77,not allowed
+9,78,not allowed
+9,79,not allowed
+9,80,allowed
+9,81,not allowed
+9,82,allowed
+9,83,allowed
+9,84,allowed
+9,85,allowed
+9,86,allowed
+9,87,not allowed
+9,88,allowed
+9,89,allowed
+9,90,allowed
+9,91,allowed
+9,92,allowed
+9,93,not allowed
+9,94,not allowed
+9,95,not allowed
+9,96,allowed
+9,97,not allowed
+9,98,not allowed
+9,99,allowed
+9,100,not allowed
+10,1,allowed
+10,2,allowed
+10,3,allowed
+10,4,allowed
+10,5,allowed
+10,6,allowed
+10,7,allowed
+10,8,allowed
+10,9,allowed
+10,10,allowed
+10,11,allowed
+10,12,not allowed
+10,13,allowed
+10,14,allowed
+10,15,allowed
+10,16,allowed
+10,17,allowed
+10,18,allowed
+10,19,not allowed
+10,20,allowed
+10,21,allowed
+10,22,allowed
+10,23,allowed
+10,24,allowed
+10,25,allowed
+10,26,allowed
+10,27,allowed
+10,28,allowed
+10,29,allowed
+10,30,allowed
+10,31,allowed
+10,32,allowed
+10,33,allowed
+10,34,allowed
+10,35,allowed
+10,36,allowed
+10,37,allowed
+10,38,allowed
+10,39,allowed
+10,40,allowed
+10,41,allowed
+10,42,allowed
+10,43,allowed
+10,44,allowed
+10,45,allowed
+10,46,not allowed
+10,47,allowed
+10,48,allowed
+10,49,allowed
+10,50,allowed
+10,51,allowed
+10,52,allowed
+10,53,not allowed
+10,54,allowed
+10,55,allowed
+10,56,not allowed
+10,57,not allowed
+10,58,allowed
+10,59,not allowed
+10,60,allowed
+10,61,not allowed
+10,62,allowed
+10,63,allowed
+10,64,allowed
+10,65,allowed
+10,66,allowed
+10,67,allowed
+10,68,allowed
+10,69,allowed
+10,70,allowed
+10,71,allowed
+10,72,allowed
+10,73,allowed
+10,74,allowed
+10,75,allowed
+10,76,allowed
+10,77,not allowed
+10,78,not allowed
+10,79,not allowed
+10,80,allowed
+10,81,not allowed
+10,82,allowed
+10,83,allowed
+10,84,allowed
+10,85,allowed
+10,86,allowed
+10,87,not allowed
+10,88,allowed
+10,89,allowed
+10,90,allowed
+10,91,allowed
+10,92,allowed
+10,93,not allowed
+10,94,not allowed
+10,95,not allowed
+10,96,allowed
+10,97,not allowed
+10,98,not allowed
+10,99,allowed
+10,100,not allowed
+11,1,allowed
+11,2,allowed
+11,3,allowed
+11,4,allowed
+11,5,allowed
+11,6,allowed
+11,7,allowed
+11,8,allowed
+11,9,allowed
+11,10,allowed
+11,11,allowed
+11,12,not allowed
+11,13,allowed
+11,14,allowed
+11,15,allowed
+11,16,allowed
+11,17,allowed
+11,18,allowed
+11,19,not allowed
+11,20,allowed
+11,21,allowed
+11,22,allowed
+11,23,allowed
+11,24,allowed
+11,25,allowed
+11,26,allowed
+11,27,allowed
+11,28,allowed
+11,29,allowed
+11,30,allowed
+11,31,allowed
+11,32,allowed
+11,33,allowed
+11,34,allowed
+11,35,allowed
+11,36,allowed
+11,37,allowed
+11,38,allowed
+11,39,allowed
+11,40,allowed
+11,41,allowed
+11,42,allowed
+11,43,allowed
+11,44,allowed
+11,45,allowed
+11,46,not allowed
+11,47,allowed
+11,48,allowed
+11,49,allowed
+11,50,allowed
+11,51,allowed
+11,52,allowed
+11,53,not allowed
+11,54,allowed
+11,55,allowed
+11,56,not allowed
+11,57,not allowed
+11,58,allowed
+11,59,not allowed
+11,60,allowed
+11,61,not allowed
+11,62,allowed
+11,63,allowed
+11,64,allowed
+11,65,allowed
+11,66,allowed
+11,67,allowed
+11,68,allowed
+11,69,allowed
+11,70,allowed
+11,71,allowed
+11,72,allowed
+11,73,allowed
+11,74,allowed
+11,75,allowed
+11,76,allowed
+11,77,not allowed
+11,78,not allowed
+11,79,not allowed
+11,80,allowed
+11,81,not allowed
+11,82,allowed
+11,83,allowed
+11,84,allowed
+11,85,allowed
+11,86,allowed
+11,87,not allowed
+11,88,allowed
+11,89,allowed
+11,90,allowed
+11,91,allowed
+11,92,allowed
+11,93,not allowed
+11,94,not allowed
+11,95,not allowed
+11,96,allowed
+11,97,not allowed
+11,98,not allowed
+11,99,allowed
+11,100,not allowed
+12,1,allowed
+12,2,allowed
+12,3,allowed
+12,4,allowed
+12,5,allowed
+12,6,allowed
+12,7,allowed
+12,8,allowed
+12,9,allowed
+12,10,allowed
+12,11,allowed
+12,12,not allowed
+12,13,allowed
+12,14,allowed
+12,15,allowed
+12,16,allowed
+12,17,allowed
+12,18,allowed
+12,19,not allowed
+12,20,allowed
+12,21,allowed
+12,22,allowed
+12,23,allowed
+12,24,allowed
+12,25,allowed
+12,26,allowed
+12,27,allowed
+12,28,allowed
+12,29,allowed
+12,30,allowed
+12,31,allowed
+12,32,allowed
+12,33,allowed
+12,34,allowed
+12,35,allowed
+12,36,allowed
+12,37,allowed
+12,38,allowed
+12,39,allowed
+12,40,allowed
+12,41,allowed
+12,42,allowed
+12,43,allowed
+12,44,allowed
+12,45,allowed
+12,46,not allowed
+12,47,allowed
+12,48,allowed
+12,49,allowed
+12,50,allowed
+12,51,allowed
+12,52,allowed
+12,53,not allowed
+12,54,allowed
+12,55,allowed
+12,56,not allowed
+12,57,not allowed
+12,58,allowed
+12,59,not allowed
+12,60,allowed
+12,61,not allowed
+12,62,allowed
+12,63,allowed
+12,64,allowed
+12,65,allowed
+12,66,allowed
+12,67,allowed
+12,68,allowed
+12,69,allowed
+12,70,allowed
+12,71,allowed
+12,72,allowed
+12,73,allowed
+12,74,allowed
+12,75,allowed
+12,76,allowed
+12,77,not allowed
+12,78,not allowed
+12,79,not allowed
+12,80,allowed
+12,81,not allowed
+12,82,allowed
+12,83,allowed
+12,84,allowed
+12,85,allowed
+12,86,allowed
+12,87,not allowed
+12,88,allowed
+12,89,allowed
+12,90,allowed
+12,91,allowed
+12,92,allowed
+12,93,not allowed
+12,94,not allowed
+12,95,not allowed
+12,96,allowed
+12,97,not allowed
+12,98,not allowed
+12,99,allowed
+12,100,not allowed
+13,1,allowed
+13,2,allowed
+13,3,allowed
+13,4,allowed
+13,5,allowed
+13,6,allowed
+13,7,allowed
+13,8,allowed
+13,9,allowed
+13,10,allowed
+13,11,allowed
+13,12,not allowed
+13,13,allowed
+13,14,allowed
+13,15,allowed
+13,16,allowed
+13,17,allowed
+13,18,allowed
+13,19,not allowed
+13,20,allowed
+13,21,allowed
+13,22,allowed
+13,23,allowed
+13,24,allowed
+13,25,allowed
+13,26,allowed
+13,27,allowed
+13,28,allowed
+13,29,allowed
+13,30,allowed
+13,31,allowed
+13,32,allowed
+13,33,allowed
+13,34,allowed
+13,35,allowed
+13,36,allowed
+13,37,allowed
+13,38,allowed
+13,39,allowed
+13,40,allowed
+13,41,allowed
+13,42,allowed
+13,43,allowed
+13,44,allowed
+13,45,allowed
+13,46,not allowed
+13,47,allowed
+13,48,allowed
+13,49,allowed
+13,50,allowed
+13,51,allowed
+13,52,allowed
+13,53,not allowed
+13,54,allowed
+13,55,allowed
+13,56,not allowed
+13,57,not allowed
+13,58,allowed
+13,59,not allowed
+13,60,allowed
+13,61,not allowed
+13,62,allowed
+13,63,allowed
+13,64,allowed
+13,65,allowed
+13,66,allowed
+13,67,allowed
+13,68,allowed
+13,69,allowed
+13,70,allowed
+13,71,allowed
+13,72,allowed
+13,73,allowed
+13,74,allowed
+13,75,allowed
+13,76,allowed
+13,77,not allowed
+13,78,not allowed
+13,79,not allowed
+13,80,allowed
+13,81,not allowed
+13,82,allowed
+13,83,allowed
+13,84,allowed
+13,85,allowed
+13,86,allowed
+13,87,not allowed
+13,88,allowed
+13,89,allowed
+13,90,allowed
+13,91,allowed
+13,92,allowed
+13,93,not allowed
+13,94,not allowed
+13,95,not allowed
+13,96,allowed
+13,97,not allowed
+13,98,not allowed
+13,99,allowed
+13,100,not allowed
+14,1,allowed
+14,2,allowed
+14,3,allowed
+14,4,allowed
+14,5,allowed
+14,6,allowed
+14,7,allowed
+14,8,allowed
+14,9,allowed
+14,10,allowed
+14,11,allowed
+14,12,not allowed
+14,13,allowed
+14,14,allowed
+14,15,allowed
+14,16,allowed
+14,17,allowed
+14,18,allowed
+14,19,not allowed
+14,20,allowed
+14,21,allowed
+14,22,allowed
+14,23,allowed
+14,24,allowed
+14,25,allowed
+14,26,allowed
+14,27,allowed
+14,28,allowed
+14,29,allowed
+14,30,allowed
+14,31,allowed
+14,32,allowed
+14,33,allowed
+14,34,allowed
+14,35,allowed
+14,36,allowed
+14,37,allowed
+14,38,allowed
+14,39,allowed
+14,40,allowed
+14,41,allowed
+14,42,allowed
+14,43,allowed
+14,44,allowed
+14,45,allowed
+14,46,not allowed
+14,47,allowed
+14,48,allowed
+14,49,allowed
+14,50,allowed
+14,51,allowed
+14,52,allowed
+14,53,not allowed
+14,54,allowed
+14,55,allowed
+14,56,not allowed
+14,57,not allowed
+14,58,allowed
+14,59,not allowed
+14,60,allowed
+14,61,not allowed
+14,62,allowed
+14,63,allowed
+14,64,allowed
+14,65,allowed
+14,66,allowed
+14,67,allowed
+14,68,allowed
+14,69,allowed
+14,70,allowed
+14,71,allowed
+14,72,allowed
+14,73,allowed
+14,74,allowed
+14,75,allowed
+14,76,allowed
+14,77,not allowed
+14,78,not allowed
+14,79,not allowed
+14,80,allowed
+14,81,not allowed
+14,82,allowed
+14,83,allowed
+14,84,allowed
+14,85,allowed
+14,86,allowed
+14,87,not allowed
+14,88,allowed
+14,89,allowed
+14,90,allowed
+14,91,allowed
+14,92,allowed
+14,93,not allowed
+14,94,not allowed
+14,95,not allowed
+14,96,allowed
+14,97,not allowed
+14,98,not allowed
+14,99,allowed
+14,100,not allowed
+15,1,allowed
+15,2,allowed
+15,3,allowed
+15,4,allowed
+15,5,allowed
+15,6,allowed
+15,7,allowed
+15,8,allowed
+15,9,allowed
+15,10,allowed
+15,11,allowed
+15,12,not allowed
+15,13,allowed
+15,14,allowed
+15,15,allowed
+15,16,allowed
+15,17,allowed
+15,18,allowed
+15,19,not allowed
+15,20,allowed
+15,21,allowed
+15,22,allowed
+15,23,allowed
+15,24,allowed
+15,25,allowed
+15,26,allowed
+15,27,allowed
+15,28,allowed
+15,29,allowed
+15,30,allowed
+15,31,allowed
+15,32,allowed
+15,33,allowed
+15,34,allowed
+15,35,not allowed
+15,36,allowed
+15,37,not allowed
+15,38,not allowed
+15,39,allowed
+15,40,allowed
+15,41,allowed
+15,42,allowed
+15,43,allowed
+15,44,allowed
+15,45,allowed
+15,46,allowed
+15,47,allowed
+15,48,allowed
+15,49,allowed
+15,50,allowed
+15,51,allowed
+15,52,allowed
+15,53,allowed
+15,54,allowed
+15,55,allowed
+15,56,allowed
+15,57,not allowed
+15,58,allowed
+15,59,allowed
+15,60,allowed
+15,61,not allowed
+15,62,allowed
+15,63,allowed
+15,64,allowed
+15,65,allowed
+15,66,allowed
+15,67,allowed
+15,68,allowed
+15,69,allowed
+15,70,allowed
+15,71,allowed
+15,72,allowed
+15,73,allowed
+15,74,allowed
+15,75,allowed
+15,76,allowed
+15,77,not allowed
+15,78,not allowed
+15,79,not allowed
+15,80,allowed
+15,81,not allowed
+15,82,not allowed
+15,83,allowed
+15,84,allowed
+15,85,allowed
+15,86,allowed
+15,87,not allowed
+15,88,allowed
+15,89,allowed
+15,90,not allowed
+15,91,allowed
+15,92,allowed
+15,93,not allowed
+15,94,not allowed
+15,95,not allowed
+15,96,allowed
+15,97,not allowed
+15,98,not allowed
+15,99,allowed
+15,100,not allowed
+16,1,allowed
+16,2,allowed
+16,3,allowed
+16,4,allowed
+16,5,allowed
+16,6,allowed
+16,7,allowed
+16,8,allowed
+16,9,allowed
+16,10,allowed
+16,11,allowed
+16,12,not allowed
+16,13,allowed
+16,14,allowed
+16,15,allowed
+16,16,allowed
+16,17,allowed
+16,18,allowed
+16,19,not allowed
+16,20,allowed
+16,21,allowed
+16,22,allowed
+16,23,allowed
+16,24,allowed
+16,25,allowed
+16,26,allowed
+16,27,allowed
+16,28,allowed
+16,29,allowed
+16,30,allowed
+16,31,allowed
+16,32,allowed
+16,33,allowed
+16,34,allowed
+16,35,not allowed
+16,36,allowed
+16,37,not allowed
+16,38,not allowed
+16,39,allowed
+16,40,allowed
+16,41,allowed
+16,42,allowed
+16,43,allowed
+16,44,allowed
+16,45,allowed
+16,46,allowed
+16,47,allowed
+16,48,allowed
+16,49,allowed
+16,50,allowed
+16,51,allowed
+16,52,allowed
+16,53,allowed
+16,54,allowed
+16,55,allowed
+16,56,allowed
+16,57,not allowed
+16,58,allowed
+16,59,allowed
+16,60,allowed
+16,61,not allowed
+16,62,allowed
+16,63,allowed
+16,64,allowed
+16,65,allowed
+16,66,allowed
+16,67,allowed
+16,68,allowed
+16,69,allowed
+16,70,allowed
+16,71,allowed
+16,72,allowed
+16,73,allowed
+16,74,allowed
+16,75,allowed
+16,76,allowed
+16,77,not allowed
+16,78,not allowed
+16,79,not allowed
+16,80,allowed
+16,81,not allowed
+16,82,not allowed
+16,83,allowed
+16,84,allowed
+16,85,allowed
+16,86,allowed
+16,87,not allowed
+16,88,allowed
+16,89,allowed
+16,90,not allowed
+16,91,allowed
+16,92,allowed
+16,93,not allowed
+16,94,not allowed
+16,95,not allowed
+16,96,allowed
+16,97,not allowed
+16,98,not allowed
+16,99,allowed
+16,100,not allowed
+17,1,allowed
+17,2,allowed
+17,3,allowed
+17,4,allowed
+17,5,allowed
+17,6,allowed
+17,7,allowed
+17,8,allowed
+17,9,allowed
+17,10,allowed
+17,11,allowed
+17,12,not allowed
+17,13,allowed
+17,14,allowed
+17,15,allowed
+17,16,allowed
+17,17,allowed
+17,18,allowed
+17,19,not allowed
+17,20,allowed
+17,21,allowed
+17,22,allowed
+17,23,allowed
+17,24,allowed
+17,25,allowed
+17,26,allowed
+17,27,allowed
+17,28,allowed
+17,29,allowed
+17,30,allowed
+17,31,allowed
+17,32,allowed
+17,33,allowed
+17,34,allowed
+17,35,not allowed
+17,36,allowed
+17,37,not allowed
+17,38,not allowed
+17,39,allowed
+17,40,allowed
+17,41,allowed
+17,42,allowed
+17,43,allowed
+17,44,allowed
+17,45,allowed
+17,46,allowed
+17,47,allowed
+17,48,allowed
+17,49,allowed
+17,50,allowed
+17,51,allowed
+17,52,allowed
+17,53,allowed
+17,54,allowed
+17,55,allowed
+17,56,allowed
+17,57,not allowed
+17,58,allowed
+17,59,allowed
+17,60,allowed
+17,61,not allowed
+17,62,allowed
+17,63,allowed
+17,64,allowed
+17,65,allowed
+17,66,allowed
+17,67,allowed
+17,68,allowed
+17,69,allowed
+17,70,allowed
+17,71,allowed
+17,72,allowed
+17,73,allowed
+17,74,allowed
+17,75,allowed
+17,76,allowed
+17,77,not allowed
+17,78,not allowed
+17,79,not allowed
+17,80,allowed
+17,81,not allowed
+17,82,not allowed
+17,83,allowed
+17,84,allowed
+17,85,allowed
+17,86,allowed
+17,87,not allowed
+17,88,allowed
+17,89,allowed
+17,90,not allowed
+17,91,allowed
+17,92,allowed
+17,93,not allowed
+17,94,not allowed
+17,95,not allowed
+17,96,allowed
+17,97,not allowed
+17,98,not allowed
+17,99,allowed
+17,100,not allowed
+18,1,allowed
+18,2,allowed
+18,3,allowed
+18,4,allowed
+18,5,allowed
+18,6,allowed
+18,7,allowed
+18,8,allowed
+18,9,allowed
+18,10,allowed
+18,11,allowed
+18,12,not allowed
+18,13,allowed
+18,14,allowed
+18,15,allowed
+18,16,allowed
+18,17,allowed
+18,18,allowed
+18,19,not allowed
+18,20,allowed
+18,21,allowed
+18,22,allowed
+18,23,allowed
+18,24,allowed
+18,25,allowed
+18,26,allowed
+18,27,allowed
+18,28,allowed
+18,29,allowed
+18,30,allowed
+18,31,allowed
+18,32,allowed
+18,33,allowed
+18,34,allowed
+18,35,not allowed
+18,36,allowed
+18,37,not allowed
+18,38,not allowed
+18,39,allowed
+18,40,allowed
+18,41,allowed
+18,42,allowed
+18,43,allowed
+18,44,allowed
+18,45,allowed
+18,46,allowed
+18,47,allowed
+18,48,allowed
+18,49,allowed
+18,50,allowed
+18,51,allowed
+18,52,allowed
+18,53,allowed
+18,54,allowed
+18,55,allowed
+18,56,allowed
+18,57,not allowed
+18,58,allowed
+18,59,allowed
+18,60,allowed
+18,61,not allowed
+18,62,allowed
+18,63,allowed
+18,64,allowed
+18,65,allowed
+18,66,allowed
+18,67,allowed
+18,68,allowed
+18,69,allowed
+18,70,allowed
+18,71,allowed
+18,72,allowed
+18,73,allowed
+18,74,allowed
+18,75,allowed
+18,76,allowed
+18,77,not allowed
+18,78,not allowed
+18,79,not allowed
+18,80,allowed
+18,81,not allowed
+18,82,not allowed
+18,83,allowed
+18,84,allowed
+18,85,allowed
+18,86,allowed
+18,87,not allowed
+18,88,allowed
+18,89,allowed
+18,90,not allowed
+18,91,allowed
+18,92,allowed
+18,93,not allowed
+18,94,not allowed
+18,95,not allowed
+18,96,allowed
+18,97,not allowed
+18,98,not allowed
+18,99,allowed
+18,100,not allowed
+19,1,allowed
+19,2,allowed
+19,3,allowed
+19,4,allowed
+19,5,allowed
+19,6,allowed
+19,7,allowed
+19,8,allowed
+19,9,allowed
+19,10,allowed
+19,11,allowed
+19,12,not allowed
+19,13,allowed
+19,14,allowed
+19,15,allowed
+19,16,allowed
+19,17,allowed
+19,18,allowed
+19,19,not allowed
+19,20,allowed
+19,21,allowed
+19,22,allowed
+19,23,allowed
+19,24,allowed
+19,25,allowed
+19,26,allowed
+19,27,allowed
+19,28,allowed
+19,29,allowed
+19,30,allowed
+19,31,allowed
+19,32,allowed
+19,33,allowed
+19,34,allowed
+19,35,not allowed
+19,36,allowed
+19,37,not allowed
+19,38,not allowed
+19,39,allowed
+19,40,allowed
+19,41,allowed
+19,42,allowed
+19,43,allowed
+19,44,allowed
+19,45,allowed
+19,46,allowed
+19,47,allowed
+19,48,allowed
+19,49,allowed
+19,50,allowed
+19,51,allowed
+19,52,allowed
+19,53,allowed
+19,54,allowed
+19,55,allowed
+19,56,allowed
+19,57,not allowed
+19,58,allowed
+19,59,allowed
+19,60,allowed
+19,61,not allowed
+19,62,allowed
+19,63,allowed
+19,64,allowed
+19,65,allowed
+19,66,allowed
+19,67,allowed
+19,68,allowed
+19,69,allowed
+19,70,allowed
+19,71,allowed
+19,72,allowed
+19,73,allowed
+19,74,allowed
+19,75,allowed
+19,76,allowed
+19,77,not allowed
+19,78,not allowed
+19,79,not allowed
+19,80,allowed
+19,81,not allowed
+19,82,not allowed
+19,83,allowed
+19,84,allowed
+19,85,allowed
+19,86,allowed
+19,87,not allowed
+19,88,allowed
+19,89,allowed
+19,90,not allowed
+19,91,allowed
+19,92,allowed
+19,93,not allowed
+19,94,not allowed
+19,95,not allowed
+19,96,allowed
+19,97,not allowed
+19,98,not allowed
+19,99,allowed
+19,100,not allowed
+20,1,allowed
+20,2,allowed
+20,3,allowed
+20,4,allowed
+20,5,allowed
+20,6,allowed
+20,7,allowed
+20,8,allowed
+20,9,allowed
+20,10,allowed
+20,11,allowed
+20,12,not allowed
+20,13,allowed
+20,14,allowed
+20,15,allowed
+20,16,allowed
+20,17,allowed
+20,18,allowed
+20,19,not allowed
+20,20,allowed
+20,21,allowed
+20,22,allowed
+20,23,allowed
+20,24,allowed
+20,25,allowed
+20,26,allowed
+20,27,allowed
+20,28,allowed
+20,29,allowed
+20,30,allowed
+20,31,allowed
+20,32,allowed
+20,33,allowed
+20,34,allowed
+20,35,not allowed
+20,36,allowed
+20,37,not allowed
+20,38,not allowed
+20,39,allowed
+20,40,allowed
+20,41,allowed
+20,42,allowed
+20,43,allowed
+20,44,allowed
+20,45,allowed
+20,46,allowed
+20,47,allowed
+20,48,allowed
+20,49,allowed
+20,50,allowed
+20,51,allowed
+20,52,allowed
+20,53,allowed
+20,54,allowed
+20,55,allowed
+20,56,allowed
+20,57,not allowed
+20,58,allowed
+20,59,allowed
+20,60,allowed
+20,61,not allowed
+20,62,allowed
+20,63,allowed
+20,64,allowed
+20,65,allowed
+20,66,allowed
+20,67,allowed
+20,68,allowed
+20,69,allowed
+20,70,allowed
+20,71,allowed
+20,72,allowed
+20,73,allowed
+20,74,allowed
+20,75,allowed
+20,76,allowed
+20,77,not allowed
+20,78,not allowed
+20,79,not allowed
+20,80,allowed
+20,81,not allowed
+20,82,not allowed
+20,83,allowed
+20,84,allowed
+20,85,allowed
+20,86,allowed
+20,87,not allowed
+20,88,allowed
+20,89,allowed
+20,90,not allowed
+20,91,allowed
+20,92,allowed
+20,93,not allowed
+20,94,not allowed
+20,95,not allowed
+20,96,allowed
+20,97,not allowed
+20,98,not allowed
+20,99,allowed
+20,100,not allowed
+21,1,allowed
+21,2,allowed
+21,3,allowed
+21,4,allowed
+21,5,allowed
+21,6,allowed
+21,7,allowed
+21,8,allowed
+21,9,allowed
+21,10,allowed
+21,11,allowed
+21,12,not allowed
+21,13,allowed
+21,14,allowed
+21,15,allowed
+21,16,allowed
+21,17,allowed
+21,18,allowed
+21,19,not allowed
+21,20,allowed
+21,21,allowed
+21,22,allowed
+21,23,allowed
+21,24,allowed
+21,25,allowed
+21,26,allowed
+21,27,allowed
+21,28,allowed
+21,29,allowed
+21,30,allowed
+21,31,allowed
+21,32,allowed
+21,33,allowed
+21,34,allowed
+21,35,not allowed
+21,36,allowed
+21,37,not allowed
+21,38,not allowed
+21,39,allowed
+21,40,allowed
+21,41,allowed
+21,42,allowed
+21,43,allowed
+21,44,allowed
+21,45,allowed
+21,46,allowed
+21,47,allowed
+21,48,allowed
+21,49,allowed
+21,50,allowed
+21,51,allowed
+21,52,allowed
+21,53,allowed
+21,54,allowed
+21,55,allowed
+21,56,allowed
+21,57,not allowed
+21,58,allowed
+21,59,allowed
+21,60,allowed
+21,61,not allowed
+21,62,allowed
+21,63,allowed
+21,64,allowed
+21,65,allowed
+21,66,allowed
+21,67,allowed
+21,68,allowed
+21,69,allowed
+21,70,allowed
+21,71,allowed
+21,72,allowed
+21,73,allowed
+21,74,allowed
+21,75,allowed
+21,76,allowed
+21,77,not allowed
+21,78,not allowed
+21,79,not allowed
+21,80,allowed
+21,81,not allowed
+21,82,not allowed
+21,83,allowed
+21,84,allowed
+21,85,allowed
+21,86,allowed
+21,87,not allowed
+21,88,allowed
+21,89,allowed
+21,90,not allowed
+21,91,allowed
+21,92,allowed
+21,93,not allowed
+21,94,not allowed
+21,95,not allowed
+21,96,allowed
+21,97,not allowed
+21,98,not allowed
+21,99,allowed
+21,100,not allowed
+22,1,allowed
+22,2,allowed
+22,3,allowed
+22,4,allowed
+22,5,allowed
+22,6,allowed
+22,7,allowed
+22,8,allowed
+22,9,allowed
+22,10,allowed
+22,11,allowed
+22,12,not allowed
+22,13,allowed
+22,14,allowed
+22,15,allowed
+22,16,allowed
+22,17,allowed
+22,18,allowed
+22,19,not allowed
+22,20,allowed
+22,21,allowed
+22,22,allowed
+22,23,allowed
+22,24,allowed
+22,25,allowed
+22,26,allowed
+22,27,allowed
+22,28,allowed
+22,29,allowed
+22,30,allowed
+22,31,allowed
+22,32,allowed
+22,33,allowed
+22,34,allowed
+22,35,not allowed
+22,36,allowed
+22,37,not allowed
+22,38,not allowed
+22,39,allowed
+22,40,allowed
+22,41,allowed
+22,42,allowed
+22,43,allowed
+22,44,allowed
+22,45,allowed
+22,46,allowed
+22,47,allowed
+22,48,allowed
+22,49,allowed
+22,50,allowed
+22,51,allowed
+22,52,allowed
+22,53,allowed
+22,54,allowed
+22,55,allowed
+22,56,allowed
+22,57,not allowed
+22,58,allowed
+22,59,allowed
+22,60,allowed
+22,61,not allowed
+22,62,allowed
+22,63,allowed
+22,64,allowed
+22,65,allowed
+22,66,allowed
+22,67,allowed
+22,68,allowed
+22,69,allowed
+22,70,allowed
+22,71,allowed
+22,72,allowed
+22,73,allowed
+22,74,allowed
+22,75,allowed
+22,76,allowed
+22,77,not allowed
+22,78,not allowed
+22,79,not allowed
+22,80,allowed
+22,81,not allowed
+22,82,not allowed
+22,83,allowed
+22,84,allowed
+22,85,allowed
+22,86,allowed
+22,87,not allowed
+22,88,allowed
+22,89,allowed
+22,90,not allowed
+22,91,allowed
+22,92,allowed
+22,93,not allowed
+22,94,not allowed
+22,95,not allowed
+22,96,allowed
+22,97,not allowed
+22,98,not allowed
+22,99,allowed
+22,100,not allowed
+23,1,allowed
+23,2,allowed
+23,3,allowed
+23,4,allowed
+23,5,allowed
+23,6,allowed
+23,7,allowed
+23,8,allowed
+23,9,allowed
+23,10,allowed
+23,11,allowed
+23,12,not allowed
+23,13,allowed
+23,14,allowed
+23,15,allowed
+23,16,allowed
+23,17,allowed
+23,18,allowed
+23,19,not allowed
+23,20,allowed
+23,21,allowed
+23,22,allowed
+23,23,allowed
+23,24,allowed
+23,25,allowed
+23,26,allowed
+23,27,allowed
+23,28,allowed
+23,29,allowed
+23,30,allowed
+23,31,allowed
+23,32,allowed
+23,33,allowed
+23,34,allowed
+23,35,not allowed
+23,36,allowed
+23,37,not allowed
+23,38,not allowed
+23,39,allowed
+23,40,allowed
+23,41,allowed
+23,42,allowed
+23,43,allowed
+23,44,allowed
+23,45,allowed
+23,46,allowed
+23,47,allowed
+23,48,allowed
+23,49,allowed
+23,50,allowed
+23,51,allowed
+23,52,allowed
+23,53,allowed
+23,54,allowed
+23,55,allowed
+23,56,allowed
+23,57,not allowed
+23,58,allowed
+23,59,allowed
+23,60,allowed
+23,61,not allowed
+23,62,allowed
+23,63,allowed
+23,64,allowed
+23,65,allowed
+23,66,allowed
+23,67,allowed
+23,68,allowed
+23,69,allowed
+23,70,allowed
+23,71,allowed
+23,72,allowed
+23,73,allowed
+23,74,allowed
+23,75,allowed
+23,76,allowed
+23,77,not allowed
+23,78,not allowed
+23,79,not allowed
+23,80,allowed
+23,81,not allowed
+23,82,not allowed
+23,83,allowed
+23,84,allowed
+23,85,allowed
+23,86,allowed
+23,87,not allowed
+23,88,allowed
+23,89,allowed
+23,90,not allowed
+23,91,allowed
+23,92,allowed
+23,93,not allowed
+23,94,not allowed
+23,95,not allowed
+23,96,allowed
+23,97,not allowed
+23,98,not allowed
+23,99,allowed
+23,100,not allowed
+24,1,allowed
+24,2,allowed
+24,3,allowed
+24,4,allowed
+24,5,allowed
+24,6,allowed
+24,7,allowed
+24,8,allowed
+24,9,allowed
+24,10,allowed
+24,11,allowed
+24,12,not allowed
+24,13,allowed
+24,14,allowed
+24,15,allowed
+24,16,allowed
+24,17,allowed
+24,18,allowed
+24,19,not allowed
+24,20,allowed
+24,21,allowed
+24,22,allowed
+24,23,allowed
+24,24,allowed
+24,25,allowed
+24,26,allowed
+24,27,allowed
+24,28,allowed
+24,29,allowed
+24,30,allowed
+24,31,allowed
+24,32,allowed
+24,33,allowed
+24,34,allowed
+24,35,not allowed
+24,36,allowed
+24,37,not allowed
+24,38,not allowed
+24,39,allowed
+24,40,allowed
+24,41,allowed
+24,42,allowed
+24,43,allowed
+24,44,allowed
+24,45,allowed
+24,46,allowed
+24,47,allowed
+24,48,allowed
+24,49,allowed
+24,50,allowed
+24,51,allowed
+24,52,allowed
+24,53,allowed
+24,54,allowed
+24,55,allowed
+24,56,allowed
+24,57,not allowed
+24,58,allowed
+24,59,allowed
+24,60,allowed
+24,61,not allowed
+24,62,allowed
+24,63,allowed
+24,64,allowed
+24,65,allowed
+24,66,allowed
+24,67,allowed
+24,68,allowed
+24,69,allowed
+24,70,allowed
+24,71,allowed
+24,72,allowed
+24,73,allowed
+24,74,allowed
+24,75,allowed
+24,76,allowed
+24,77,not allowed
+24,78,not allowed
+24,79,not allowed
+24,80,allowed
+24,81,not allowed
+24,82,not allowed
+24,83,allowed
+24,84,allowed
+24,85,allowed
+24,86,allowed
+24,87,not allowed
+24,88,allowed
+24,89,allowed
+24,90,not allowed
+24,91,allowed
+24,92,allowed
+24,93,not allowed
+24,94,not allowed
+24,95,not allowed
+24,96,allowed
+24,97,not allowed
+24,98,not allowed
+24,99,allowed
+24,100,not allowed
+25,1,allowed
+25,2,allowed
+25,3,allowed
+25,4,allowed
+25,5,allowed
+25,6,allowed
+25,7,allowed
+25,8,allowed
+25,9,allowed
+25,10,allowed
+25,11,allowed
+25,12,not allowed
+25,13,allowed
+25,14,allowed
+25,15,allowed
+25,16,allowed
+25,17,allowed
+25,18,allowed
+25,19,not allowed
+25,20,allowed
+25,21,allowed
+25,22,allowed
+25,23,allowed
+25,24,allowed
+25,25,allowed
+25,26,allowed
+25,27,allowed
+25,28,allowed
+25,29,allowed
+25,30,allowed
+25,31,allowed
+25,32,allowed
+25,33,allowed
+25,34,allowed
+25,35,not allowed
+25,36,allowed
+25,37,not allowed
+25,38,not allowed
+25,39,allowed
+25,40,allowed
+25,41,allowed
+25,42,allowed
+25,43,allowed
+25,44,allowed
+25,45,allowed
+25,46,allowed
+25,47,allowed
+25,48,allowed
+25,49,allowed
+25,50,allowed
+25,51,allowed
+25,52,allowed
+25,53,allowed
+25,54,allowed
+25,55,allowed
+25,56,allowed
+25,57,not allowed
+25,58,allowed
+25,59,allowed
+25,60,allowed
+25,61,not allowed
+25,62,allowed
+25,63,allowed
+25,64,allowed
+25,65,allowed
+25,66,allowed
+25,67,allowed
+25,68,allowed
+25,69,allowed
+25,70,allowed
+25,71,allowed
+25,72,allowed
+25,73,allowed
+25,74,allowed
+25,75,allowed
+25,76,allowed
+25,77,not allowed
+25,78,not allowed
+25,79,not allowed
+25,80,allowed
+25,81,not allowed
+25,82,not allowed
+25,83,allowed
+25,84,allowed
+25,85,allowed
+25,86,allowed
+25,87,not allowed
+25,88,allowed
+25,89,allowed
+25,90,not allowed
+25,91,allowed
+25,92,allowed
+25,93,not allowed
+25,94,not allowed
+25,95,not allowed
+25,96,allowed
+25,97,not allowed
+25,98,not allowed
+25,99,allowed
+25,100,not allowed
+26,1,allowed
+26,2,allowed
+26,3,allowed
+26,4,allowed
+26,5,allowed
+26,6,allowed
+26,7,allowed
+26,8,allowed
+26,9,allowed
+26,10,allowed
+26,11,allowed
+26,12,not allowed
+26,13,allowed
+26,14,allowed
+26,15,allowed
+26,16,allowed
+26,17,allowed
+26,18,allowed
+26,19,not allowed
+26,20,allowed
+26,21,allowed
+26,22,allowed
+26,23,allowed
+26,24,allowed
+26,25,allowed
+26,26,allowed
+26,27,allowed
+26,28,allowed
+26,29,allowed
+26,30,allowed
+26,31,allowed
+26,32,allowed
+26,33,allowed
+26,34,allowed
+26,35,not allowed
+26,36,allowed
+26,37,not allowed
+26,38,not allowed
+26,39,allowed
+26,40,allowed
+26,41,allowed
+26,42,allowed
+26,43,allowed
+26,44,allowed
+26,45,allowed
+26,46,allowed
+26,47,allowed
+26,48,allowed
+26,49,allowed
+26,50,allowed
+26,51,allowed
+26,52,allowed
+26,53,allowed
+26,54,allowed
+26,55,allowed
+26,56,allowed
+26,57,not allowed
+26,58,allowed
+26,59,allowed
+26,60,allowed
+26,61,not allowed
+26,62,allowed
+26,63,allowed
+26,64,allowed
+26,65,allowed
+26,66,allowed
+26,67,allowed
+26,68,allowed
+26,69,allowed
+26,70,allowed
+26,71,allowed
+26,72,allowed
+26,73,allowed
+26,74,allowed
+26,75,allowed
+26,76,allowed
+26,77,not allowed
+26,78,not allowed
+26,79,not allowed
+26,80,allowed
+26,81,not allowed
+26,82,not allowed
+26,83,allowed
+26,84,allowed
+26,85,allowed
+26,86,allowed
+26,87,not allowed
+26,88,allowed
+26,89,allowed
+26,90,not allowed
+26,91,allowed
+26,92,allowed
+26,93,not allowed
+26,94,not allowed
+26,95,not allowed
+26,96,allowed
+26,97,not allowed
+26,98,not allowed
+26,99,allowed
+26,100,not allowed
+27,1,allowed
+27,2,allowed
+27,3,allowed
+27,4,allowed
+27,5,allowed
+27,6,allowed
+27,7,allowed
+27,8,allowed
+27,9,allowed
+27,10,allowed
+27,11,allowed
+27,12,not allowed
+27,13,allowed
+27,14,allowed
+27,15,allowed
+27,16,allowed
+27,17,allowed
+27,18,allowed
+27,19,not allowed
+27,20,allowed
+27,21,allowed
+27,22,allowed
+27,23,allowed
+27,24,allowed
+27,25,allowed
+27,26,allowed
+27,27,allowed
+27,28,allowed
+27,29,allowed
+27,30,allowed
+27,31,allowed
+27,32,allowed
+27,33,allowed
+27,34,allowed
+27,35,not allowed
+27,36,allowed
+27,37,not allowed
+27,38,not allowed
+27,39,allowed
+27,40,allowed
+27,41,allowed
+27,42,allowed
+27,43,allowed
+27,44,allowed
+27,45,allowed
+27,46,allowed
+27,47,allowed
+27,48,allowed
+27,49,allowed
+27,50,allowed
+27,51,allowed
+27,52,allowed
+27,53,allowed
+27,54,allowed
+27,55,allowed
+27,56,allowed
+27,57,not allowed
+27,58,allowed
+27,59,allowed
+27,60,allowed
+27,61,not allowed
+27,62,allowed
+27,63,allowed
+27,64,allowed
+27,65,allowed
+27,66,allowed
+27,67,allowed
+27,68,allowed
+27,69,allowed
+27,70,allowed
+27,71,allowed
+27,72,allowed
+27,73,allowed
+27,74,allowed
+27,75,allowed
+27,76,allowed
+27,77,not allowed
+27,78,not allowed
+27,79,not allowed
+27,80,allowed
+27,81,not allowed
+27,82,not allowed
+27,83,allowed
+27,84,allowed
+27,85,allowed
+27,86,allowed
+27,87,not allowed
+27,88,allowed
+27,89,allowed
+27,90,not allowed
+27,91,allowed
+27,92,allowed
+27,93,not allowed
+27,94,not allowed
+27,95,not allowed
+27,96,allowed
+27,97,not allowed
+27,98,not allowed
+27,99,allowed
+27,100,not allowed
+28,1,allowed
+28,2,allowed
+28,3,allowed
+28,4,allowed
+28,5,allowed
+28,6,allowed
+28,7,allowed
+28,8,allowed
+28,9,allowed
+28,10,allowed
+28,11,allowed
+28,12,not allowed
+28,13,allowed
+28,14,allowed
+28,15,allowed
+28,16,allowed
+28,17,allowed
+28,18,allowed
+28,19,not allowed
+28,20,allowed
+28,21,allowed
+28,22,allowed
+28,23,allowed
+28,24,allowed
+28,25,allowed
+28,26,allowed
+28,27,allowed
+28,28,allowed
+28,29,allowed
+28,30,allowed
+28,31,allowed
+28,32,allowed
+28,33,allowed
+28,34,allowed
+28,35,not allowed
+28,36,allowed
+28,37,not allowed
+28,38,not allowed
+28,39,allowed
+28,40,allowed
+28,41,allowed
+28,42,allowed
+28,43,allowed
+28,44,allowed
+28,45,allowed
+28,46,allowed
+28,47,allowed
+28,48,allowed
+28,49,allowed
+28,50,allowed
+28,51,allowed
+28,52,allowed
+28,53,allowed
+28,54,allowed
+28,55,allowed
+28,56,allowed
+28,57,not allowed
+28,58,allowed
+28,59,allowed
+28,60,allowed
+28,61,not allowed
+28,62,allowed
+28,63,allowed
+28,64,allowed
+28,65,allowed
+28,66,allowed
+28,67,allowed
+28,68,allowed
+28,69,allowed
+28,70,allowed
+28,71,allowed
+28,72,allowed
+28,73,allowed
+28,74,allowed
+28,75,allowed
+28,76,allowed
+28,77,not allowed
+28,78,not allowed
+28,79,not allowed
+28,80,allowed
+28,81,not allowed
+28,82,not allowed
+28,83,allowed
+28,84,allowed
+28,85,allowed
+28,86,allowed
+28,87,not allowed
+28,88,allowed
+28,89,allowed
+28,90,not allowed
+28,91,allowed
+28,92,allowed
+28,93,not allowed
+28,94,not allowed
+28,95,not allowed
+28,96,allowed
+28,97,not allowed
+28,98,not allowed
+28,99,allowed
+28,100,not allowed
+29,1,allowed
+29,2,allowed
+29,3,allowed
+29,4,allowed
+29,5,allowed
+29,6,allowed
+29,7,allowed
+29,8,allowed
+29,9,allowed
+29,10,allowed
+29,11,allowed
+29,12,not allowed
+29,13,allowed
+29,14,allowed
+29,15,allowed
+29,16,allowed
+29,17,allowed
+29,18,allowed
+29,19,not allowed
+29,20,allowed
+29,21,allowed
+29,22,allowed
+29,23,allowed
+29,24,allowed
+29,25,allowed
+29,26,allowed
+29,27,allowed
+29,28,allowed
+29,29,allowed
+29,30,allowed
+29,31,allowed
+29,32,allowed
+29,33,allowed
+29,34,allowed
+29,35,not allowed
+29,36,allowed
+29,37,not allowed
+29,38,not allowed
+29,39,allowed
+29,40,allowed
+29,41,allowed
+29,42,allowed
+29,43,allowed
+29,44,allowed
+29,45,allowed
+29,46,allowed
+29,47,allowed
+29,48,allowed
+29,49,allowed
+29,50,allowed
+29,51,allowed
+29,52,allowed
+29,53,allowed
+29,54,allowed
+29,55,allowed
+29,56,allowed
+29,57,not allowed
+29,58,allowed
+29,59,allowed
+29,60,allowed
+29,61,not allowed
+29,62,allowed
+29,63,allowed
+29,64,allowed
+29,65,allowed
+29,66,allowed
+29,67,allowed
+29,68,allowed
+29,69,allowed
+29,70,allowed
+29,71,allowed
+29,72,allowed
+29,73,allowed
+29,74,allowed
+29,75,allowed
+29,76,allowed
+29,77,not allowed
+29,78,not allowed
+29,79,not allowed
+29,80,allowed
+29,81,not allowed
+29,82,not allowed
+29,83,allowed
+29,84,allowed
+29,85,allowed
+29,86,allowed
+29,87,not allowed
+29,88,allowed
+29,89,allowed
+29,90,not allowed
+29,91,allowed
+29,92,allowed
+29,93,not allowed
+29,94,not allowed
+29,95,not allowed
+29,96,allowed
+29,97,not allowed
+29,98,not allowed
+29,99,allowed
+29,100,not allowed
+30,1,allowed
+30,2,allowed
+30,3,allowed
+30,4,allowed
+30,5,allowed
+30,6,allowed
+30,7,allowed
+30,8,allowed
+30,9,allowed
+30,10,allowed
+30,11,allowed
+30,12,not allowed
+30,13,allowed
+30,14,allowed
+30,15,allowed
+30,16,allowed
+30,17,allowed
+30,18,allowed
+30,19,not allowed
+30,20,allowed
+30,21,allowed
+30,22,allowed
+30,23,allowed
+30,24,not allowed
+30,25,allowed
+30,26,allowed
+30,27,allowed
+30,28,allowed
+30,29,allowed
+30,30,allowed
+30,31,allowed
+30,32,allowed
+30,33,allowed
+30,34,allowed
+30,35,allowed
+30,36,not allowed
+30,37,allowed
+30,38,allowed
+30,39,allowed
+30,40,allowed
+30,41,allowed
+30,42,allowed
+30,43,allowed
+30,44,allowed
+30,45,allowed
+30,46,not allowed
+30,47,allowed
+30,48,allowed
+30,49,allowed
+30,50,allowed
+30,51,allowed
+30,52,allowed
+30,53,not allowed
+30,54,allowed
+30,55,allowed
+30,56,not allowed
+30,57,not allowed
+30,58,allowed
+30,59,not allowed
+30,60,allowed
+30,61,not allowed
+30,62,allowed
+30,63,allowed
+30,64,allowed
+30,65,allowed
+30,66,allowed
+30,67,allowed
+30,68,allowed
+30,69,allowed
+30,70,allowed
+30,71,allowed
+30,72,allowed
+30,73,allowed
+30,74,allowed
+30,75,allowed
+30,76,allowed
+30,77,not allowed
+30,78,not allowed
+30,79,not allowed
+30,80,allowed
+30,81,not allowed
+30,82,allowed
+30,83,allowed
+30,84,allowed
+30,85,allowed
+30,86,allowed
+30,87,not allowed
+30,88,allowed
+30,89,allowed
+30,90,not allowed
+30,91,allowed
+30,92,allowed
+30,93,not allowed
+30,94,not allowed
+30,95,not allowed
+30,96,allowed
+30,97,not allowed
+30,98,not allowed
+30,99,allowed
+30,100,not allowed
+31,1,allowed
+31,2,allowed
+31,3,allowed
+31,4,allowed
+31,5,allowed
+31,6,allowed
+31,7,allowed
+31,8,allowed
+31,9,allowed
+31,10,allowed
+31,11,allowed
+31,12,not allowed
+31,13,allowed
+31,14,allowed
+31,15,allowed
+31,16,allowed
+31,17,allowed
+31,18,allowed
+31,19,not allowed
+31,20,allowed
+31,21,allowed
+31,22,allowed
+31,23,allowed
+31,24,not allowed
+31,25,allowed
+31,26,allowed
+31,27,allowed
+31,28,allowed
+31,29,allowed
+31,30,allowed
+31,31,allowed
+31,32,allowed
+31,33,allowed
+31,34,allowed
+31,35,allowed
+31,36,not allowed
+31,37,allowed
+31,38,allowed
+31,39,allowed
+31,40,allowed
+31,41,allowed
+31,42,allowed
+31,43,allowed
+31,44,allowed
+31,45,allowed
+31,46,not allowed
+31,47,allowed
+31,48,allowed
+31,49,allowed
+31,50,allowed
+31,51,allowed
+31,52,allowed
+31,53,not allowed
+31,54,allowed
+31,55,allowed
+31,56,not allowed
+31,57,not allowed
+31,58,allowed
+31,59,not allowed
+31,60,allowed
+31,61,not allowed
+31,62,allowed
+31,63,allowed
+31,64,allowed
+31,65,allowed
+31,66,allowed
+31,67,allowed
+31,68,allowed
+31,69,allowed
+31,70,allowed
+31,71,allowed
+31,72,allowed
+31,73,allowed
+31,74,allowed
+31,75,allowed
+31,76,allowed
+31,77,not allowed
+31,78,not allowed
+31,79,not allowed
+31,80,allowed
+31,81,not allowed
+31,82,allowed
+31,83,allowed
+31,84,allowed
+31,85,allowed
+31,86,allowed
+31,87,not allowed
+31,88,allowed
+31,89,allowed
+31,90,not allowed
+31,91,allowed
+31,92,allowed
+31,93,not allowed
+31,94,not allowed
+31,95,not allowed
+31,96,allowed
+31,97,not allowed
+31,98,not allowed
+31,99,allowed
+31,100,not allowed
+32,1,allowed
+32,2,allowed
+32,3,allowed
+32,4,allowed
+32,5,allowed
+32,6,allowed
+32,7,allowed
+32,8,allowed
+32,9,allowed
+32,10,allowed
+32,11,allowed
+32,12,not allowed
+32,13,allowed
+32,14,allowed
+32,15,allowed
+32,16,allowed
+32,17,allowed
+32,18,allowed
+32,19,not allowed
+32,20,allowed
+32,21,allowed
+32,22,allowed
+32,23,allowed
+32,24,not allowed
+32,25,allowed
+32,26,allowed
+32,27,allowed
+32,28,allowed
+32,29,allowed
+32,30,allowed
+32,31,allowed
+32,32,allowed
+32,33,allowed
+32,34,allowed
+32,35,allowed
+32,36,not allowed
+32,37,allowed
+32,38,allowed
+32,39,allowed
+32,40,allowed
+32,41,allowed
+32,42,allowed
+32,43,allowed
+32,44,allowed
+32,45,allowed
+32,46,not allowed
+32,47,allowed
+32,48,allowed
+32,49,allowed
+32,50,allowed
+32,51,allowed
+32,52,allowed
+32,53,not allowed
+32,54,allowed
+32,55,allowed
+32,56,not allowed
+32,57,not allowed
+32,58,allowed
+32,59,not allowed
+32,60,allowed
+32,61,not allowed
+32,62,allowed
+32,63,allowed
+32,64,allowed
+32,65,allowed
+32,66,allowed
+32,67,allowed
+32,68,allowed
+32,69,allowed
+32,70,allowed
+32,71,allowed
+32,72,allowed
+32,73,allowed
+32,74,allowed
+32,75,allowed
+32,76,allowed
+32,77,not allowed
+32,78,not allowed
+32,79,not allowed
+32,80,allowed
+32,81,not allowed
+32,82,allowed
+32,83,allowed
+32,84,allowed
+32,85,allowed
+32,86,allowed
+32,87,not allowed
+32,88,allowed
+32,89,allowed
+32,90,not allowed
+32,91,allowed
+32,92,allowed
+32,93,not allowed
+32,94,not allowed
+32,95,not allowed
+32,96,allowed
+32,97,not allowed
+32,98,not allowed
+32,99,allowed
+32,100,not allowed
+33,1,allowed
+33,2,allowed
+33,3,allowed
+33,4,allowed
+33,5,allowed
+33,6,allowed
+33,7,allowed
+33,8,allowed
+33,9,allowed
+33,10,allowed
+33,11,allowed
+33,12,not allowed
+33,13,allowed
+33,14,allowed
+33,15,allowed
+33,16,allowed
+33,17,allowed
+33,18,allowed
+33,19,not allowed
+33,20,allowed
+33,21,allowed
+33,22,allowed
+33,23,allowed
+33,24,not allowed
+33,25,allowed
+33,26,allowed
+33,27,allowed
+33,28,allowed
+33,29,allowed
+33,30,allowed
+33,31,allowed
+33,32,allowed
+33,33,allowed
+33,34,allowed
+33,35,allowed
+33,36,not allowed
+33,37,allowed
+33,38,allowed
+33,39,allowed
+33,40,allowed
+33,41,allowed
+33,42,allowed
+33,43,allowed
+33,44,allowed
+33,45,allowed
+33,46,not allowed
+33,47,allowed
+33,48,allowed
+33,49,allowed
+33,50,allowed
+33,51,allowed
+33,52,allowed
+33,53,not allowed
+33,54,allowed
+33,55,allowed
+33,56,not allowed
+33,57,not allowed
+33,58,allowed
+33,59,not allowed
+33,60,allowed
+33,61,not allowed
+33,62,allowed
+33,63,allowed
+33,64,allowed
+33,65,allowed
+33,66,allowed
+33,67,allowed
+33,68,allowed
+33,69,allowed
+33,70,allowed
+33,71,allowed
+33,72,allowed
+33,73,allowed
+33,74,allowed
+33,75,allowed
+33,76,allowed
+33,77,not allowed
+33,78,not allowed
+33,79,not allowed
+33,80,allowed
+33,81,not allowed
+33,82,allowed
+33,83,allowed
+33,84,allowed
+33,85,allowed
+33,86,allowed
+33,87,not allowed
+33,88,allowed
+33,89,allowed
+33,90,not allowed
+33,91,allowed
+33,92,allowed
+33,93,not allowed
+33,94,not allowed
+33,95,not allowed
+33,96,allowed
+33,97,not allowed
+33,98,not allowed
+33,99,allowed
+33,100,not allowed
+34,1,allowed
+34,2,allowed
+34,3,allowed
+34,4,allowed
+34,5,allowed
+34,6,allowed
+34,7,allowed
+34,8,allowed
+34,9,allowed
+34,10,allowed
+34,11,allowed
+34,12,not allowed
+34,13,allowed
+34,14,allowed
+34,15,allowed
+34,16,allowed
+34,17,allowed
+34,18,allowed
+34,19,not allowed
+34,20,allowed
+34,21,allowed
+34,22,allowed
+34,23,allowed
+34,24,not allowed
+34,25,allowed
+34,26,allowed
+34,27,allowed
+34,28,allowed
+34,29,allowed
+34,30,allowed
+34,31,allowed
+34,32,allowed
+34,33,allowed
+34,34,allowed
+34,35,allowed
+34,36,not allowed
+34,37,allowed
+34,38,allowed
+34,39,allowed
+34,40,allowed
+34,41,allowed
+34,42,allowed
+34,43,allowed
+34,44,allowed
+34,45,allowed
+34,46,not allowed
+34,47,allowed
+34,48,allowed
+34,49,allowed
+34,50,allowed
+34,51,allowed
+34,52,allowed
+34,53,not allowed
+34,54,allowed
+34,55,allowed
+34,56,not allowed
+34,57,not allowed
+34,58,allowed
+34,59,not allowed
+34,60,allowed
+34,61,not allowed
+34,62,allowed
+34,63,allowed
+34,64,allowed
+34,65,allowed
+34,66,allowed
+34,67,allowed
+34,68,allowed
+34,69,allowed
+34,70,allowed
+34,71,allowed
+34,72,allowed
+34,73,allowed
+34,74,allowed
+34,75,allowed
+34,76,allowed
+34,77,not allowed
+34,78,not allowed
+34,79,not allowed
+34,80,allowed
+34,81,not allowed
+34,82,allowed
+34,83,allowed
+34,84,allowed
+34,85,allowed
+34,86,allowed
+34,87,not allowed
+34,88,allowed
+34,89,allowed
+34,90,not allowed
+34,91,allowed
+34,92,allowed
+34,93,not allowed
+34,94,not allowed
+34,95,not allowed
+34,96,allowed
+34,97,not allowed
+34,98,not allowed
+34,99,allowed
+34,100,not allowed
+35,1,allowed
+35,2,allowed
+35,3,allowed
+35,4,allowed
+35,5,allowed
+35,6,allowed
+35,7,allowed
+35,8,allowed
+35,9,allowed
+35,10,allowed
+35,11,allowed
+35,12,not allowed
+35,13,allowed
+35,14,allowed
+35,15,allowed
+35,16,allowed
+35,17,allowed
+35,18,allowed
+35,19,not allowed
+35,20,allowed
+35,21,allowed
+35,22,allowed
+35,23,allowed
+35,24,not allowed
+35,25,allowed
+35,26,allowed
+35,27,allowed
+35,28,allowed
+35,29,allowed
+35,30,allowed
+35,31,allowed
+35,32,allowed
+35,33,allowed
+35,34,allowed
+35,35,allowed
+35,36,not allowed
+35,37,allowed
+35,38,allowed
+35,39,allowed
+35,40,allowed
+35,41,allowed
+35,42,allowed
+35,43,allowed
+35,44,allowed
+35,45,allowed
+35,46,not allowed
+35,47,allowed
+35,48,allowed
+35,49,allowed
+35,50,allowed
+35,51,allowed
+35,52,allowed
+35,53,not allowed
+35,54,allowed
+35,55,allowed
+35,56,not allowed
+35,57,not allowed
+35,58,allowed
+35,59,not allowed
+35,60,allowed
+35,61,not allowed
+35,62,allowed
+35,63,allowed
+35,64,allowed
+35,65,allowed
+35,66,allowed
+35,67,allowed
+35,68,allowed
+35,69,allowed
+35,70,allowed
+35,71,allowed
+35,72,allowed
+35,73,allowed
+35,74,allowed
+35,75,allowed
+35,76,allowed
+35,77,not allowed
+35,78,not allowed
+35,79,not allowed
+35,80,allowed
+35,81,not allowed
+35,82,allowed
+35,83,allowed
+35,84,allowed
+35,85,allowed
+35,86,allowed
+35,87,not allowed
+35,88,allowed
+35,89,allowed
+35,90,not allowed
+35,91,allowed
+35,92,allowed
+35,93,not allowed
+35,94,not allowed
+35,95,not allowed
+35,96,allowed
+35,97,not allowed
+35,98,not allowed
+35,99,allowed
+35,100,not allowed
+36,1,allowed
+36,2,allowed
+36,3,allowed
+36,4,allowed
+36,5,allowed
+36,6,allowed
+36,7,allowed
+36,8,allowed
+36,9,allowed
+36,10,allowed
+36,11,allowed
+36,12,not allowed
+36,13,allowed
+36,14,allowed
+36,15,allowed
+36,16,allowed
+36,17,allowed
+36,18,allowed
+36,19,not allowed
+36,20,allowed
+36,21,allowed
+36,22,allowed
+36,23,allowed
+36,24,not allowed
+36,25,allowed
+36,26,allowed
+36,27,allowed
+36,28,allowed
+36,29,allowed
+36,30,allowed
+36,31,allowed
+36,32,allowed
+36,33,allowed
+36,34,allowed
+36,35,allowed
+36,36,not allowed
+36,37,allowed
+36,38,allowed
+36,39,allowed
+36,40,allowed
+36,41,allowed
+36,42,allowed
+36,43,allowed
+36,44,allowed
+36,45,allowed
+36,46,not allowed
+36,47,allowed
+36,48,allowed
+36,49,allowed
+36,50,allowed
+36,51,allowed
+36,52,allowed
+36,53,not allowed
+36,54,allowed
+36,55,allowed
+36,56,not allowed
+36,57,not allowed
+36,58,allowed
+36,59,not allowed
+36,60,allowed
+36,61,not allowed
+36,62,allowed
+36,63,allowed
+36,64,allowed
+36,65,allowed
+36,66,allowed
+36,67,allowed
+36,68,allowed
+36,69,allowed
+36,70,allowed
+36,71,allowed
+36,72,allowed
+36,73,allowed
+36,74,allowed
+36,75,allowed
+36,76,allowed
+36,77,not allowed
+36,78,not allowed
+36,79,not allowed
+36,80,allowed
+36,81,not allowed
+36,82,allowed
+36,83,allowed
+36,84,allowed
+36,85,allowed
+36,86,allowed
+36,87,not allowed
+36,88,allowed
+36,89,allowed
+36,90,not allowed
+36,91,allowed
+36,92,allowed
+36,93,not allowed
+36,94,not allowed
+36,95,not allowed
+36,96,allowed
+36,97,not allowed
+36,98,not allowed
+36,99,allowed
+36,100,not allowed
+37,1,allowed
+37,2,allowed
+37,3,allowed
+37,4,allowed
+37,5,allowed
+37,6,allowed
+37,7,allowed
+37,8,allowed
+37,9,allowed
+37,10,allowed
+37,11,allowed
+37,12,not allowed
+37,13,allowed
+37,14,allowed
+37,15,allowed
+37,16,allowed
+37,17,allowed
+37,18,allowed
+37,19,not allowed
+37,20,allowed
+37,21,allowed
+37,22,allowed
+37,23,allowed
+37,24,not allowed
+37,25,allowed
+37,26,allowed
+37,27,allowed
+37,28,allowed
+37,29,allowed
+37,30,allowed
+37,31,allowed
+37,32,allowed
+37,33,allowed
+37,34,allowed
+37,35,allowed
+37,36,not allowed
+37,37,allowed
+37,38,allowed
+37,39,allowed
+37,40,allowed
+37,41,allowed
+37,42,allowed
+37,43,allowed
+37,44,allowed
+37,45,allowed
+37,46,not allowed
+37,47,allowed
+37,48,allowed
+37,49,allowed
+37,50,allowed
+37,51,allowed
+37,52,allowed
+37,53,not allowed
+37,54,allowed
+37,55,allowed
+37,56,not allowed
+37,57,not allowed
+37,58,allowed
+37,59,not allowed
+37,60,allowed
+37,61,not allowed
+37,62,allowed
+37,63,allowed
+37,64,allowed
+37,65,allowed
+37,66,allowed
+37,67,allowed
+37,68,allowed
+37,69,allowed
+37,70,allowed
+37,71,allowed
+37,72,allowed
+37,73,allowed
+37,74,allowed
+37,75,allowed
+37,76,allowed
+37,77,not allowed
+37,78,not allowed
+37,79,not allowed
+37,80,allowed
+37,81,not allowed
+37,82,allowed
+37,83,allowed
+37,84,allowed
+37,85,allowed
+37,86,allowed
+37,87,not allowed
+37,88,allowed
+37,89,allowed
+37,90,not allowed
+37,91,allowed
+37,92,allowed
+37,93,not allowed
+37,94,not allowed
+37,95,not allowed
+37,96,allowed
+37,97,not allowed
+37,98,not allowed
+37,99,allowed
+37,100,not allowed
+38,1,allowed
+38,2,allowed
+38,3,allowed
+38,4,allowed
+38,5,allowed
+38,6,allowed
+38,7,allowed
+38,8,allowed
+38,9,allowed
+38,10,allowed
+38,11,allowed
+38,12,not allowed
+38,13,allowed
+38,14,allowed
+38,15,allowed
+38,16,allowed
+38,17,allowed
+38,18,allowed
+38,19,not allowed
+38,20,allowed
+38,21,allowed
+38,22,allowed
+38,23,allowed
+38,24,not allowed
+38,25,allowed
+38,26,allowed
+38,27,allowed
+38,28,allowed
+38,29,allowed
+38,30,allowed
+38,31,allowed
+38,32,allowed
+38,33,allowed
+38,34,allowed
+38,35,allowed
+38,36,not allowed
+38,37,allowed
+38,38,allowed
+38,39,allowed
+38,40,allowed
+38,41,allowed
+38,42,allowed
+38,43,allowed
+38,44,allowed
+38,45,allowed
+38,46,not allowed
+38,47,allowed
+38,48,allowed
+38,49,allowed
+38,50,allowed
+38,51,allowed
+38,52,allowed
+38,53,not allowed
+38,54,allowed
+38,55,allowed
+38,56,not allowed
+38,57,not allowed
+38,58,allowed
+38,59,not allowed
+38,60,allowed
+38,61,not allowed
+38,62,allowed
+38,63,allowed
+38,64,allowed
+38,65,allowed
+38,66,allowed
+38,67,allowed
+38,68,allowed
+38,69,allowed
+38,70,allowed
+38,71,allowed
+38,72,allowed
+38,73,allowed
+38,74,allowed
+38,75,allowed
+38,76,allowed
+38,77,not allowed
+38,78,not allowed
+38,79,not allowed
+38,80,allowed
+38,81,not allowed
+38,82,allowed
+38,83,allowed
+38,84,allowed
+38,85,allowed
+38,86,allowed
+38,87,not allowed
+38,88,allowed
+38,89,allowed
+38,90,not allowed
+38,91,allowed
+38,92,allowed
+38,93,not allowed
+38,94,not allowed
+38,95,not allowed
+38,96,allowed
+38,97,not allowed
+38,98,not allowed
+38,99,allowed
+38,100,not allowed
+39,1,allowed
+39,2,allowed
+39,3,allowed
+39,4,allowed
+39,5,allowed
+39,6,allowed
+39,7,allowed
+39,8,allowed
+39,9,allowed
+39,10,allowed
+39,11,allowed
+39,12,not allowed
+39,13,allowed
+39,14,allowed
+39,15,allowed
+39,16,allowed
+39,17,allowed
+39,18,allowed
+39,19,not allowed
+39,20,allowed
+39,21,allowed
+39,22,allowed
+39,23,allowed
+39,24,not allowed
+39,25,allowed
+39,26,allowed
+39,27,allowed
+39,28,allowed
+39,29,allowed
+39,30,allowed
+39,31,allowed
+39,32,allowed
+39,33,allowed
+39,34,allowed
+39,35,allowed
+39,36,not allowed
+39,37,allowed
+39,38,allowed
+39,39,allowed
+39,40,allowed
+39,41,allowed
+39,42,allowed
+39,43,allowed
+39,44,allowed
+39,45,allowed
+39,46,not allowed
+39,47,allowed
+39,48,allowed
+39,49,allowed
+39,50,allowed
+39,51,allowed
+39,52,allowed
+39,53,not allowed
+39,54,allowed
+39,55,allowed
+39,56,not allowed
+39,57,not allowed
+39,58,allowed
+39,59,not allowed
+39,60,allowed
+39,61,not allowed
+39,62,allowed
+39,63,allowed
+39,64,allowed
+39,65,allowed
+39,66,allowed
+39,67,allowed
+39,68,allowed
+39,69,allowed
+39,70,allowed
+39,71,allowed
+39,72,allowed
+39,73,allowed
+39,74,allowed
+39,75,allowed
+39,76,allowed
+39,77,not allowed
+39,78,not allowed
+39,79,not allowed
+39,80,allowed
+39,81,not allowed
+39,82,allowed
+39,83,allowed
+39,84,allowed
+39,85,allowed
+39,86,allowed
+39,87,not allowed
+39,88,allowed
+39,89,allowed
+39,90,not allowed
+39,91,allowed
+39,92,allowed
+39,93,not allowed
+39,94,not allowed
+39,95,not allowed
+39,96,allowed
+39,97,not allowed
+39,98,not allowed
+39,99,allowed
+39,100,not allowed
+40,1,allowed
+40,2,allowed
+40,3,allowed
+40,4,allowed
+40,5,allowed
+40,6,allowed
+40,7,allowed
+40,8,allowed
+40,9,allowed
+40,10,allowed
+40,11,allowed
+40,12,not allowed
+40,13,allowed
+40,14,allowed
+40,15,allowed
+40,16,allowed
+40,17,allowed
+40,18,allowed
+40,19,not allowed
+40,20,allowed
+40,21,allowed
+40,22,allowed
+40,23,allowed
+40,24,not allowed
+40,25,allowed
+40,26,allowed
+40,27,allowed
+40,28,allowed
+40,29,allowed
+40,30,allowed
+40,31,allowed
+40,32,allowed
+40,33,allowed
+40,34,allowed
+40,35,allowed
+40,36,not allowed
+40,37,allowed
+40,38,allowed
+40,39,allowed
+40,40,allowed
+40,41,allowed
+40,42,allowed
+40,43,allowed
+40,44,allowed
+40,45,allowed
+40,46,not allowed
+40,47,allowed
+40,48,allowed
+40,49,allowed
+40,50,allowed
+40,51,allowed
+40,52,allowed
+40,53,not allowed
+40,54,allowed
+40,55,allowed
+40,56,not allowed
+40,57,not allowed
+40,58,allowed
+40,59,not allowed
+40,60,allowed
+40,61,not allowed
+40,62,allowed
+40,63,allowed
+40,64,allowed
+40,65,allowed
+40,66,allowed
+40,67,allowed
+40,68,allowed
+40,69,allowed
+40,70,allowed
+40,71,allowed
+40,72,allowed
+40,73,allowed
+40,74,allowed
+40,75,allowed
+40,76,allowed
+40,77,not allowed
+40,78,not allowed
+40,79,not allowed
+40,80,allowed
+40,81,not allowed
+40,82,allowed
+40,83,allowed
+40,84,allowed
+40,85,allowed
+40,86,allowed
+40,87,not allowed
+40,88,allowed
+40,89,allowed
+40,90,not allowed
+40,91,allowed
+40,92,allowed
+40,93,not allowed
+40,94,not allowed
+40,95,not allowed
+40,96,allowed
+40,97,not allowed
+40,98,not allowed
+40,99,allowed
+40,100,not allowed
+41,1,allowed
+41,2,allowed
+41,3,allowed
+41,4,allowed
+41,5,allowed
+41,6,allowed
+41,7,allowed
+41,8,allowed
+41,9,allowed
+41,10,allowed
+41,11,allowed
+41,12,not allowed
+41,13,allowed
+41,14,allowed
+41,15,allowed
+41,16,allowed
+41,17,allowed
+41,18,allowed
+41,19,not allowed
+41,20,allowed
+41,21,allowed
+41,22,allowed
+41,23,allowed
+41,24,not allowed
+41,25,allowed
+41,26,allowed
+41,27,allowed
+41,28,allowed
+41,29,allowed
+41,30,allowed
+41,31,allowed
+41,32,allowed
+41,33,allowed
+41,34,allowed
+41,35,allowed
+41,36,not allowed
+41,37,allowed
+41,38,allowed
+41,39,allowed
+41,40,allowed
+41,41,allowed
+41,42,allowed
+41,43,allowed
+41,44,allowed
+41,45,allowed
+41,46,not allowed
+41,47,allowed
+41,48,allowed
+41,49,allowed
+41,50,allowed
+41,51,allowed
+41,52,allowed
+41,53,not allowed
+41,54,allowed
+41,55,allowed
+41,56,not allowed
+41,57,not allowed
+41,58,allowed
+41,59,not allowed
+41,60,allowed
+41,61,not allowed
+41,62,allowed
+41,63,allowed
+41,64,allowed
+41,65,allowed
+41,66,allowed
+41,67,allowed
+41,68,allowed
+41,69,allowed
+41,70,allowed
+41,71,allowed
+41,72,allowed
+41,73,allowed
+41,74,allowed
+41,75,allowed
+41,76,allowed
+41,77,not allowed
+41,78,not allowed
+41,79,not allowed
+41,80,allowed
+41,81,not allowed
+41,82,allowed
+41,83,allowed
+41,84,allowed
+41,85,allowed
+41,86,allowed
+41,87,not allowed
+41,88,allowed
+41,89,allowed
+41,90,not allowed
+41,91,allowed
+41,92,allowed
+41,93,not allowed
+41,94,not allowed
+41,95,not allowed
+41,96,allowed
+41,97,not allowed
+41,98,not allowed
+41,99,allowed
+41,100,not allowed
+42,1,allowed
+42,2,allowed
+42,3,allowed
+42,4,allowed
+42,5,allowed
+42,6,allowed
+42,7,allowed
+42,8,allowed
+42,9,allowed
+42,10,allowed
+42,11,allowed
+42,12,not allowed
+42,13,allowed
+42,14,allowed
+42,15,allowed
+42,16,allowed
+42,17,allowed
+42,18,allowed
+42,19,not allowed
+42,20,allowed
+42,21,allowed
+42,22,allowed
+42,23,allowed
+42,24,not allowed
+42,25,allowed
+42,26,allowed
+42,27,allowed
+42,28,allowed
+42,29,allowed
+42,30,allowed
+42,31,allowed
+42,32,allowed
+42,33,allowed
+42,34,allowed
+42,35,allowed
+42,36,not allowed
+42,37,allowed
+42,38,allowed
+42,39,allowed
+42,40,allowed
+42,41,allowed
+42,42,allowed
+42,43,allowed
+42,44,allowed
+42,45,allowed
+42,46,not allowed
+42,47,allowed
+42,48,allowed
+42,49,allowed
+42,50,allowed
+42,51,allowed
+42,52,allowed
+42,53,not allowed
+42,54,allowed
+42,55,allowed
+42,56,not allowed
+42,57,not allowed
+42,58,allowed
+42,59,not allowed
+42,60,allowed
+42,61,not allowed
+42,62,allowed
+42,63,allowed
+42,64,allowed
+42,65,allowed
+42,66,allowed
+42,67,allowed
+42,68,allowed
+42,69,allowed
+42,70,allowed
+42,71,allowed
+42,72,allowed
+42,73,allowed
+42,74,allowed
+42,75,allowed
+42,76,allowed
+42,77,not allowed
+42,78,not allowed
+42,79,not allowed
+42,80,allowed
+42,81,not allowed
+42,82,allowed
+42,83,allowed
+42,84,allowed
+42,85,allowed
+42,86,allowed
+42,87,not allowed
+42,88,allowed
+42,89,allowed
+42,90,not allowed
+42,91,allowed
+42,92,allowed
+42,93,not allowed
+42,94,not allowed
+42,95,not allowed
+42,96,allowed
+42,97,not allowed
+42,98,not allowed
+42,99,allowed
+42,100,not allowed
+43,1,allowed
+43,2,allowed
+43,3,allowed
+43,4,allowed
+43,5,allowed
+43,6,allowed
+43,7,allowed
+43,8,allowed
+43,9,allowed
+43,10,allowed
+43,11,allowed
+43,12,not allowed
+43,13,allowed
+43,14,allowed
+43,15,allowed
+43,16,allowed
+43,17,allowed
+43,18,allowed
+43,19,not allowed
+43,20,allowed
+43,21,allowed
+43,22,allowed
+43,23,allowed
+43,24,not allowed
+43,25,allowed
+43,26,allowed
+43,27,allowed
+43,28,allowed
+43,29,allowed
+43,30,allowed
+43,31,allowed
+43,32,allowed
+43,33,allowed
+43,34,allowed
+43,35,allowed
+43,36,not allowed
+43,37,allowed
+43,38,allowed
+43,39,allowed
+43,40,allowed
+43,41,allowed
+43,42,allowed
+43,43,allowed
+43,44,allowed
+43,45,allowed
+43,46,not allowed
+43,47,allowed
+43,48,allowed
+43,49,allowed
+43,50,allowed
+43,51,allowed
+43,52,allowed
+43,53,not allowed
+43,54,allowed
+43,55,allowed
+43,56,not allowed
+43,57,not allowed
+43,58,allowed
+43,59,not allowed
+43,60,allowed
+43,61,not allowed
+43,62,allowed
+43,63,allowed
+43,64,allowed
+43,65,allowed
+43,66,allowed
+43,67,allowed
+43,68,allowed
+43,69,allowed
+43,70,allowed
+43,71,allowed
+43,72,allowed
+43,73,allowed
+43,74,allowed
+43,75,allowed
+43,76,allowed
+43,77,not allowed
+43,78,not allowed
+43,79,not allowed
+43,80,allowed
+43,81,not allowed
+43,82,allowed
+43,83,allowed
+43,84,allowed
+43,85,allowed
+43,86,allowed
+43,87,not allowed
+43,88,allowed
+43,89,allowed
+43,90,not allowed
+43,91,allowed
+43,92,allowed
+43,93,not allowed
+43,94,not allowed
+43,95,not allowed
+43,96,allowed
+43,97,not allowed
+43,98,not allowed
+43,99,allowed
+43,100,not allowed
+44,1,allowed
+44,2,allowed
+44,3,allowed
+44,4,allowed
+44,5,allowed
+44,6,allowed
+44,7,allowed
+44,8,allowed
+44,9,allowed
+44,10,allowed
+44,11,allowed
+44,12,not allowed
+44,13,allowed
+44,14,allowed
+44,15,allowed
+44,16,allowed
+44,17,allowed
+44,18,allowed
+44,19,not allowed
+44,20,allowed
+44,21,allowed
+44,22,allowed
+44,23,allowed
+44,24,not allowed
+44,25,allowed
+44,26,allowed
+44,27,allowed
+44,28,allowed
+44,29,allowed
+44,30,allowed
+44,31,allowed
+44,32,allowed
+44,33,allowed
+44,34,allowed
+44,35,allowed
+44,36,not allowed
+44,37,allowed
+44,38,allowed
+44,39,allowed
+44,40,allowed
+44,41,allowed
+44,42,allowed
+44,43,allowed
+44,44,allowed
+44,45,allowed
+44,46,not allowed
+44,47,allowed
+44,48,allowed
+44,49,allowed
+44,50,allowed
+44,51,allowed
+44,52,allowed
+44,53,not allowed
+44,54,allowed
+44,55,allowed
+44,56,not allowed
+44,57,not allowed
+44,58,allowed
+44,59,not allowed
+44,60,allowed
+44,61,not allowed
+44,62,allowed
+44,63,allowed
+44,64,allowed
+44,65,allowed
+44,66,allowed
+44,67,allowed
+44,68,allowed
+44,69,allowed
+44,70,allowed
+44,71,allowed
+44,72,allowed
+44,73,allowed
+44,74,allowed
+44,75,allowed
+44,76,allowed
+44,77,not allowed
+44,78,not allowed
+44,79,not allowed
+44,80,allowed
+44,81,not allowed
+44,82,allowed
+44,83,allowed
+44,84,allowed
+44,85,allowed
+44,86,allowed
+44,87,not allowed
+44,88,allowed
+44,89,allowed
+44,90,not allowed
+44,91,allowed
+44,92,allowed
+44,93,not allowed
+44,94,not allowed
+44,95,not allowed
+44,96,allowed
+44,97,not allowed
+44,98,not allowed
+44,99,allowed
+44,100,not allowed
+45,1,allowed
+45,2,allowed
+45,3,allowed
+45,4,allowed
+45,5,allowed
+45,6,allowed
+45,7,allowed
+45,8,allowed
+45,9,allowed
+45,10,allowed
+45,11,allowed
+45,12,not allowed
+45,13,allowed
+45,14,allowed
+45,15,allowed
+45,16,allowed
+45,17,allowed
+45,18,allowed
+45,19,not allowed
+45,20,allowed
+45,21,allowed
+45,22,allowed
+45,23,allowed
+45,24,allowed
+45,25,allowed
+45,26,allowed
+45,27,allowed
+45,28,allowed
+45,29,allowed
+45,30,allowed
+45,31,allowed
+45,32,allowed
+45,33,allowed
+45,34,allowed
+45,35,allowed
+45,36,allowed
+45,37,allowed
+45,38,allowed
+45,39,allowed
+45,40,allowed
+45,41,allowed
+45,42,allowed
+45,43,allowed
+45,44,allowed
+45,45,allowed
+45,46,allowed
+45,47,allowed
+45,48,allowed
+45,49,allowed
+45,50,allowed
+45,51,allowed
+45,52,allowed
+45,53,allowed
+45,54,allowed
+45,55,allowed
+45,56,allowed
+45,57,not allowed
+45,58,allowed
+45,59,allowed
+45,60,allowed
+45,61,not allowed
+45,62,allowed
+45,63,allowed
+45,64,allowed
+45,65,allowed
+45,66,allowed
+45,67,allowed
+45,68,allowed
+45,69,allowed
+45,70,allowed
+45,71,allowed
+45,72,allowed
+45,73,allowed
+45,74,allowed
+45,75,allowed
+45,76,allowed
+45,77,not allowed
+45,78,not allowed
+45,79,not allowed
+45,80,allowed
+45,81,not allowed
+45,82,allowed
+45,83,allowed
+45,84,allowed
+45,85,allowed
+45,86,allowed
+45,87,not allowed
+45,88,allowed
+45,89,allowed
+45,90,allowed
+45,91,allowed
+45,92,allowed
+45,93,not allowed
+45,94,not allowed
+45,95,not allowed
+45,96,allowed
+45,97,not allowed
+45,98,not allowed
+45,99,allowed
+45,100,not allowed
+46,1,allowed
+46,2,allowed
+46,3,allowed
+46,4,allowed
+46,5,allowed
+46,6,allowed
+46,7,allowed
+46,8,allowed
+46,9,allowed
+46,10,allowed
+46,11,allowed
+46,12,not allowed
+46,13,allowed
+46,14,allowed
+46,15,allowed
+46,16,allowed
+46,17,allowed
+46,18,allowed
+46,19,not allowed
+46,20,allowed
+46,21,allowed
+46,22,allowed
+46,23,allowed
+46,24,allowed
+46,25,allowed
+46,26,allowed
+46,27,allowed
+46,28,allowed
+46,29,allowed
+46,30,allowed
+46,31,allowed
+46,32,allowed
+46,33,allowed
+46,34,allowed
+46,35,allowed
+46,36,allowed
+46,37,allowed
+46,38,allowed
+46,39,allowed
+46,40,allowed
+46,41,allowed
+46,42,allowed
+46,43,allowed
+46,44,allowed
+46,45,allowed
+46,46,allowed
+46,47,allowed
+46,48,allowed
+46,49,allowed
+46,50,allowed
+46,51,allowed
+46,52,allowed
+46,53,allowed
+46,54,allowed
+46,55,allowed
+46,56,allowed
+46,57,not allowed
+46,58,allowed
+46,59,allowed
+46,60,allowed
+46,61,not allowed
+46,62,allowed
+46,63,allowed
+46,64,allowed
+46,65,allowed
+46,66,allowed
+46,67,allowed
+46,68,allowed
+46,69,allowed
+46,70,allowed
+46,71,allowed
+46,72,allowed
+46,73,allowed
+46,74,allowed
+46,75,allowed
+46,76,allowed
+46,77,not allowed
+46,78,not allowed
+46,79,not allowed
+46,80,allowed
+46,81,not allowed
+46,82,allowed
+46,83,allowed
+46,84,allowed
+46,85,allowed
+46,86,allowed
+46,87,not allowed
+46,88,allowed
+46,89,allowed
+46,90,allowed
+46,91,allowed
+46,92,allowed
+46,93,not allowed
+46,94,not allowed
+46,95,not allowed
+46,96,allowed
+46,97,not allowed
+46,98,not allowed
+46,99,allowed
+46,100,not allowed
+47,1,allowed
+47,2,allowed
+47,3,allowed
+47,4,allowed
+47,5,allowed
+47,6,allowed
+47,7,allowed
+47,8,allowed
+47,9,allowed
+47,10,allowed
+47,11,allowed
+47,12,not allowed
+47,13,allowed
+47,14,allowed
+47,15,allowed
+47,16,allowed
+47,17,allowed
+47,18,allowed
+47,19,not allowed
+47,20,allowed
+47,21,allowed
+47,22,allowed
+47,23,allowed
+47,24,allowed
+47,25,allowed
+47,26,allowed
+47,27,allowed
+47,28,allowed
+47,29,allowed
+47,30,allowed
+47,31,allowed
+47,32,allowed
+47,33,allowed
+47,34,allowed
+47,35,allowed
+47,36,allowed
+47,37,allowed
+47,38,allowed
+47,39,allowed
+47,40,allowed
+47,41,allowed
+47,42,allowed
+47,43,allowed
+47,44,allowed
+47,45,allowed
+47,46,allowed
+47,47,allowed
+47,48,allowed
+47,49,allowed
+47,50,allowed
+47,51,allowed
+47,52,allowed
+47,53,allowed
+47,54,allowed
+47,55,allowed
+47,56,allowed
+47,57,not allowed
+47,58,allowed
+47,59,allowed
+47,60,allowed
+47,61,not allowed
+47,62,allowed
+47,63,allowed
+47,64,allowed
+47,65,allowed
+47,66,allowed
+47,67,allowed
+47,68,allowed
+47,69,allowed
+47,70,allowed
+47,71,allowed
+47,72,allowed
+47,73,allowed
+47,74,allowed
+47,75,allowed
+47,76,allowed
+47,77,not allowed
+47,78,not allowed
+47,79,not allowed
+47,80,allowed
+47,81,not allowed
+47,82,allowed
+47,83,allowed
+47,84,allowed
+47,85,allowed
+47,86,allowed
+47,87,not allowed
+47,88,allowed
+47,89,allowed
+47,90,allowed
+47,91,allowed
+47,92,allowed
+47,93,not allowed
+47,94,not allowed
+47,95,not allowed
+47,96,allowed
+47,97,not allowed
+47,98,not allowed
+47,99,allowed
+47,100,not allowed
+48,1,allowed
+48,2,allowed
+48,3,allowed
+48,4,allowed
+48,5,allowed
+48,6,allowed
+48,7,allowed
+48,8,allowed
+48,9,allowed
+48,10,allowed
+48,11,allowed
+48,12,not allowed
+48,13,allowed
+48,14,allowed
+48,15,allowed
+48,16,allowed
+48,17,allowed
+48,18,allowed
+48,19,not allowed
+48,20,allowed
+48,21,allowed
+48,22,allowed
+48,23,allowed
+48,24,allowed
+48,25,allowed
+48,26,allowed
+48,27,allowed
+48,28,allowed
+48,29,allowed
+48,30,allowed
+48,31,allowed
+48,32,allowed
+48,33,allowed
+48,34,allowed
+48,35,allowed
+48,36,allowed
+48,37,allowed
+48,38,allowed
+48,39,allowed
+48,40,allowed
+48,41,allowed
+48,42,allowed
+48,43,allowed
+48,44,allowed
+48,45,allowed
+48,46,allowed
+48,47,allowed
+48,48,allowed
+48,49,allowed
+48,50,allowed
+48,51,allowed
+48,52,allowed
+48,53,allowed
+48,54,allowed
+48,55,allowed
+48,56,allowed
+48,57,not allowed
+48,58,allowed
+48,59,allowed
+48,60,allowed
+48,61,not allowed
+48,62,allowed
+48,63,allowed
+48,64,allowed
+48,65,allowed
+48,66,allowed
+48,67,allowed
+48,68,allowed
+48,69,allowed
+48,70,allowed
+48,71,allowed
+48,72,allowed
+48,73,allowed
+48,74,allowed
+48,75,allowed
+48,76,allowed
+48,77,not allowed
+48,78,not allowed
+48,79,not allowed
+48,80,allowed
+48,81,not allowed
+48,82,allowed
+48,83,allowed
+48,84,allowed
+48,85,allowed
+48,86,allowed
+48,87,not allowed
+48,88,allowed
+48,89,allowed
+48,90,allowed
+48,91,allowed
+48,92,allowed
+48,93,not allowed
+48,94,not allowed
+48,95,not allowed
+48,96,allowed
+48,97,not allowed
+48,98,not allowed
+48,99,allowed
+48,100,not allowed
+49,1,allowed
+49,2,allowed
+49,3,allowed
+49,4,allowed
+49,5,allowed
+49,6,allowed
+49,7,allowed
+49,8,allowed
+49,9,allowed
+49,10,allowed
+49,11,allowed
+49,12,not allowed
+49,13,allowed
+49,14,allowed
+49,15,allowed
+49,16,allowed
+49,17,allowed
+49,18,allowed
+49,19,not allowed
+49,20,allowed
+49,21,allowed
+49,22,allowed
+49,23,allowed
+49,24,allowed
+49,25,allowed
+49,26,allowed
+49,27,allowed
+49,28,allowed
+49,29,allowed
+49,30,allowed
+49,31,allowed
+49,32,allowed
+49,33,allowed
+49,34,allowed
+49,35,allowed
+49,36,allowed
+49,37,allowed
+49,38,allowed
+49,39,allowed
+49,40,allowed
+49,41,allowed
+49,42,allowed
+49,43,allowed
+49,44,allowed
+49,45,allowed
+49,46,allowed
+49,47,allowed
+49,48,allowed
+49,49,allowed
+49,50,allowed
+49,51,allowed
+49,52,allowed
+49,53,allowed
+49,54,allowed
+49,55,allowed
+49,56,allowed
+49,57,not allowed
+49,58,allowed
+49,59,allowed
+49,60,allowed
+49,61,not allowed
+49,62,allowed
+49,63,allowed
+49,64,allowed
+49,65,allowed
+49,66,allowed
+49,67,allowed
+49,68,allowed
+49,69,allowed
+49,70,allowed
+49,71,allowed
+49,72,allowed
+49,73,allowed
+49,74,allowed
+49,75,allowed
+49,76,allowed
+49,77,not allowed
+49,78,not allowed
+49,79,not allowed
+49,80,allowed
+49,81,not allowed
+49,82,allowed
+49,83,allowed
+49,84,allowed
+49,85,allowed
+49,86,allowed
+49,87,not allowed
+49,88,allowed
+49,89,allowed
+49,90,allowed
+49,91,allowed
+49,92,allowed
+49,93,not allowed
+49,94,not allowed
+49,95,not allowed
+49,96,allowed
+49,97,not allowed
+49,98,not allowed
+49,99,allowed
+49,100,not allowed
+50,1,allowed
+50,2,allowed
+50,3,allowed
+50,4,allowed
+50,5,allowed
+50,6,allowed
+50,7,allowed
+50,8,allowed
+50,9,allowed
+50,10,allowed
+50,11,allowed
+50,12,not allowed
+50,13,allowed
+50,14,allowed
+50,15,allowed
+50,16,allowed
+50,17,allowed
+50,18,allowed
+50,19,not allowed
+50,20,allowed
+50,21,allowed
+50,22,allowed
+50,23,allowed
+50,24,allowed
+50,25,allowed
+50,26,allowed
+50,27,allowed
+50,28,allowed
+50,29,allowed
+50,30,allowed
+50,31,allowed
+50,32,allowed
+50,33,allowed
+50,34,allowed
+50,35,allowed
+50,36,allowed
+50,37,allowed
+50,38,allowed
+50,39,allowed
+50,40,allowed
+50,41,allowed
+50,42,allowed
+50,43,allowed
+50,44,allowed
+50,45,allowed
+50,46,allowed
+50,47,allowed
+50,48,allowed
+50,49,allowed
+50,50,allowed
+50,51,allowed
+50,52,allowed
+50,53,allowed
+50,54,allowed
+50,55,allowed
+50,56,allowed
+50,57,not allowed
+50,58,allowed
+50,59,allowed
+50,60,allowed
+50,61,not allowed
+50,62,allowed
+50,63,allowed
+50,64,allowed
+50,65,allowed
+50,66,allowed
+50,67,allowed
+50,68,allowed
+50,69,allowed
+50,70,allowed
+50,71,allowed
+50,72,allowed
+50,73,allowed
+50,74,allowed
+50,75,allowed
+50,76,allowed
+50,77,not allowed
+50,78,not allowed
+50,79,not allowed
+50,80,allowed
+50,81,not allowed
+50,82,allowed
+50,83,allowed
+50,84,allowed
+50,85,allowed
+50,86,allowed
+50,87,not allowed
+50,88,allowed
+50,89,allowed
+50,90,allowed
+50,91,allowed
+50,92,allowed
+50,93,not allowed
+50,94,not allowed
+50,95,not allowed
+50,96,allowed
+50,97,not allowed
+50,98,not allowed
+50,99,allowed
+50,100,not allowed
+51,1,allowed
+51,2,allowed
+51,3,allowed
+51,4,allowed
+51,5,allowed
+51,6,allowed
+51,7,allowed
+51,8,allowed
+51,9,allowed
+51,10,allowed
+51,11,allowed
+51,12,not allowed
+51,13,allowed
+51,14,allowed
+51,15,allowed
+51,16,allowed
+51,17,allowed
+51,18,allowed
+51,19,not allowed
+51,20,allowed
+51,21,allowed
+51,22,allowed
+51,23,allowed
+51,24,allowed
+51,25,allowed
+51,26,allowed
+51,27,allowed
+51,28,allowed
+51,29,allowed
+51,30,allowed
+51,31,allowed
+51,32,allowed
+51,33,allowed
+51,34,allowed
+51,35,allowed
+51,36,allowed
+51,37,allowed
+51,38,allowed
+51,39,allowed
+51,40,allowed
+51,41,allowed
+51,42,allowed
+51,43,allowed
+51,44,allowed
+51,45,allowed
+51,46,allowed
+51,47,allowed
+51,48,allowed
+51,49,allowed
+51,50,allowed
+51,51,allowed
+51,52,allowed
+51,53,allowed
+51,54,allowed
+51,55,allowed
+51,56,allowed
+51,57,not allowed
+51,58,allowed
+51,59,allowed
+51,60,allowed
+51,61,not allowed
+51,62,allowed
+51,63,allowed
+51,64,allowed
+51,65,allowed
+51,66,allowed
+51,67,allowed
+51,68,allowed
+51,69,allowed
+51,70,allowed
+51,71,allowed
+51,72,allowed
+51,73,allowed
+51,74,allowed
+51,75,allowed
+51,76,allowed
+51,77,not allowed
+51,78,not allowed
+51,79,not allowed
+51,80,allowed
+51,81,not allowed
+51,82,allowed
+51,83,allowed
+51,84,allowed
+51,85,allowed
+51,86,allowed
+51,87,not allowed
+51,88,allowed
+51,89,allowed
+51,90,allowed
+51,91,allowed
+51,92,allowed
+51,93,not allowed
+51,94,not allowed
+51,95,not allowed
+51,96,allowed
+51,97,not allowed
+51,98,not allowed
+51,99,allowed
+51,100,not allowed
+52,1,allowed
+52,2,allowed
+52,3,allowed
+52,4,allowed
+52,5,allowed
+52,6,allowed
+52,7,allowed
+52,8,allowed
+52,9,allowed
+52,10,allowed
+52,11,allowed
+52,12,not allowed
+52,13,allowed
+52,14,allowed
+52,15,allowed
+52,16,allowed
+52,17,allowed
+52,18,allowed
+52,19,not allowed
+52,20,allowed
+52,21,allowed
+52,22,allowed
+52,23,allowed
+52,24,allowed
+52,25,allowed
+52,26,allowed
+52,27,allowed
+52,28,allowed
+52,29,allowed
+52,30,allowed
+52,31,allowed
+52,32,allowed
+52,33,allowed
+52,34,allowed
+52,35,allowed
+52,36,allowed
+52,37,allowed
+52,38,allowed
+52,39,allowed
+52,40,allowed
+52,41,allowed
+52,42,allowed
+52,43,allowed
+52,44,allowed
+52,45,allowed
+52,46,allowed
+52,47,allowed
+52,48,allowed
+52,49,allowed
+52,50,allowed
+52,51,allowed
+52,52,allowed
+52,53,allowed
+52,54,allowed
+52,55,allowed
+52,56,allowed
+52,57,not allowed
+52,58,allowed
+52,59,allowed
+52,60,allowed
+52,61,not allowed
+52,62,allowed
+52,63,allowed
+52,64,allowed
+52,65,allowed
+52,66,allowed
+52,67,allowed
+52,68,allowed
+52,69,allowed
+52,70,allowed
+52,71,allowed
+52,72,allowed
+52,73,allowed
+52,74,allowed
+52,75,allowed
+52,76,allowed
+52,77,not allowed
+52,78,not allowed
+52,79,not allowed
+52,80,allowed
+52,81,not allowed
+52,82,allowed
+52,83,allowed
+52,84,allowed
+52,85,allowed
+52,86,allowed
+52,87,not allowed
+52,88,allowed
+52,89,allowed
+52,90,allowed
+52,91,allowed
+52,92,allowed
+52,93,not allowed
+52,94,not allowed
+52,95,not allowed
+52,96,allowed
+52,97,not allowed
+52,98,not allowed
+52,99,allowed
+52,100,not allowed
+53,1,allowed
+53,2,allowed
+53,3,allowed
+53,4,allowed
+53,5,allowed
+53,6,allowed
+53,7,allowed
+53,8,allowed
+53,9,allowed
+53,10,allowed
+53,11,allowed
+53,12,not allowed
+53,13,allowed
+53,14,allowed
+53,15,allowed
+53,16,allowed
+53,17,allowed
+53,18,allowed
+53,19,not allowed
+53,20,allowed
+53,21,allowed
+53,22,allowed
+53,23,allowed
+53,24,allowed
+53,25,allowed
+53,26,allowed
+53,27,allowed
+53,28,allowed
+53,29,allowed
+53,30,allowed
+53,31,allowed
+53,32,allowed
+53,33,allowed
+53,34,allowed
+53,35,allowed
+53,36,allowed
+53,37,allowed
+53,38,allowed
+53,39,allowed
+53,40,allowed
+53,41,allowed
+53,42,allowed
+53,43,allowed
+53,44,allowed
+53,45,allowed
+53,46,allowed
+53,47,allowed
+53,48,allowed
+53,49,allowed
+53,50,allowed
+53,51,allowed
+53,52,allowed
+53,53,allowed
+53,54,allowed
+53,55,allowed
+53,56,allowed
+53,57,not allowed
+53,58,allowed
+53,59,allowed
+53,60,allowed
+53,61,not allowed
+53,62,allowed
+53,63,allowed
+53,64,allowed
+53,65,allowed
+53,66,allowed
+53,67,allowed
+53,68,allowed
+53,69,allowed
+53,70,allowed
+53,71,allowed
+53,72,allowed
+53,73,allowed
+53,74,allowed
+53,75,allowed
+53,76,allowed
+53,77,not allowed
+53,78,not allowed
+53,79,not allowed
+53,80,allowed
+53,81,not allowed
+53,82,allowed
+53,83,allowed
+53,84,allowed
+53,85,allowed
+53,86,allowed
+53,87,not allowed
+53,88,allowed
+53,89,allowed
+53,90,allowed
+53,91,allowed
+53,92,allowed
+53,93,not allowed
+53,94,not allowed
+53,95,not allowed
+53,96,allowed
+53,97,not allowed
+53,98,not allowed
+53,99,allowed
+53,100,not allowed
+54,1,allowed
+54,2,allowed
+54,3,allowed
+54,4,allowed
+54,5,allowed
+54,6,allowed
+54,7,allowed
+54,8,allowed
+54,9,allowed
+54,10,allowed
+54,11,allowed
+54,12,not allowed
+54,13,allowed
+54,14,allowed
+54,15,allowed
+54,16,allowed
+54,17,allowed
+54,18,allowed
+54,19,not allowed
+54,20,allowed
+54,21,allowed
+54,22,allowed
+54,23,allowed
+54,24,allowed
+54,25,allowed
+54,26,allowed
+54,27,allowed
+54,28,allowed
+54,29,allowed
+54,30,allowed
+54,31,allowed
+54,32,allowed
+54,33,allowed
+54,34,allowed
+54,35,allowed
+54,36,allowed
+54,37,allowed
+54,38,allowed
+54,39,allowed
+54,40,allowed
+54,41,allowed
+54,42,allowed
+54,43,allowed
+54,44,allowed
+54,45,allowed
+54,46,allowed
+54,47,allowed
+54,48,allowed
+54,49,allowed
+54,50,allowed
+54,51,allowed
+54,52,allowed
+54,53,allowed
+54,54,allowed
+54,55,allowed
+54,56,allowed
+54,57,not allowed
+54,58,allowed
+54,59,allowed
+54,60,allowed
+54,61,not allowed
+54,62,allowed
+54,63,allowed
+54,64,allowed
+54,65,allowed
+54,66,allowed
+54,67,allowed
+54,68,allowed
+54,69,allowed
+54,70,allowed
+54,71,allowed
+54,72,allowed
+54,73,allowed
+54,74,allowed
+54,75,allowed
+54,76,allowed
+54,77,not allowed
+54,78,not allowed
+54,79,not allowed
+54,80,allowed
+54,81,not allowed
+54,82,allowed
+54,83,allowed
+54,84,allowed
+54,85,allowed
+54,86,allowed
+54,87,not allowed
+54,88,allowed
+54,89,allowed
+54,90,allowed
+54,91,allowed
+54,92,allowed
+54,93,not allowed
+54,94,not allowed
+54,95,not allowed
+54,96,allowed
+54,97,not allowed
+54,98,not allowed
+54,99,allowed
+54,100,not allowed
+55,1,allowed
+55,2,allowed
+55,3,allowed
+55,4,allowed
+55,5,allowed
+55,6,allowed
+55,7,allowed
+55,8,allowed
+55,9,allowed
+55,10,allowed
+55,11,allowed
+55,12,not allowed
+55,13,allowed
+55,14,allowed
+55,15,allowed
+55,16,allowed
+55,17,allowed
+55,18,allowed
+55,19,not allowed
+55,20,allowed
+55,21,allowed
+55,22,allowed
+55,23,allowed
+55,24,allowed
+55,25,allowed
+55,26,allowed
+55,27,allowed
+55,28,allowed
+55,29,allowed
+55,30,allowed
+55,31,allowed
+55,32,allowed
+55,33,allowed
+55,34,allowed
+55,35,allowed
+55,36,allowed
+55,37,allowed
+55,38,allowed
+55,39,allowed
+55,40,allowed
+55,41,allowed
+55,42,allowed
+55,43,allowed
+55,44,allowed
+55,45,allowed
+55,46,allowed
+55,47,allowed
+55,48,allowed
+55,49,allowed
+55,50,allowed
+55,51,allowed
+55,52,allowed
+55,53,allowed
+55,54,allowed
+55,55,allowed
+55,56,allowed
+55,57,not allowed
+55,58,allowed
+55,59,allowed
+55,60,allowed
+55,61,not allowed
+55,62,allowed
+55,63,allowed
+55,64,allowed
+55,65,allowed
+55,66,allowed
+55,67,allowed
+55,68,allowed
+55,69,allowed
+55,70,allowed
+55,71,allowed
+55,72,allowed
+55,73,allowed
+55,74,allowed
+55,75,allowed
+55,76,allowed
+55,77,not allowed
+55,78,not allowed
+55,79,not allowed
+55,80,allowed
+55,81,not allowed
+55,82,allowed
+55,83,allowed
+55,84,allowed
+55,85,allowed
+55,86,allowed
+55,87,not allowed
+55,88,allowed
+55,89,allowed
+55,90,allowed
+55,91,allowed
+55,92,allowed
+55,93,not allowed
+55,94,not allowed
+55,95,not allowed
+55,96,allowed
+55,97,not allowed
+55,98,not allowed
+55,99,allowed
+55,100,not allowed
+56,1,allowed
+56,2,allowed
+56,3,allowed
+56,4,allowed
+56,5,allowed
+56,6,allowed
+56,7,allowed
+56,8,allowed
+56,9,allowed
+56,10,allowed
+56,11,allowed
+56,12,not allowed
+56,13,allowed
+56,14,allowed
+56,15,allowed
+56,16,allowed
+56,17,allowed
+56,18,allowed
+56,19,not allowed
+56,20,allowed
+56,21,allowed
+56,22,allowed
+56,23,allowed
+56,24,allowed
+56,25,allowed
+56,26,allowed
+56,27,allowed
+56,28,allowed
+56,29,allowed
+56,30,allowed
+56,31,allowed
+56,32,allowed
+56,33,allowed
+56,34,allowed
+56,35,allowed
+56,36,allowed
+56,37,allowed
+56,38,allowed
+56,39,allowed
+56,40,allowed
+56,41,allowed
+56,42,allowed
+56,43,allowed
+56,44,allowed
+56,45,allowed
+56,46,allowed
+56,47,allowed
+56,48,allowed
+56,49,allowed
+56,50,allowed
+56,51,allowed
+56,52,allowed
+56,53,allowed
+56,54,allowed
+56,55,allowed
+56,56,allowed
+56,57,not allowed
+56,58,allowed
+56,59,allowed
+56,60,allowed
+56,61,not allowed
+56,62,allowed
+56,63,allowed
+56,64,allowed
+56,65,allowed
+56,66,allowed
+56,67,allowed
+56,68,allowed
+56,69,allowed
+56,70,allowed
+56,71,allowed
+56,72,allowed
+56,73,allowed
+56,74,allowed
+56,75,allowed
+56,76,allowed
+56,77,not allowed
+56,78,not allowed
+56,79,not allowed
+56,80,allowed
+56,81,not allowed
+56,82,allowed
+56,83,allowed
+56,84,allowed
+56,85,allowed
+56,86,allowed
+56,87,not allowed
+56,88,allowed
+56,89,allowed
+56,90,allowed
+56,91,allowed
+56,92,allowed
+56,93,not allowed
+56,94,not allowed
+56,95,not allowed
+56,96,allowed
+56,97,not allowed
+56,98,not allowed
+56,99,allowed
+56,100,not allowed
+57,1,allowed
+57,2,allowed
+57,3,allowed
+57,4,allowed
+57,5,allowed
+57,6,allowed
+57,7,allowed
+57,8,allowed
+57,9,allowed
+57,10,allowed
+57,11,allowed
+57,12,not allowed
+57,13,allowed
+57,14,allowed
+57,15,allowed
+57,16,allowed
+57,17,allowed
+57,18,allowed
+57,19,not allowed
+57,20,allowed
+57,21,allowed
+57,22,allowed
+57,23,allowed
+57,24,allowed
+57,25,allowed
+57,26,allowed
+57,27,allowed
+57,28,allowed
+57,29,allowed
+57,30,allowed
+57,31,allowed
+57,32,allowed
+57,33,allowed
+57,34,allowed
+57,35,allowed
+57,36,allowed
+57,37,allowed
+57,38,allowed
+57,39,allowed
+57,40,allowed
+57,41,allowed
+57,42,allowed
+57,43,allowed
+57,44,allowed
+57,45,allowed
+57,46,allowed
+57,47,allowed
+57,48,allowed
+57,49,allowed
+57,50,allowed
+57,51,allowed
+57,52,allowed
+57,53,allowed
+57,54,allowed
+57,55,allowed
+57,56,allowed
+57,57,not allowed
+57,58,allowed
+57,59,allowed
+57,60,allowed
+57,61,not allowed
+57,62,allowed
+57,63,allowed
+57,64,allowed
+57,65,allowed
+57,66,allowed
+57,67,allowed
+57,68,allowed
+57,69,allowed
+57,70,allowed
+57,71,allowed
+57,72,allowed
+57,73,allowed
+57,74,allowed
+57,75,allowed
+57,76,allowed
+57,77,not allowed
+57,78,not allowed
+57,79,not allowed
+57,80,allowed
+57,81,not allowed
+57,82,allowed
+57,83,allowed
+57,84,allowed
+57,85,allowed
+57,86,allowed
+57,87,not allowed
+57,88,allowed
+57,89,allowed
+57,90,allowed
+57,91,allowed
+57,92,allowed
+57,93,not allowed
+57,94,not allowed
+57,95,not allowed
+57,96,allowed
+57,97,not allowed
+57,98,not allowed
+57,99,allowed
+57,100,not allowed
+58,1,allowed
+58,2,allowed
+58,3,allowed
+58,4,allowed
+58,5,allowed
+58,6,allowed
+58,7,allowed
+58,8,allowed
+58,9,allowed
+58,10,allowed
+58,11,allowed
+58,12,not allowed
+58,13,allowed
+58,14,allowed
+58,15,allowed
+58,16,allowed
+58,17,allowed
+58,18,allowed
+58,19,not allowed
+58,20,allowed
+58,21,allowed
+58,22,allowed
+58,23,allowed
+58,24,allowed
+58,25,allowed
+58,26,allowed
+58,27,allowed
+58,28,allowed
+58,29,allowed
+58,30,allowed
+58,31,allowed
+58,32,allowed
+58,33,allowed
+58,34,allowed
+58,35,allowed
+58,36,allowed
+58,37,allowed
+58,38,allowed
+58,39,allowed
+58,40,allowed
+58,41,allowed
+58,42,allowed
+58,43,allowed
+58,44,allowed
+58,45,allowed
+58,46,allowed
+58,47,allowed
+58,48,allowed
+58,49,allowed
+58,50,allowed
+58,51,allowed
+58,52,allowed
+58,53,allowed
+58,54,allowed
+58,55,allowed
+58,56,allowed
+58,57,not allowed
+58,58,allowed
+58,59,allowed
+58,60,allowed
+58,61,not allowed
+58,62,allowed
+58,63,allowed
+58,64,allowed
+58,65,allowed
+58,66,allowed
+58,67,allowed
+58,68,allowed
+58,69,allowed
+58,70,allowed
+58,71,allowed
+58,72,allowed
+58,73,allowed
+58,74,allowed
+58,75,allowed
+58,76,allowed
+58,77,not allowed
+58,78,not allowed
+58,79,not allowed
+58,80,allowed
+58,81,not allowed
+58,82,allowed
+58,83,allowed
+58,84,allowed
+58,85,allowed
+58,86,allowed
+58,87,not allowed
+58,88,allowed
+58,89,allowed
+58,90,allowed
+58,91,allowed
+58,92,allowed
+58,93,not allowed
+58,94,not allowed
+58,95,not allowed
+58,96,allowed
+58,97,not allowed
+58,98,not allowed
+58,99,allowed
+58,100,not allowed
+59,1,allowed
+59,2,allowed
+59,3,allowed
+59,4,allowed
+59,5,allowed
+59,6,allowed
+59,7,allowed
+59,8,allowed
+59,9,allowed
+59,10,allowed
+59,11,allowed
+59,12,not allowed
+59,13,allowed
+59,14,allowed
+59,15,allowed
+59,16,allowed
+59,17,allowed
+59,18,allowed
+59,19,not allowed
+59,20,allowed
+59,21,allowed
+59,22,allowed
+59,23,allowed
+59,24,allowed
+59,25,allowed
+59,26,allowed
+59,27,allowed
+59,28,allowed
+59,29,allowed
+59,30,allowed
+59,31,allowed
+59,32,allowed
+59,33,allowed
+59,34,allowed
+59,35,allowed
+59,36,allowed
+59,37,allowed
+59,38,allowed
+59,39,allowed
+59,40,allowed
+59,41,allowed
+59,42,allowed
+59,43,allowed
+59,44,allowed
+59,45,allowed
+59,46,allowed
+59,47,allowed
+59,48,allowed
+59,49,allowed
+59,50,allowed
+59,51,allowed
+59,52,allowed
+59,53,allowed
+59,54,allowed
+59,55,allowed
+59,56,allowed
+59,57,not allowed
+59,58,allowed
+59,59,allowed
+59,60,allowed
+59,61,not allowed
+59,62,allowed
+59,63,allowed
+59,64,allowed
+59,65,allowed
+59,66,allowed
+59,67,allowed
+59,68,allowed
+59,69,allowed
+59,70,allowed
+59,71,allowed
+59,72,allowed
+59,73,allowed
+59,74,allowed
+59,75,allowed
+59,76,allowed
+59,77,not allowed
+59,78,not allowed
+59,79,not allowed
+59,80,allowed
+59,81,not allowed
+59,82,allowed
+59,83,allowed
+59,84,allowed
+59,85,allowed
+59,86,allowed
+59,87,not allowed
+59,88,allowed
+59,89,allowed
+59,90,allowed
+59,91,allowed
+59,92,allowed
+59,93,not allowed
+59,94,not allowed
+59,95,not allowed
+59,96,allowed
+59,97,not allowed
+59,98,not allowed
+59,99,allowed
+59,100,not allowed
+60,1,not allowed
+60,2,not allowed
+60,3,not allowed
+60,4,not allowed
+60,5,not allowed
+60,6,not allowed
+60,7,not allowed
+60,8,not allowed
+60,9,not allowed
+60,10,not allowed
+60,11,not allowed
+60,12,not allowed
+60,13,not allowed
+60,14,not allowed
+60,15,not allowed
+60,16,not allowed
+60,17,not allowed
+60,18,not allowed
+60,19,not allowed
+60,20,not allowed
+60,21,not allowed
+60,22,not allowed
+60,23,not allowed
+60,24,not allowed
+60,25,not allowed
+60,26,not allowed
+60,27,not allowed
+60,28,not allowed
+60,29,not allowed
+60,30,not allowed
+60,31,not allowed
+60,32,not allowed
+60,33,not allowed
+60,34,not allowed
+60,35,not allowed
+60,36,not allowed
+60,37,not allowed
+60,38,not allowed
+60,39,not allowed
+60,40,not allowed
+60,41,not allowed
+60,42,not allowed
+60,43,not allowed
+60,44,not allowed
+60,45,not allowed
+60,46,not allowed
+60,47,not allowed
+60,48,not allowed
+60,49,not allowed
+60,50,not allowed
+60,51,not allowed
+60,52,not allowed
+60,53,not allowed
+60,54,not allowed
+60,55,not allowed
+60,56,not allowed
+60,57,not allowed
+60,58,not allowed
+60,59,not allowed
+60,60,not allowed
+60,61,not allowed
+60,62,not allowed
+60,63,not allowed
+60,64,not allowed
+60,65,not allowed
+60,66,not allowed
+60,67,not allowed
+60,68,not allowed
+60,69,not allowed
+60,70,not allowed
+60,71,not allowed
+60,72,not allowed
+60,73,not allowed
+60,74,not allowed
+60,75,not allowed
+60,76,not allowed
+60,77,not allowed
+60,78,not allowed
+60,79,not allowed
+60,80,not allowed
+60,81,not allowed
+60,82,not allowed
+60,83,not allowed
+60,84,not allowed
+60,85,not allowed
+60,86,not allowed
+60,87,not allowed
+60,88,not allowed
+60,89,not allowed
+60,90,not allowed
+60,91,not allowed
+60,92,not allowed
+60,93,not allowed
+60,94,not allowed
+60,95,not allowed
+60,96,not allowed
+60,97,not allowed
+60,98,not allowed
+60,99,not allowed
+60,100,not allowed
+61,1,not allowed
+61,2,not allowed
+61,3,not allowed
+61,4,not allowed
+61,5,not allowed
+61,6,not allowed
+61,7,not allowed
+61,8,not allowed
+61,9,not allowed
+61,10,not allowed
+61,11,not allowed
+61,12,not allowed
+61,13,not allowed
+61,14,not allowed
+61,15,not allowed
+61,16,not allowed
+61,17,not allowed
+61,18,not allowed
+61,19,not allowed
+61,20,not allowed
+61,21,not allowed
+61,22,not allowed
+61,23,not allowed
+61,24,not allowed
+61,25,not allowed
+61,26,not allowed
+61,27,not allowed
+61,28,not allowed
+61,29,not allowed
+61,30,not allowed
+61,31,not allowed
+61,32,not allowed
+61,33,not allowed
+61,34,not allowed
+61,35,not allowed
+61,36,not allowed
+61,37,not allowed
+61,38,not allowed
+61,39,not allowed
+61,40,not allowed
+61,41,not allowed
+61,42,not allowed
+61,43,not allowed
+61,44,not allowed
+61,45,not allowed
+61,46,not allowed
+61,47,not allowed
+61,48,not allowed
+61,49,not allowed
+61,50,not allowed
+61,51,not allowed
+61,52,not allowed
+61,53,not allowed
+61,54,not allowed
+61,55,not allowed
+61,56,not allowed
+61,57,not allowed
+61,58,not allowed
+61,59,not allowed
+61,60,not allowed
+61,61,not allowed
+61,62,not allowed
+61,63,not allowed
+61,64,not allowed
+61,65,not allowed
+61,66,not allowed
+61,67,not allowed
+61,68,not allowed
+61,69,not allowed
+61,70,not allowed
+61,71,not allowed
+61,72,not allowed
+61,73,not allowed
+61,74,not allowed
+61,75,not allowed
+61,76,not allowed
+61,77,not allowed
+61,78,not allowed
+61,79,not allowed
+61,80,not allowed
+61,81,not allowed
+61,82,not allowed
+61,83,not allowed
+61,84,not allowed
+61,85,not allowed
+61,86,not allowed
+61,87,not allowed
+61,88,not allowed
+61,89,not allowed
+61,90,not allowed
+61,91,not allowed
+61,92,not allowed
+61,93,not allowed
+61,94,not allowed
+61,95,not allowed
+61,96,not allowed
+61,97,not allowed
+61,98,not allowed
+61,99,not allowed
+61,100,not allowed
+62,1,not allowed
+62,2,not allowed
+62,3,not allowed
+62,4,not allowed
+62,5,not allowed
+62,6,not allowed
+62,7,not allowed
+62,8,not allowed
+62,9,not allowed
+62,10,not allowed
+62,11,not allowed
+62,12,not allowed
+62,13,not allowed
+62,14,not allowed
+62,15,not allowed
+62,16,not allowed
+62,17,not allowed
+62,18,not allowed
+62,19,not allowed
+62,20,not allowed
+62,21,not allowed
+62,22,not allowed
+62,23,not allowed
+62,24,not allowed
+62,25,not allowed
+62,26,not allowed
+62,27,not allowed
+62,28,not allowed
+62,29,not allowed
+62,30,not allowed
+62,31,not allowed
+62,32,not allowed
+62,33,not allowed
+62,34,not allowed
+62,35,not allowed
+62,36,not allowed
+62,37,not allowed
+62,38,not allowed
+62,39,not allowed
+62,40,not allowed
+62,41,not allowed
+62,42,not allowed
+62,43,not allowed
+62,44,not allowed
+62,45,not allowed
+62,46,not allowed
+62,47,not allowed
+62,48,not allowed
+62,49,not allowed
+62,50,not allowed
+62,51,not allowed
+62,52,not allowed
+62,53,not allowed
+62,54,not allowed
+62,55,not allowed
+62,56,not allowed
+62,57,not allowed
+62,58,not allowed
+62,59,not allowed
+62,60,not allowed
+62,61,not allowed
+62,62,not allowed
+62,63,not allowed
+62,64,not allowed
+62,65,not allowed
+62,66,not allowed
+62,67,not allowed
+62,68,not allowed
+62,69,not allowed
+62,70,not allowed
+62,71,not allowed
+62,72,not allowed
+62,73,not allowed
+62,74,not allowed
+62,75,not allowed
+62,76,not allowed
+62,77,not allowed
+62,78,not allowed
+62,79,not allowed
+62,80,not allowed
+62,81,not allowed
+62,82,not allowed
+62,83,not allowed
+62,84,not allowed
+62,85,not allowed
+62,86,not allowed
+62,87,not allowed
+62,88,not allowed
+62,89,not allowed
+62,90,not allowed
+62,91,not allowed
+62,92,not allowed
+62,93,not allowed
+62,94,not allowed
+62,95,not allowed
+62,96,not allowed
+62,97,not allowed
+62,98,not allowed
+62,99,not allowed
+62,100,not allowed
+63,1,not allowed
+63,2,not allowed
+63,3,not allowed
+63,4,not allowed
+63,5,not allowed
+63,6,not allowed
+63,7,not allowed
+63,8,not allowed
+63,9,not allowed
+63,10,not allowed
+63,11,not allowed
+63,12,not allowed
+63,13,not allowed
+63,14,not allowed
+63,15,not allowed
+63,16,not allowed
+63,17,not allowed
+63,18,not allowed
+63,19,not allowed
+63,20,not allowed
+63,21,not allowed
+63,22,not allowed
+63,23,not allowed
+63,24,not allowed
+63,25,not allowed
+63,26,not allowed
+63,27,not allowed
+63,28,not allowed
+63,29,not allowed
+63,30,not allowed
+63,31,not allowed
+63,32,not allowed
+63,33,not allowed
+63,34,not allowed
+63,35,not allowed
+63,36,not allowed
+63,37,not allowed
+63,38,not allowed
+63,39,not allowed
+63,40,not allowed
+63,41,not allowed
+63,42,not allowed
+63,43,not allowed
+63,44,not allowed
+63,45,not allowed
+63,46,not allowed
+63,47,not allowed
+63,48,not allowed
+63,49,not allowed
+63,50,not allowed
+63,51,not allowed
+63,52,not allowed
+63,53,not allowed
+63,54,not allowed
+63,55,not allowed
+63,56,not allowed
+63,57,not allowed
+63,58,not allowed
+63,59,not allowed
+63,60,not allowed
+63,61,not allowed
+63,62,not allowed
+63,63,not allowed
+63,64,not allowed
+63,65,not allowed
+63,66,not allowed
+63,67,not allowed
+63,68,not allowed
+63,69,not allowed
+63,70,not allowed
+63,71,not allowed
+63,72,not allowed
+63,73,not allowed
+63,74,not allowed
+63,75,not allowed
+63,76,not allowed
+63,77,not allowed
+63,78,not allowed
+63,79,not allowed
+63,80,not allowed
+63,81,not allowed
+63,82,not allowed
+63,83,not allowed
+63,84,not allowed
+63,85,not allowed
+63,86,not allowed
+63,87,not allowed
+63,88,not allowed
+63,89,not allowed
+63,90,not allowed
+63,91,not allowed
+63,92,not allowed
+63,93,not allowed
+63,94,not allowed
+63,95,not allowed
+63,96,not allowed
+63,97,not allowed
+63,98,not allowed
+63,99,not allowed
+63,100,not allowed
+64,1,not allowed
+64,2,not allowed
+64,3,not allowed
+64,4,not allowed
+64,5,not allowed
+64,6,not allowed
+64,7,not allowed
+64,8,not allowed
+64,9,not allowed
+64,10,not allowed
+64,11,not allowed
+64,12,not allowed
+64,13,not allowed
+64,14,not allowed
+64,15,not allowed
+64,16,not allowed
+64,17,not allowed
+64,18,not allowed
+64,19,not allowed
+64,20,not allowed
+64,21,not allowed
+64,22,not allowed
+64,23,not allowed
+64,24,not allowed
+64,25,not allowed
+64,26,not allowed
+64,27,not allowed
+64,28,not allowed
+64,29,not allowed
+64,30,not allowed
+64,31,not allowed
+64,32,not allowed
+64,33,not allowed
+64,34,not allowed
+64,35,not allowed
+64,36,not allowed
+64,37,not allowed
+64,38,not allowed
+64,39,not allowed
+64,40,not allowed
+64,41,not allowed
+64,42,not allowed
+64,43,not allowed
+64,44,not allowed
+64,45,not allowed
+64,46,not allowed
+64,47,not allowed
+64,48,not allowed
+64,49,not allowed
+64,50,not allowed
+64,51,not allowed
+64,52,not allowed
+64,53,not allowed
+64,54,not allowed
+64,55,not allowed
+64,56,not allowed
+64,57,not allowed
+64,58,not allowed
+64,59,not allowed
+64,60,not allowed
+64,61,not allowed
+64,62,not allowed
+64,63,not allowed
+64,64,not allowed
+64,65,not allowed
+64,66,not allowed
+64,67,not allowed
+64,68,not allowed
+64,69,not allowed
+64,70,not allowed
+64,71,not allowed
+64,72,not allowed
+64,73,not allowed
+64,74,not allowed
+64,75,not allowed
+64,76,not allowed
+64,77,not allowed
+64,78,not allowed
+64,79,not allowed
+64,80,not allowed
+64,81,not allowed
+64,82,not allowed
+64,83,not allowed
+64,84,not allowed
+64,85,not allowed
+64,86,not allowed
+64,87,not allowed
+64,88,not allowed
+64,89,not allowed
+64,90,not allowed
+64,91,not allowed
+64,92,not allowed
+64,93,not allowed
+64,94,not allowed
+64,95,not allowed
+64,96,not allowed
+64,97,not allowed
+64,98,not allowed
+64,99,not allowed
+64,100,not allowed
+65,1,not allowed
+65,2,not allowed
+65,3,not allowed
+65,4,not allowed
+65,5,not allowed
+65,6,not allowed
+65,7,not allowed
+65,8,not allowed
+65,9,not allowed
+65,10,not allowed
+65,11,not allowed
+65,12,not allowed
+65,13,not allowed
+65,14,not allowed
+65,15,not allowed
+65,16,not allowed
+65,17,not allowed
+65,18,not allowed
+65,19,not allowed
+65,20,not allowed
+65,21,not allowed
+65,22,not allowed
+65,23,not allowed
+65,24,not allowed
+65,25,not allowed
+65,26,not allowed
+65,27,not allowed
+65,28,not allowed
+65,29,not allowed
+65,30,not allowed
+65,31,not allowed
+65,32,not allowed
+65,33,not allowed
+65,34,not allowed
+65,35,not allowed
+65,36,not allowed
+65,37,not allowed
+65,38,not allowed
+65,39,not allowed
+65,40,not allowed
+65,41,not allowed
+65,42,not allowed
+65,43,not allowed
+65,44,not allowed
+65,45,not allowed
+65,46,not allowed
+65,47,not allowed
+65,48,not allowed
+65,49,not allowed
+65,50,not allowed
+65,51,not allowed
+65,52,not allowed
+65,53,not allowed
+65,54,not allowed
+65,55,not allowed
+65,56,not allowed
+65,57,not allowed
+65,58,not allowed
+65,59,not allowed
+65,60,not allowed
+65,61,not allowed
+65,62,not allowed
+65,63,not allowed
+65,64,not allowed
+65,65,not allowed
+65,66,not allowed
+65,67,not allowed
+65,68,not allowed
+65,69,not allowed
+65,70,not allowed
+65,71,not allowed
+65,72,not allowed
+65,73,not allowed
+65,74,not allowed
+65,75,not allowed
+65,76,not allowed
+65,77,not allowed
+65,78,not allowed
+65,79,not allowed
+65,80,not allowed
+65,81,not allowed
+65,82,not allowed
+65,83,not allowed
+65,84,not allowed
+65,85,not allowed
+65,86,not allowed
+65,87,not allowed
+65,88,not allowed
+65,89,not allowed
+65,90,not allowed
+65,91,not allowed
+65,92,not allowed
+65,93,not allowed
+65,94,not allowed
+65,95,not allowed
+65,96,not allowed
+65,97,not allowed
+65,98,not allowed
+65,99,not allowed
+65,100,not allowed
+66,1,not allowed
+66,2,not allowed
+66,3,not allowed
+66,4,not allowed
+66,5,not allowed
+66,6,not allowed
+66,7,not allowed
+66,8,not allowed
+66,9,not allowed
+66,10,not allowed
+66,11,not allowed
+66,12,not allowed
+66,13,not allowed
+66,14,not allowed
+66,15,not allowed
+66,16,not allowed
+66,17,not allowed
+66,18,not allowed
+66,19,not allowed
+66,20,not allowed
+66,21,not allowed
+66,22,not allowed
+66,23,not allowed
+66,24,not allowed
+66,25,not allowed
+66,26,not allowed
+66,27,not allowed
+66,28,not allowed
+66,29,not allowed
+66,30,not allowed
+66,31,not allowed
+66,32,not allowed
+66,33,not allowed
+66,34,not allowed
+66,35,not allowed
+66,36,not allowed
+66,37,not allowed
+66,38,not allowed
+66,39,not allowed
+66,40,not allowed
+66,41,not allowed
+66,42,not allowed
+66,43,not allowed
+66,44,not allowed
+66,45,not allowed
+66,46,not allowed
+66,47,not allowed
+66,48,not allowed
+66,49,not allowed
+66,50,not allowed
+66,51,not allowed
+66,52,not allowed
+66,53,not allowed
+66,54,not allowed
+66,55,not allowed
+66,56,not allowed
+66,57,not allowed
+66,58,not allowed
+66,59,not allowed
+66,60,not allowed
+66,61,not allowed
+66,62,not allowed
+66,63,not allowed
+66,64,not allowed
+66,65,not allowed
+66,66,not allowed
+66,67,not allowed
+66,68,not allowed
+66,69,not allowed
+66,70,not allowed
+66,71,not allowed
+66,72,not allowed
+66,73,not allowed
+66,74,not allowed
+66,75,not allowed
+66,76,not allowed
+66,77,not allowed
+66,78,not allowed
+66,79,not allowed
+66,80,not allowed
+66,81,not allowed
+66,82,not allowed
+66,83,not allowed
+66,84,not allowed
+66,85,not allowed
+66,86,not allowed
+66,87,not allowed
+66,88,not allowed
+66,89,not allowed
+66,90,not allowed
+66,91,not allowed
+66,92,not allowed
+66,93,not allowed
+66,94,not allowed
+66,95,not allowed
+66,96,not allowed
+66,97,not allowed
+66,98,not allowed
+66,99,not allowed
+66,100,not allowed
+67,1,not allowed
+67,2,not allowed
+67,3,not allowed
+67,4,not allowed
+67,5,not allowed
+67,6,not allowed
+67,7,not allowed
+67,8,not allowed
+67,9,not allowed
+67,10,not allowed
+67,11,not allowed
+67,12,not allowed
+67,13,not allowed
+67,14,not allowed
+67,15,not allowed
+67,16,not allowed
+67,17,not allowed
+67,18,not allowed
+67,19,not allowed
+67,20,not allowed
+67,21,not allowed
+67,22,not allowed
+67,23,not allowed
+67,24,not allowed
+67,25,not allowed
+67,26,not allowed
+67,27,not allowed
+67,28,not allowed
+67,29,not allowed
+67,30,not allowed
+67,31,not allowed
+67,32,not allowed
+67,33,not allowed
+67,34,not allowed
+67,35,not allowed
+67,36,not allowed
+67,37,not allowed
+67,38,not allowed
+67,39,not allowed
+67,40,not allowed
+67,41,not allowed
+67,42,not allowed
+67,43,not allowed
+67,44,not allowed
+67,45,not allowed
+67,46,not allowed
+67,47,not allowed
+67,48,not allowed
+67,49,not allowed
+67,50,not allowed
+67,51,not allowed
+67,52,not allowed
+67,53,not allowed
+67,54,not allowed
+67,55,not allowed
+67,56,not allowed
+67,57,not allowed
+67,58,not allowed
+67,59,not allowed
+67,60,not allowed
+67,61,not allowed
+67,62,not allowed
+67,63,not allowed
+67,64,not allowed
+67,65,not allowed
+67,66,not allowed
+67,67,not allowed
+67,68,not allowed
+67,69,not allowed
+67,70,not allowed
+67,71,not allowed
+67,72,not allowed
+67,73,not allowed
+67,74,not allowed
+67,75,not allowed
+67,76,not allowed
+67,77,not allowed
+67,78,not allowed
+67,79,not allowed
+67,80,not allowed
+67,81,not allowed
+67,82,not allowed
+67,83,not allowed
+67,84,not allowed
+67,85,not allowed
+67,86,not allowed
+67,87,not allowed
+67,88,not allowed
+67,89,not allowed
+67,90,not allowed
+67,91,not allowed
+67,92,not allowed
+67,93,not allowed
+67,94,not allowed
+67,95,not allowed
+67,96,not allowed
+67,97,not allowed
+67,98,not allowed
+67,99,not allowed
+67,100,not allowed
+68,1,not allowed
+68,2,not allowed
+68,3,not allowed
+68,4,not allowed
+68,5,not allowed
+68,6,not allowed
+68,7,not allowed
+68,8,not allowed
+68,9,not allowed
+68,10,not allowed
+68,11,not allowed
+68,12,not allowed
+68,13,not allowed
+68,14,not allowed
+68,15,not allowed
+68,16,not allowed
+68,17,not allowed
+68,18,not allowed
+68,19,not allowed
+68,20,not allowed
+68,21,not allowed
+68,22,not allowed
+68,23,not allowed
+68,24,not allowed
+68,25,not allowed
+68,26,not allowed
+68,27,not allowed
+68,28,not allowed
+68,29,not allowed
+68,30,not allowed
+68,31,not allowed
+68,32,not allowed
+68,33,not allowed
+68,34,not allowed
+68,35,not allowed
+68,36,not allowed
+68,37,not allowed
+68,38,not allowed
+68,39,not allowed
+68,40,not allowed
+68,41,not allowed
+68,42,not allowed
+68,43,not allowed
+68,44,not allowed
+68,45,not allowed
+68,46,not allowed
+68,47,not allowed
+68,48,not allowed
+68,49,not allowed
+68,50,not allowed
+68,51,not allowed
+68,52,not allowed
+68,53,not allowed
+68,54,not allowed
+68,55,not allowed
+68,56,not allowed
+68,57,not allowed
+68,58,not allowed
+68,59,not allowed
+68,60,not allowed
+68,61,not allowed
+68,62,not allowed
+68,63,not allowed
+68,64,not allowed
+68,65,not allowed
+68,66,not allowed
+68,67,not allowed
+68,68,not allowed
+68,69,not allowed
+68,70,not allowed
+68,71,not allowed
+68,72,not allowed
+68,73,not allowed
+68,74,not allowed
+68,75,not allowed
+68,76,not allowed
+68,77,not allowed
+68,78,not allowed
+68,79,not allowed
+68,80,not allowed
+68,81,not allowed
+68,82,not allowed
+68,83,not allowed
+68,84,not allowed
+68,85,not allowed
+68,86,not allowed
+68,87,not allowed
+68,88,not allowed
+68,89,not allowed
+68,90,not allowed
+68,91,not allowed
+68,92,not allowed
+68,93,not allowed
+68,94,not allowed
+68,95,not allowed
+68,96,not allowed
+68,97,not allowed
+68,98,not allowed
+68,99,not allowed
+68,100,not allowed
+69,1,not allowed
+69,2,not allowed
+69,3,not allowed
+69,4,not allowed
+69,5,not allowed
+69,6,not allowed
+69,7,not allowed
+69,8,not allowed
+69,9,not allowed
+69,10,not allowed
+69,11,not allowed
+69,12,not allowed
+69,13,not allowed
+69,14,not allowed
+69,15,not allowed
+69,16,not allowed
+69,17,not allowed
+69,18,not allowed
+69,19,not allowed
+69,20,not allowed
+69,21,not allowed
+69,22,not allowed
+69,23,not allowed
+69,24,not allowed
+69,25,not allowed
+69,26,not allowed
+69,27,not allowed
+69,28,not allowed
+69,29,not allowed
+69,30,not allowed
+69,31,not allowed
+69,32,not allowed
+69,33,not allowed
+69,34,not allowed
+69,35,not allowed
+69,36,not allowed
+69,37,not allowed
+69,38,not allowed
+69,39,not allowed
+69,40,not allowed
+69,41,not allowed
+69,42,not allowed
+69,43,not allowed
+69,44,not allowed
+69,45,not allowed
+69,46,not allowed
+69,47,not allowed
+69,48,not allowed
+69,49,not allowed
+69,50,not allowed
+69,51,not allowed
+69,52,not allowed
+69,53,not allowed
+69,54,not allowed
+69,55,not allowed
+69,56,not allowed
+69,57,not allowed
+69,58,not allowed
+69,59,not allowed
+69,60,not allowed
+69,61,not allowed
+69,62,not allowed
+69,63,not allowed
+69,64,not allowed
+69,65,not allowed
+69,66,not allowed
+69,67,not allowed
+69,68,not allowed
+69,69,not allowed
+69,70,not allowed
+69,71,not allowed
+69,72,not allowed
+69,73,not allowed
+69,74,not allowed
+69,75,not allowed
+69,76,not allowed
+69,77,not allowed
+69,78,not allowed
+69,79,not allowed
+69,80,not allowed
+69,81,not allowed
+69,82,not allowed
+69,83,not allowed
+69,84,not allowed
+69,85,not allowed
+69,86,not allowed
+69,87,not allowed
+69,88,not allowed
+69,89,not allowed
+69,90,not allowed
+69,91,not allowed
+69,92,not allowed
+69,93,not allowed
+69,94,not allowed
+69,95,not allowed
+69,96,not allowed
+69,97,not allowed
+69,98,not allowed
+69,99,not allowed
+69,100,not allowed
+70,1,not allowed
+70,2,not allowed
+70,3,not allowed
+70,4,not allowed
+70,5,not allowed
+70,6,not allowed
+70,7,not allowed
+70,8,not allowed
+70,9,not allowed
+70,10,not allowed
+70,11,not allowed
+70,12,not allowed
+70,13,not allowed
+70,14,not allowed
+70,15,not allowed
+70,16,not allowed
+70,17,not allowed
+70,18,not allowed
+70,19,not allowed
+70,20,not allowed
+70,21,not allowed
+70,22,not allowed
+70,23,not allowed
+70,24,not allowed
+70,25,not allowed
+70,26,not allowed
+70,27,not allowed
+70,28,not allowed
+70,29,not allowed
+70,30,not allowed
+70,31,not allowed
+70,32,not allowed
+70,33,not allowed
+70,34,not allowed
+70,35,not allowed
+70,36,not allowed
+70,37,not allowed
+70,38,not allowed
+70,39,not allowed
+70,40,not allowed
+70,41,not allowed
+70,42,not allowed
+70,43,not allowed
+70,44,not allowed
+70,45,not allowed
+70,46,not allowed
+70,47,not allowed
+70,48,not allowed
+70,49,not allowed
+70,50,not allowed
+70,51,not allowed
+70,52,not allowed
+70,53,not allowed
+70,54,not allowed
+70,55,not allowed
+70,56,not allowed
+70,57,not allowed
+70,58,not allowed
+70,59,not allowed
+70,60,not allowed
+70,61,not allowed
+70,62,not allowed
+70,63,not allowed
+70,64,not allowed
+70,65,not allowed
+70,66,not allowed
+70,67,not allowed
+70,68,not allowed
+70,69,not allowed
+70,70,not allowed
+70,71,not allowed
+70,72,not allowed
+70,73,not allowed
+70,74,not allowed
+70,75,not allowed
+70,76,not allowed
+70,77,not allowed
+70,78,not allowed
+70,79,not allowed
+70,80,not allowed
+70,81,not allowed
+70,82,not allowed
+70,83,not allowed
+70,84,not allowed
+70,85,not allowed
+70,86,not allowed
+70,87,not allowed
+70,88,not allowed
+70,89,not allowed
+70,90,not allowed
+70,91,not allowed
+70,92,not allowed
+70,93,not allowed
+70,94,not allowed
+70,95,not allowed
+70,96,not allowed
+70,97,not allowed
+70,98,not allowed
+70,99,not allowed
+70,100,not allowed
+71,1,not allowed
+71,2,not allowed
+71,3,not allowed
+71,4,not allowed
+71,5,not allowed
+71,6,not allowed
+71,7,not allowed
+71,8,not allowed
+71,9,not allowed
+71,10,not allowed
+71,11,not allowed
+71,12,not allowed
+71,13,not allowed
+71,14,not allowed
+71,15,not allowed
+71,16,not allowed
+71,17,not allowed
+71,18,not allowed
+71,19,not allowed
+71,20,not allowed
+71,21,not allowed
+71,22,not allowed
+71,23,not allowed
+71,24,not allowed
+71,25,not allowed
+71,26,not allowed
+71,27,not allowed
+71,28,not allowed
+71,29,not allowed
+71,30,not allowed
+71,31,not allowed
+71,32,not allowed
+71,33,not allowed
+71,34,not allowed
+71,35,not allowed
+71,36,not allowed
+71,37,not allowed
+71,38,not allowed
+71,39,not allowed
+71,40,not allowed
+71,41,not allowed
+71,42,not allowed
+71,43,not allowed
+71,44,not allowed
+71,45,not allowed
+71,46,not allowed
+71,47,not allowed
+71,48,not allowed
+71,49,not allowed
+71,50,not allowed
+71,51,not allowed
+71,52,not allowed
+71,53,not allowed
+71,54,not allowed
+71,55,not allowed
+71,56,not allowed
+71,57,not allowed
+71,58,not allowed
+71,59,not allowed
+71,60,not allowed
+71,61,not allowed
+71,62,not allowed
+71,63,not allowed
+71,64,not allowed
+71,65,not allowed
+71,66,not allowed
+71,67,not allowed
+71,68,not allowed
+71,69,not allowed
+71,70,not allowed
+71,71,not allowed
+71,72,not allowed
+71,73,not allowed
+71,74,not allowed
+71,75,not allowed
+71,76,not allowed
+71,77,not allowed
+71,78,not allowed
+71,79,not allowed
+71,80,not allowed
+71,81,not allowed
+71,82,not allowed
+71,83,not allowed
+71,84,not allowed
+71,85,not allowed
+71,86,not allowed
+71,87,not allowed
+71,88,not allowed
+71,89,not allowed
+71,90,not allowed
+71,91,not allowed
+71,92,not allowed
+71,93,not allowed
+71,94,not allowed
+71,95,not allowed
+71,96,not allowed
+71,97,not allowed
+71,98,not allowed
+71,99,not allowed
+71,100,not allowed
+72,1,not allowed
+72,2,not allowed
+72,3,not allowed
+72,4,not allowed
+72,5,not allowed
+72,6,not allowed
+72,7,not allowed
+72,8,not allowed
+72,9,not allowed
+72,10,not allowed
+72,11,not allowed
+72,12,not allowed
+72,13,not allowed
+72,14,not allowed
+72,15,not allowed
+72,16,not allowed
+72,17,not allowed
+72,18,not allowed
+72,19,not allowed
+72,20,not allowed
+72,21,not allowed
+72,22,not allowed
+72,23,not allowed
+72,24,not allowed
+72,25,not allowed
+72,26,not allowed
+72,27,not allowed
+72,28,not allowed
+72,29,not allowed
+72,30,not allowed
+72,31,not allowed
+72,32,not allowed
+72,33,not allowed
+72,34,not allowed
+72,35,not allowed
+72,36,not allowed
+72,37,not allowed
+72,38,not allowed
+72,39,not allowed
+72,40,not allowed
+72,41,not allowed
+72,42,not allowed
+72,43,not allowed
+72,44,not allowed
+72,45,not allowed
+72,46,not allowed
+72,47,not allowed
+72,48,not allowed
+72,49,not allowed
+72,50,not allowed
+72,51,not allowed
+72,52,not allowed
+72,53,not allowed
+72,54,not allowed
+72,55,not allowed
+72,56,not allowed
+72,57,not allowed
+72,58,not allowed
+72,59,not allowed
+72,60,not allowed
+72,61,not allowed
+72,62,not allowed
+72,63,not allowed
+72,64,not allowed
+72,65,not allowed
+72,66,not allowed
+72,67,not allowed
+72,68,not allowed
+72,69,not allowed
+72,70,not allowed
+72,71,not allowed
+72,72,not allowed
+72,73,not allowed
+72,74,not allowed
+72,75,not allowed
+72,76,not allowed
+72,77,not allowed
+72,78,not allowed
+72,79,not allowed
+72,80,not allowed
+72,81,not allowed
+72,82,not allowed
+72,83,not allowed
+72,84,not allowed
+72,85,not allowed
+72,86,not allowed
+72,87,not allowed
+72,88,not allowed
+72,89,not allowed
+72,90,not allowed
+72,91,not allowed
+72,92,not allowed
+72,93,not allowed
+72,94,not allowed
+72,95,not allowed
+72,96,not allowed
+72,97,not allowed
+72,98,not allowed
+72,99,not allowed
+72,100,not allowed
+73,1,not allowed
+73,2,not allowed
+73,3,not allowed
+73,4,not allowed
+73,5,not allowed
+73,6,not allowed
+73,7,not allowed
+73,8,not allowed
+73,9,not allowed
+73,10,not allowed
+73,11,not allowed
+73,12,not allowed
+73,13,not allowed
+73,14,not allowed
+73,15,not allowed
+73,16,not allowed
+73,17,not allowed
+73,18,not allowed
+73,19,not allowed
+73,20,not allowed
+73,21,not allowed
+73,22,not allowed
+73,23,not allowed
+73,24,not allowed
+73,25,not allowed
+73,26,not allowed
+73,27,not allowed
+73,28,not allowed
+73,29,not allowed
+73,30,not allowed
+73,31,not allowed
+73,32,not allowed
+73,33,not allowed
+73,34,not allowed
+73,35,not allowed
+73,36,not allowed
+73,37,not allowed
+73,38,not allowed
+73,39,not allowed
+73,40,not allowed
+73,41,not allowed
+73,42,not allowed
+73,43,not allowed
+73,44,not allowed
+73,45,not allowed
+73,46,not allowed
+73,47,not allowed
+73,48,not allowed
+73,49,not allowed
+73,50,not allowed
+73,51,not allowed
+73,52,not allowed
+73,53,not allowed
+73,54,not allowed
+73,55,not allowed
+73,56,not allowed
+73,57,not allowed
+73,58,not allowed
+73,59,not allowed
+73,60,not allowed
+73,61,not allowed
+73,62,not allowed
+73,63,not allowed
+73,64,not allowed
+73,65,not allowed
+73,66,not allowed
+73,67,not allowed
+73,68,not allowed
+73,69,not allowed
+73,70,not allowed
+73,71,not allowed
+73,72,not allowed
+73,73,not allowed
+73,74,not allowed
+73,75,not allowed
+73,76,not allowed
+73,77,not allowed
+73,78,not allowed
+73,79,not allowed
+73,80,not allowed
+73,81,not allowed
+73,82,not allowed
+73,83,not allowed
+73,84,not allowed
+73,85,not allowed
+73,86,not allowed
+73,87,not allowed
+73,88,not allowed
+73,89,not allowed
+73,90,not allowed
+73,91,not allowed
+73,92,not allowed
+73,93,not allowed
+73,94,not allowed
+73,95,not allowed
+73,96,not allowed
+73,97,not allowed
+73,98,not allowed
+73,99,not allowed
+73,100,not allowed
+74,1,not allowed
+74,2,not allowed
+74,3,not allowed
+74,4,not allowed
+74,5,not allowed
+74,6,not allowed
+74,7,not allowed
+74,8,not allowed
+74,9,not allowed
+74,10,not allowed
+74,11,not allowed
+74,12,not allowed
+74,13,not allowed
+74,14,not allowed
+74,15,not allowed
+74,16,not allowed
+74,17,not allowed
+74,18,not allowed
+74,19,not allowed
+74,20,not allowed
+74,21,not allowed
+74,22,not allowed
+74,23,not allowed
+74,24,not allowed
+74,25,not allowed
+74,26,not allowed
+74,27,not allowed
+74,28,not allowed
+74,29,not allowed
+74,30,not allowed
+74,31,not allowed
+74,32,not allowed
+74,33,not allowed
+74,34,not allowed
+74,35,not allowed
+74,36,not allowed
+74,37,not allowed
+74,38,not allowed
+74,39,not allowed
+74,40,not allowed
+74,41,not allowed
+74,42,not allowed
+74,43,not allowed
+74,44,not allowed
+74,45,not allowed
+74,46,not allowed
+74,47,not allowed
+74,48,not allowed
+74,49,not allowed
+74,50,not allowed
+74,51,not allowed
+74,52,not allowed
+74,53,not allowed
+74,54,not allowed
+74,55,not allowed
+74,56,not allowed
+74,57,not allowed
+74,58,not allowed
+74,59,not allowed
+74,60,not allowed
+74,61,not allowed
+74,62,not allowed
+74,63,not allowed
+74,64,not allowed
+74,65,not allowed
+74,66,not allowed
+74,67,not allowed
+74,68,not allowed
+74,69,not allowed
+74,70,not allowed
+74,71,not allowed
+74,72,not allowed
+74,73,not allowed
+74,74,not allowed
+74,75,not allowed
+74,76,not allowed
+74,77,not allowed
+74,78,not allowed
+74,79,not allowed
+74,80,not allowed
+74,81,not allowed
+74,82,not allowed
+74,83,not allowed
+74,84,not allowed
+74,85,not allowed
+74,86,not allowed
+74,87,not allowed
+74,88,not allowed
+74,89,not allowed
+74,90,not allowed
+74,91,not allowed
+74,92,not allowed
+74,93,not allowed
+74,94,not allowed
+74,95,not allowed
+74,96,not allowed
+74,97,not allowed
+74,98,not allowed
+74,99,not allowed
+74,100,not allowed
+75,1,allowed
+75,2,allowed
+75,3,allowed
+75,4,allowed
+75,5,allowed
+75,6,allowed
+75,7,allowed
+75,8,allowed
+75,9,allowed
+75,10,allowed
+75,11,allowed
+75,12,not allowed
+75,13,allowed
+75,14,allowed
+75,15,allowed
+75,16,allowed
+75,17,allowed
+75,18,allowed
+75,19,not allowed
+75,20,allowed
+75,21,allowed
+75,22,allowed
+75,23,allowed
+75,24,allowed
+75,25,allowed
+75,26,allowed
+75,27,allowed
+75,28,allowed
+75,29,allowed
+75,30,allowed
+75,31,allowed
+75,32,allowed
+75,33,allowed
+75,34,allowed
+75,35,allowed
+75,36,allowed
+75,37,allowed
+75,38,allowed
+75,39,allowed
+75,40,allowed
+75,41,allowed
+75,42,allowed
+75,43,allowed
+75,44,allowed
+75,45,allowed
+75,46,not allowed
+75,47,allowed
+75,48,allowed
+75,49,allowed
+75,50,allowed
+75,51,allowed
+75,52,allowed
+75,53,not allowed
+75,54,allowed
+75,55,allowed
+75,56,not allowed
+75,57,not allowed
+75,58,allowed
+75,59,not allowed
+75,60,allowed
+75,61,not allowed
+75,62,allowed
+75,63,allowed
+75,64,allowed
+75,65,allowed
+75,66,allowed
+75,67,allowed
+75,68,allowed
+75,69,allowed
+75,70,allowed
+75,71,allowed
+75,72,allowed
+75,73,allowed
+75,74,allowed
+75,75,allowed
+75,76,allowed
+75,77,not allowed
+75,78,not allowed
+75,79,not allowed
+75,80,allowed
+75,81,not allowed
+75,82,allowed
+75,83,allowed
+75,84,allowed
+75,85,allowed
+75,86,allowed
+75,87,not allowed
+75,88,allowed
+75,89,allowed
+75,90,allowed
+75,91,allowed
+75,92,allowed
+75,93,not allowed
+75,94,not allowed
+75,95,not allowed
+75,96,allowed
+75,97,not allowed
+75,98,not allowed
+75,99,allowed
+75,100,not allowed
+76,1,allowed
+76,2,allowed
+76,3,allowed
+76,4,allowed
+76,5,allowed
+76,6,allowed
+76,7,allowed
+76,8,allowed
+76,9,allowed
+76,10,allowed
+76,11,allowed
+76,12,not allowed
+76,13,allowed
+76,14,allowed
+76,15,allowed
+76,16,allowed
+76,17,allowed
+76,18,allowed
+76,19,not allowed
+76,20,allowed
+76,21,allowed
+76,22,allowed
+76,23,allowed
+76,24,allowed
+76,25,allowed
+76,26,allowed
+76,27,allowed
+76,28,allowed
+76,29,allowed
+76,30,allowed
+76,31,allowed
+76,32,allowed
+76,33,allowed
+76,34,allowed
+76,35,allowed
+76,36,allowed
+76,37,allowed
+76,38,allowed
+76,39,allowed
+76,40,allowed
+76,41,allowed
+76,42,allowed
+76,43,allowed
+76,44,allowed
+76,45,allowed
+76,46,not allowed
+76,47,allowed
+76,48,allowed
+76,49,allowed
+76,50,allowed
+76,51,allowed
+76,52,allowed
+76,53,not allowed
+76,54,allowed
+76,55,allowed
+76,56,not allowed
+76,57,not allowed
+76,58,allowed
+76,59,not allowed
+76,60,allowed
+76,61,not allowed
+76,62,allowed
+76,63,allowed
+76,64,allowed
+76,65,allowed
+76,66,allowed
+76,67,allowed
+76,68,allowed
+76,69,allowed
+76,70,allowed
+76,71,allowed
+76,72,allowed
+76,73,allowed
+76,74,allowed
+76,75,allowed
+76,76,allowed
+76,77,not allowed
+76,78,not allowed
+76,79,not allowed
+76,80,allowed
+76,81,not allowed
+76,82,allowed
+76,83,allowed
+76,84,allowed
+76,85,allowed
+76,86,allowed
+76,87,not allowed
+76,88,allowed
+76,89,allowed
+76,90,allowed
+76,91,allowed
+76,92,allowed
+76,93,not allowed
+76,94,not allowed
+76,95,not allowed
+76,96,allowed
+76,97,not allowed
+76,98,not allowed
+76,99,allowed
+76,100,not allowed
+77,1,allowed
+77,2,allowed
+77,3,allowed
+77,4,allowed
+77,5,allowed
+77,6,allowed
+77,7,allowed
+77,8,allowed
+77,9,allowed
+77,10,allowed
+77,11,allowed
+77,12,not allowed
+77,13,allowed
+77,14,allowed
+77,15,allowed
+77,16,allowed
+77,17,allowed
+77,18,allowed
+77,19,not allowed
+77,20,allowed
+77,21,allowed
+77,22,allowed
+77,23,allowed
+77,24,allowed
+77,25,allowed
+77,26,allowed
+77,27,allowed
+77,28,allowed
+77,29,allowed
+77,30,allowed
+77,31,allowed
+77,32,allowed
+77,33,allowed
+77,34,allowed
+77,35,allowed
+77,36,allowed
+77,37,allowed
+77,38,allowed
+77,39,allowed
+77,40,allowed
+77,41,allowed
+77,42,allowed
+77,43,allowed
+77,44,allowed
+77,45,allowed
+77,46,not allowed
+77,47,allowed
+77,48,allowed
+77,49,allowed
+77,50,allowed
+77,51,allowed
+77,52,allowed
+77,53,not allowed
+77,54,allowed
+77,55,allowed
+77,56,not allowed
+77,57,not allowed
+77,58,allowed
+77,59,not allowed
+77,60,allowed
+77,61,not allowed
+77,62,allowed
+77,63,allowed
+77,64,allowed
+77,65,allowed
+77,66,allowed
+77,67,allowed
+77,68,allowed
+77,69,allowed
+77,70,allowed
+77,71,allowed
+77,72,allowed
+77,73,allowed
+77,74,allowed
+77,75,allowed
+77,76,allowed
+77,77,not allowed
+77,78,not allowed
+77,79,not allowed
+77,80,allowed
+77,81,not allowed
+77,82,allowed
+77,83,allowed
+77,84,allowed
+77,85,allowed
+77,86,allowed
+77,87,not allowed
+77,88,allowed
+77,89,allowed
+77,90,allowed
+77,91,allowed
+77,92,allowed
+77,93,not allowed
+77,94,not allowed
+77,95,not allowed
+77,96,allowed
+77,97,not allowed
+77,98,not allowed
+77,99,allowed
+77,100,not allowed
+78,1,allowed
+78,2,allowed
+78,3,allowed
+78,4,allowed
+78,5,allowed
+78,6,allowed
+78,7,allowed
+78,8,allowed
+78,9,allowed
+78,10,allowed
+78,11,allowed
+78,12,not allowed
+78,13,allowed
+78,14,allowed
+78,15,allowed
+78,16,allowed
+78,17,allowed
+78,18,allowed
+78,19,not allowed
+78,20,allowed
+78,21,allowed
+78,22,allowed
+78,23,allowed
+78,24,allowed
+78,25,allowed
+78,26,allowed
+78,27,allowed
+78,28,allowed
+78,29,allowed
+78,30,allowed
+78,31,allowed
+78,32,allowed
+78,33,allowed
+78,34,allowed
+78,35,allowed
+78,36,allowed
+78,37,allowed
+78,38,allowed
+78,39,allowed
+78,40,allowed
+78,41,allowed
+78,42,allowed
+78,43,allowed
+78,44,allowed
+78,45,allowed
+78,46,not allowed
+78,47,allowed
+78,48,allowed
+78,49,allowed
+78,50,allowed
+78,51,allowed
+78,52,allowed
+78,53,not allowed
+78,54,allowed
+78,55,allowed
+78,56,not allowed
+78,57,not allowed
+78,58,allowed
+78,59,not allowed
+78,60,allowed
+78,61,not allowed
+78,62,allowed
+78,63,allowed
+78,64,allowed
+78,65,allowed
+78,66,allowed
+78,67,allowed
+78,68,allowed
+78,69,allowed
+78,70,allowed
+78,71,allowed
+78,72,allowed
+78,73,allowed
+78,74,allowed
+78,75,allowed
+78,76,allowed
+78,77,not allowed
+78,78,not allowed
+78,79,not allowed
+78,80,allowed
+78,81,not allowed
+78,82,allowed
+78,83,allowed
+78,84,allowed
+78,85,allowed
+78,86,allowed
+78,87,not allowed
+78,88,allowed
+78,89,allowed
+78,90,allowed
+78,91,allowed
+78,92,allowed
+78,93,not allowed
+78,94,not allowed
+78,95,not allowed
+78,96,allowed
+78,97,not allowed
+78,98,not allowed
+78,99,allowed
+78,100,not allowed
+79,1,allowed
+79,2,allowed
+79,3,allowed
+79,4,allowed
+79,5,allowed
+79,6,allowed
+79,7,allowed
+79,8,allowed
+79,9,allowed
+79,10,allowed
+79,11,allowed
+79,12,not allowed
+79,13,allowed
+79,14,allowed
+79,15,allowed
+79,16,allowed
+79,17,allowed
+79,18,allowed
+79,19,not allowed
+79,20,allowed
+79,21,allowed
+79,22,allowed
+79,23,allowed
+79,24,allowed
+79,25,allowed
+79,26,allowed
+79,27,allowed
+79,28,allowed
+79,29,allowed
+79,30,allowed
+79,31,allowed
+79,32,allowed
+79,33,allowed
+79,34,allowed
+79,35,allowed
+79,36,allowed
+79,37,allowed
+79,38,allowed
+79,39,allowed
+79,40,allowed
+79,41,allowed
+79,42,allowed
+79,43,allowed
+79,44,allowed
+79,45,allowed
+79,46,not allowed
+79,47,allowed
+79,48,allowed
+79,49,allowed
+79,50,allowed
+79,51,allowed
+79,52,allowed
+79,53,not allowed
+79,54,allowed
+79,55,allowed
+79,56,not allowed
+79,57,not allowed
+79,58,allowed
+79,59,not allowed
+79,60,allowed
+79,61,not allowed
+79,62,allowed
+79,63,allowed
+79,64,allowed
+79,65,allowed
+79,66,allowed
+79,67,allowed
+79,68,allowed
+79,69,allowed
+79,70,allowed
+79,71,allowed
+79,72,allowed
+79,73,allowed
+79,74,allowed
+79,75,allowed
+79,76,allowed
+79,77,not allowed
+79,78,not allowed
+79,79,not allowed
+79,80,allowed
+79,81,not allowed
+79,82,allowed
+79,83,allowed
+79,84,allowed
+79,85,allowed
+79,86,allowed
+79,87,not allowed
+79,88,allowed
+79,89,allowed
+79,90,allowed
+79,91,allowed
+79,92,allowed
+79,93,not allowed
+79,94,not allowed
+79,95,not allowed
+79,96,allowed
+79,97,not allowed
+79,98,not allowed
+79,99,allowed
+79,100,not allowed
+80,1,allowed
+80,2,allowed
+80,3,allowed
+80,4,allowed
+80,5,allowed
+80,6,allowed
+80,7,allowed
+80,8,allowed
+80,9,allowed
+80,10,allowed
+80,11,allowed
+80,12,not allowed
+80,13,allowed
+80,14,allowed
+80,15,allowed
+80,16,allowed
+80,17,allowed
+80,18,allowed
+80,19,not allowed
+80,20,allowed
+80,21,allowed
+80,22,allowed
+80,23,allowed
+80,24,allowed
+80,25,allowed
+80,26,allowed
+80,27,allowed
+80,28,allowed
+80,29,allowed
+80,30,allowed
+80,31,allowed
+80,32,allowed
+80,33,allowed
+80,34,allowed
+80,35,allowed
+80,36,allowed
+80,37,allowed
+80,38,allowed
+80,39,allowed
+80,40,allowed
+80,41,allowed
+80,42,allowed
+80,43,allowed
+80,44,allowed
+80,45,allowed
+80,46,not allowed
+80,47,allowed
+80,48,allowed
+80,49,allowed
+80,50,allowed
+80,51,allowed
+80,52,allowed
+80,53,not allowed
+80,54,allowed
+80,55,allowed
+80,56,not allowed
+80,57,not allowed
+80,58,allowed
+80,59,not allowed
+80,60,allowed
+80,61,not allowed
+80,62,allowed
+80,63,allowed
+80,64,allowed
+80,65,allowed
+80,66,allowed
+80,67,allowed
+80,68,allowed
+80,69,allowed
+80,70,allowed
+80,71,allowed
+80,72,allowed
+80,73,allowed
+80,74,allowed
+80,75,allowed
+80,76,allowed
+80,77,not allowed
+80,78,not allowed
+80,79,not allowed
+80,80,allowed
+80,81,not allowed
+80,82,allowed
+80,83,allowed
+80,84,allowed
+80,85,allowed
+80,86,allowed
+80,87,not allowed
+80,88,allowed
+80,89,allowed
+80,90,allowed
+80,91,allowed
+80,92,allowed
+80,93,not allowed
+80,94,not allowed
+80,95,not allowed
+80,96,allowed
+80,97,not allowed
+80,98,not allowed
+80,99,allowed
+80,100,not allowed
+81,1,allowed
+81,2,allowed
+81,3,allowed
+81,4,allowed
+81,5,allowed
+81,6,allowed
+81,7,allowed
+81,8,allowed
+81,9,allowed
+81,10,allowed
+81,11,allowed
+81,12,not allowed
+81,13,allowed
+81,14,allowed
+81,15,allowed
+81,16,allowed
+81,17,allowed
+81,18,allowed
+81,19,not allowed
+81,20,allowed
+81,21,allowed
+81,22,allowed
+81,23,allowed
+81,24,allowed
+81,25,allowed
+81,26,allowed
+81,27,allowed
+81,28,allowed
+81,29,allowed
+81,30,allowed
+81,31,allowed
+81,32,allowed
+81,33,allowed
+81,34,allowed
+81,35,allowed
+81,36,allowed
+81,37,allowed
+81,38,allowed
+81,39,allowed
+81,40,allowed
+81,41,allowed
+81,42,allowed
+81,43,allowed
+81,44,allowed
+81,45,allowed
+81,46,not allowed
+81,47,allowed
+81,48,allowed
+81,49,allowed
+81,50,allowed
+81,51,allowed
+81,52,allowed
+81,53,not allowed
+81,54,allowed
+81,55,allowed
+81,56,not allowed
+81,57,not allowed
+81,58,allowed
+81,59,not allowed
+81,60,allowed
+81,61,not allowed
+81,62,allowed
+81,63,allowed
+81,64,allowed
+81,65,allowed
+81,66,allowed
+81,67,allowed
+81,68,allowed
+81,69,allowed
+81,70,allowed
+81,71,allowed
+81,72,allowed
+81,73,allowed
+81,74,allowed
+81,75,allowed
+81,76,allowed
+81,77,not allowed
+81,78,not allowed
+81,79,not allowed
+81,80,allowed
+81,81,not allowed
+81,82,allowed
+81,83,allowed
+81,84,allowed
+81,85,allowed
+81,86,allowed
+81,87,not allowed
+81,88,allowed
+81,89,allowed
+81,90,allowed
+81,91,allowed
+81,92,allowed
+81,93,not allowed
+81,94,not allowed
+81,95,not allowed
+81,96,allowed
+81,97,not allowed
+81,98,not allowed
+81,99,allowed
+81,100,not allowed
+82,1,allowed
+82,2,allowed
+82,3,allowed
+82,4,allowed
+82,5,allowed
+82,6,allowed
+82,7,allowed
+82,8,allowed
+82,9,allowed
+82,10,allowed
+82,11,allowed
+82,12,not allowed
+82,13,allowed
+82,14,allowed
+82,15,allowed
+82,16,allowed
+82,17,allowed
+82,18,allowed
+82,19,not allowed
+82,20,allowed
+82,21,allowed
+82,22,allowed
+82,23,allowed
+82,24,allowed
+82,25,allowed
+82,26,allowed
+82,27,allowed
+82,28,allowed
+82,29,allowed
+82,30,allowed
+82,31,allowed
+82,32,allowed
+82,33,allowed
+82,34,allowed
+82,35,allowed
+82,36,allowed
+82,37,allowed
+82,38,allowed
+82,39,allowed
+82,40,allowed
+82,41,allowed
+82,42,allowed
+82,43,allowed
+82,44,allowed
+82,45,allowed
+82,46,not allowed
+82,47,allowed
+82,48,allowed
+82,49,allowed
+82,50,allowed
+82,51,allowed
+82,52,allowed
+82,53,not allowed
+82,54,allowed
+82,55,allowed
+82,56,not allowed
+82,57,not allowed
+82,58,allowed
+82,59,not allowed
+82,60,allowed
+82,61,not allowed
+82,62,allowed
+82,63,allowed
+82,64,allowed
+82,65,allowed
+82,66,allowed
+82,67,allowed
+82,68,allowed
+82,69,allowed
+82,70,allowed
+82,71,allowed
+82,72,allowed
+82,73,allowed
+82,74,allowed
+82,75,allowed
+82,76,allowed
+82,77,not allowed
+82,78,not allowed
+82,79,not allowed
+82,80,allowed
+82,81,not allowed
+82,82,allowed
+82,83,allowed
+82,84,allowed
+82,85,allowed
+82,86,allowed
+82,87,not allowed
+82,88,allowed
+82,89,allowed
+82,90,allowed
+82,91,allowed
+82,92,allowed
+82,93,not allowed
+82,94,not allowed
+82,95,not allowed
+82,96,allowed
+82,97,not allowed
+82,98,not allowed
+82,99,allowed
+82,100,not allowed
+83,1,allowed
+83,2,allowed
+83,3,allowed
+83,4,allowed
+83,5,allowed
+83,6,allowed
+83,7,allowed
+83,8,allowed
+83,9,allowed
+83,10,allowed
+83,11,allowed
+83,12,not allowed
+83,13,allowed
+83,14,allowed
+83,15,allowed
+83,16,allowed
+83,17,allowed
+83,18,allowed
+83,19,not allowed
+83,20,allowed
+83,21,allowed
+83,22,allowed
+83,23,allowed
+83,24,allowed
+83,25,allowed
+83,26,allowed
+83,27,allowed
+83,28,allowed
+83,29,allowed
+83,30,allowed
+83,31,allowed
+83,32,allowed
+83,33,allowed
+83,34,allowed
+83,35,allowed
+83,36,allowed
+83,37,allowed
+83,38,allowed
+83,39,allowed
+83,40,allowed
+83,41,allowed
+83,42,allowed
+83,43,allowed
+83,44,allowed
+83,45,allowed
+83,46,not allowed
+83,47,allowed
+83,48,allowed
+83,49,allowed
+83,50,allowed
+83,51,allowed
+83,52,allowed
+83,53,not allowed
+83,54,allowed
+83,55,allowed
+83,56,not allowed
+83,57,not allowed
+83,58,allowed
+83,59,not allowed
+83,60,allowed
+83,61,not allowed
+83,62,allowed
+83,63,allowed
+83,64,allowed
+83,65,allowed
+83,66,allowed
+83,67,allowed
+83,68,allowed
+83,69,allowed
+83,70,allowed
+83,71,allowed
+83,72,allowed
+83,73,allowed
+83,74,allowed
+83,75,allowed
+83,76,allowed
+83,77,not allowed
+83,78,not allowed
+83,79,not allowed
+83,80,allowed
+83,81,not allowed
+83,82,allowed
+83,83,allowed
+83,84,allowed
+83,85,allowed
+83,86,allowed
+83,87,not allowed
+83,88,allowed
+83,89,allowed
+83,90,allowed
+83,91,allowed
+83,92,allowed
+83,93,not allowed
+83,94,not allowed
+83,95,not allowed
+83,96,allowed
+83,97,not allowed
+83,98,not allowed
+83,99,allowed
+83,100,not allowed
+84,1,allowed
+84,2,allowed
+84,3,allowed
+84,4,allowed
+84,5,allowed
+84,6,allowed
+84,7,allowed
+84,8,allowed
+84,9,allowed
+84,10,allowed
+84,11,allowed
+84,12,not allowed
+84,13,allowed
+84,14,allowed
+84,15,allowed
+84,16,allowed
+84,17,allowed
+84,18,allowed
+84,19,not allowed
+84,20,allowed
+84,21,allowed
+84,22,allowed
+84,23,allowed
+84,24,allowed
+84,25,allowed
+84,26,allowed
+84,27,allowed
+84,28,allowed
+84,29,allowed
+84,30,allowed
+84,31,allowed
+84,32,allowed
+84,33,allowed
+84,34,allowed
+84,35,allowed
+84,36,allowed
+84,37,allowed
+84,38,allowed
+84,39,allowed
+84,40,allowed
+84,41,allowed
+84,42,allowed
+84,43,allowed
+84,44,allowed
+84,45,allowed
+84,46,not allowed
+84,47,allowed
+84,48,allowed
+84,49,allowed
+84,50,allowed
+84,51,allowed
+84,52,allowed
+84,53,not allowed
+84,54,allowed
+84,55,allowed
+84,56,not allowed
+84,57,not allowed
+84,58,allowed
+84,59,not allowed
+84,60,allowed
+84,61,not allowed
+84,62,allowed
+84,63,allowed
+84,64,allowed
+84,65,allowed
+84,66,allowed
+84,67,allowed
+84,68,allowed
+84,69,allowed
+84,70,allowed
+84,71,allowed
+84,72,allowed
+84,73,allowed
+84,74,allowed
+84,75,allowed
+84,76,allowed
+84,77,not allowed
+84,78,not allowed
+84,79,not allowed
+84,80,allowed
+84,81,not allowed
+84,82,allowed
+84,83,allowed
+84,84,allowed
+84,85,allowed
+84,86,allowed
+84,87,not allowed
+84,88,allowed
+84,89,allowed
+84,90,allowed
+84,91,allowed
+84,92,allowed
+84,93,not allowed
+84,94,not allowed
+84,95,not allowed
+84,96,allowed
+84,97,not allowed
+84,98,not allowed
+84,99,allowed
+84,100,not allowed
+85,1,allowed
+85,2,allowed
+85,3,allowed
+85,4,allowed
+85,5,allowed
+85,6,allowed
+85,7,allowed
+85,8,allowed
+85,9,allowed
+85,10,allowed
+85,11,allowed
+85,12,not allowed
+85,13,allowed
+85,14,allowed
+85,15,allowed
+85,16,allowed
+85,17,allowed
+85,18,allowed
+85,19,not allowed
+85,20,allowed
+85,21,allowed
+85,22,allowed
+85,23,allowed
+85,24,allowed
+85,25,allowed
+85,26,allowed
+85,27,allowed
+85,28,allowed
+85,29,allowed
+85,30,allowed
+85,31,allowed
+85,32,allowed
+85,33,allowed
+85,34,allowed
+85,35,allowed
+85,36,allowed
+85,37,allowed
+85,38,allowed
+85,39,allowed
+85,40,allowed
+85,41,allowed
+85,42,allowed
+85,43,allowed
+85,44,allowed
+85,45,allowed
+85,46,not allowed
+85,47,allowed
+85,48,allowed
+85,49,allowed
+85,50,allowed
+85,51,allowed
+85,52,allowed
+85,53,not allowed
+85,54,allowed
+85,55,allowed
+85,56,not allowed
+85,57,not allowed
+85,58,allowed
+85,59,not allowed
+85,60,allowed
+85,61,not allowed
+85,62,allowed
+85,63,allowed
+85,64,allowed
+85,65,allowed
+85,66,allowed
+85,67,allowed
+85,68,allowed
+85,69,allowed
+85,70,allowed
+85,71,allowed
+85,72,allowed
+85,73,allowed
+85,74,allowed
+85,75,allowed
+85,76,allowed
+85,77,not allowed
+85,78,not allowed
+85,79,not allowed
+85,80,allowed
+85,81,not allowed
+85,82,allowed
+85,83,allowed
+85,84,allowed
+85,85,allowed
+85,86,allowed
+85,87,not allowed
+85,88,allowed
+85,89,allowed
+85,90,allowed
+85,91,allowed
+85,92,allowed
+85,93,not allowed
+85,94,not allowed
+85,95,not allowed
+85,96,allowed
+85,97,not allowed
+85,98,not allowed
+85,99,allowed
+85,100,not allowed
+86,1,allowed
+86,2,allowed
+86,3,allowed
+86,4,allowed
+86,5,allowed
+86,6,allowed
+86,7,allowed
+86,8,allowed
+86,9,allowed
+86,10,allowed
+86,11,allowed
+86,12,not allowed
+86,13,allowed
+86,14,allowed
+86,15,allowed
+86,16,allowed
+86,17,allowed
+86,18,allowed
+86,19,not allowed
+86,20,allowed
+86,21,allowed
+86,22,allowed
+86,23,allowed
+86,24,allowed
+86,25,allowed
+86,26,allowed
+86,27,allowed
+86,28,allowed
+86,29,allowed
+86,30,allowed
+86,31,allowed
+86,32,allowed
+86,33,allowed
+86,34,allowed
+86,35,allowed
+86,36,allowed
+86,37,allowed
+86,38,allowed
+86,39,allowed
+86,40,allowed
+86,41,allowed
+86,42,allowed
+86,43,allowed
+86,44,allowed
+86,45,allowed
+86,46,not allowed
+86,47,allowed
+86,48,allowed
+86,49,allowed
+86,50,allowed
+86,51,allowed
+86,52,allowed
+86,53,not allowed
+86,54,allowed
+86,55,allowed
+86,56,not allowed
+86,57,not allowed
+86,58,allowed
+86,59,not allowed
+86,60,allowed
+86,61,not allowed
+86,62,allowed
+86,63,allowed
+86,64,allowed
+86,65,allowed
+86,66,allowed
+86,67,allowed
+86,68,allowed
+86,69,allowed
+86,70,allowed
+86,71,allowed
+86,72,allowed
+86,73,allowed
+86,74,allowed
+86,75,allowed
+86,76,allowed
+86,77,not allowed
+86,78,not allowed
+86,79,not allowed
+86,80,allowed
+86,81,not allowed
+86,82,allowed
+86,83,allowed
+86,84,allowed
+86,85,allowed
+86,86,allowed
+86,87,not allowed
+86,88,allowed
+86,89,allowed
+86,90,allowed
+86,91,allowed
+86,92,allowed
+86,93,not allowed
+86,94,not allowed
+86,95,not allowed
+86,96,allowed
+86,97,not allowed
+86,98,not allowed
+86,99,allowed
+86,100,not allowed
+87,1,allowed
+87,2,allowed
+87,3,allowed
+87,4,allowed
+87,5,allowed
+87,6,allowed
+87,7,allowed
+87,8,allowed
+87,9,allowed
+87,10,allowed
+87,11,allowed
+87,12,not allowed
+87,13,allowed
+87,14,allowed
+87,15,allowed
+87,16,allowed
+87,17,allowed
+87,18,allowed
+87,19,not allowed
+87,20,allowed
+87,21,allowed
+87,22,allowed
+87,23,allowed
+87,24,allowed
+87,25,allowed
+87,26,allowed
+87,27,allowed
+87,28,allowed
+87,29,allowed
+87,30,allowed
+87,31,allowed
+87,32,allowed
+87,33,allowed
+87,34,allowed
+87,35,allowed
+87,36,allowed
+87,37,allowed
+87,38,allowed
+87,39,allowed
+87,40,allowed
+87,41,allowed
+87,42,allowed
+87,43,allowed
+87,44,allowed
+87,45,allowed
+87,46,not allowed
+87,47,allowed
+87,48,allowed
+87,49,allowed
+87,50,allowed
+87,51,allowed
+87,52,allowed
+87,53,not allowed
+87,54,allowed
+87,55,allowed
+87,56,not allowed
+87,57,not allowed
+87,58,allowed
+87,59,not allowed
+87,60,allowed
+87,61,not allowed
+87,62,allowed
+87,63,allowed
+87,64,allowed
+87,65,allowed
+87,66,allowed
+87,67,allowed
+87,68,allowed
+87,69,allowed
+87,70,allowed
+87,71,allowed
+87,72,allowed
+87,73,allowed
+87,74,allowed
+87,75,allowed
+87,76,allowed
+87,77,not allowed
+87,78,not allowed
+87,79,not allowed
+87,80,allowed
+87,81,not allowed
+87,82,allowed
+87,83,allowed
+87,84,allowed
+87,85,allowed
+87,86,allowed
+87,87,not allowed
+87,88,allowed
+87,89,allowed
+87,90,allowed
+87,91,allowed
+87,92,allowed
+87,93,not allowed
+87,94,not allowed
+87,95,not allowed
+87,96,allowed
+87,97,not allowed
+87,98,not allowed
+87,99,allowed
+87,100,not allowed
+88,1,not allowed
+88,2,not allowed
+88,3,not allowed
+88,4,not allowed
+88,5,not allowed
+88,6,not allowed
+88,7,not allowed
+88,8,not allowed
+88,9,not allowed
+88,10,not allowed
+88,11,not allowed
+88,12,not allowed
+88,13,not allowed
+88,14,not allowed
+88,15,not allowed
+88,16,not allowed
+88,17,not allowed
+88,18,not allowed
+88,19,not allowed
+88,20,not allowed
+88,21,not allowed
+88,22,not allowed
+88,23,not allowed
+88,24,not allowed
+88,25,not allowed
+88,26,not allowed
+88,27,not allowed
+88,28,not allowed
+88,29,not allowed
+88,30,not allowed
+88,31,not allowed
+88,32,not allowed
+88,33,not allowed
+88,34,not allowed
+88,35,not allowed
+88,36,not allowed
+88,37,not allowed
+88,38,not allowed
+88,39,not allowed
+88,40,not allowed
+88,41,not allowed
+88,42,not allowed
+88,43,not allowed
+88,44,not allowed
+88,45,not allowed
+88,46,not allowed
+88,47,not allowed
+88,48,not allowed
+88,49,not allowed
+88,50,not allowed
+88,51,not allowed
+88,52,not allowed
+88,53,not allowed
+88,54,not allowed
+88,55,not allowed
+88,56,not allowed
+88,57,not allowed
+88,58,not allowed
+88,59,not allowed
+88,60,not allowed
+88,61,not allowed
+88,62,not allowed
+88,63,not allowed
+88,64,not allowed
+88,65,not allowed
+88,66,not allowed
+88,67,not allowed
+88,68,not allowed
+88,69,not allowed
+88,70,not allowed
+88,71,not allowed
+88,72,not allowed
+88,73,not allowed
+88,74,not allowed
+88,75,not allowed
+88,76,not allowed
+88,77,not allowed
+88,78,not allowed
+88,79,not allowed
+88,80,not allowed
+88,81,not allowed
+88,82,not allowed
+88,83,not allowed
+88,84,not allowed
+88,85,not allowed
+88,86,not allowed
+88,87,not allowed
+88,88,not allowed
+88,89,not allowed
+88,90,not allowed
+88,91,not allowed
+88,92,not allowed
+88,93,not allowed
+88,94,not allowed
+88,95,not allowed
+88,96,not allowed
+88,97,not allowed
+88,98,not allowed
+88,99,not allowed
+88,100,not allowed
+89,1,not allowed
+89,2,not allowed
+89,3,not allowed
+89,4,not allowed
+89,5,not allowed
+89,6,not allowed
+89,7,not allowed
+89,8,not allowed
+89,9,not allowed
+89,10,not allowed
+89,11,not allowed
+89,12,not allowed
+89,13,not allowed
+89,14,not allowed
+89,15,not allowed
+89,16,not allowed
+89,17,not allowed
+89,18,not allowed
+89,19,not allowed
+89,20,not allowed
+89,21,not allowed
+89,22,not allowed
+89,23,not allowed
+89,24,not allowed
+89,25,not allowed
+89,26,not allowed
+89,27,not allowed
+89,28,not allowed
+89,29,not allowed
+89,30,not allowed
+89,31,not allowed
+89,32,not allowed
+89,33,not allowed
+89,34,not allowed
+89,35,not allowed
+89,36,not allowed
+89,37,not allowed
+89,38,not allowed
+89,39,not allowed
+89,40,not allowed
+89,41,not allowed
+89,42,not allowed
+89,43,not allowed
+89,44,not allowed
+89,45,not allowed
+89,46,not allowed
+89,47,not allowed
+89,48,not allowed
+89,49,not allowed
+89,50,not allowed
+89,51,not allowed
+89,52,not allowed
+89,53,not allowed
+89,54,not allowed
+89,55,not allowed
+89,56,not allowed
+89,57,not allowed
+89,58,not allowed
+89,59,not allowed
+89,60,not allowed
+89,61,not allowed
+89,62,not allowed
+89,63,not allowed
+89,64,not allowed
+89,65,not allowed
+89,66,not allowed
+89,67,not allowed
+89,68,not allowed
+89,69,not allowed
+89,70,not allowed
+89,71,not allowed
+89,72,not allowed
+89,73,not allowed
+89,74,not allowed
+89,75,not allowed
+89,76,not allowed
+89,77,not allowed
+89,78,not allowed
+89,79,not allowed
+89,80,not allowed
+89,81,not allowed
+89,82,not allowed
+89,83,not allowed
+89,84,not allowed
+89,85,not allowed
+89,86,not allowed
+89,87,not allowed
+89,88,not allowed
+89,89,not allowed
+89,90,not allowed
+89,91,not allowed
+89,92,not allowed
+89,93,not allowed
+89,94,not allowed
+89,95,not allowed
+89,96,not allowed
+89,97,not allowed
+89,98,not allowed
+89,99,not allowed
+89,100,not allowed
+90,1,not allowed
+90,2,not allowed
+90,3,not allowed
+90,4,not allowed
+90,5,not allowed
+90,6,not allowed
+90,7,not allowed
+90,8,not allowed
+90,9,not allowed
+90,10,not allowed
+90,11,not allowed
+90,12,not allowed
+90,13,not allowed
+90,14,not allowed
+90,15,not allowed
+90,16,not allowed
+90,17,not allowed
+90,18,not allowed
+90,19,not allowed
+90,20,not allowed
+90,21,not allowed
+90,22,not allowed
+90,23,not allowed
+90,24,not allowed
+90,25,not allowed
+90,26,not allowed
+90,27,not allowed
+90,28,not allowed
+90,29,not allowed
+90,30,not allowed
+90,31,not allowed
+90,32,not allowed
+90,33,not allowed
+90,34,not allowed
+90,35,not allowed
+90,36,not allowed
+90,37,not allowed
+90,38,not allowed
+90,39,not allowed
+90,40,not allowed
+90,41,not allowed
+90,42,not allowed
+90,43,not allowed
+90,44,not allowed
+90,45,not allowed
+90,46,not allowed
+90,47,not allowed
+90,48,not allowed
+90,49,not allowed
+90,50,not allowed
+90,51,not allowed
+90,52,not allowed
+90,53,not allowed
+90,54,not allowed
+90,55,not allowed
+90,56,not allowed
+90,57,not allowed
+90,58,not allowed
+90,59,not allowed
+90,60,not allowed
+90,61,not allowed
+90,62,not allowed
+90,63,not allowed
+90,64,not allowed
+90,65,not allowed
+90,66,not allowed
+90,67,not allowed
+90,68,not allowed
+90,69,not allowed
+90,70,not allowed
+90,71,not allowed
+90,72,not allowed
+90,73,not allowed
+90,74,not allowed
+90,75,not allowed
+90,76,not allowed
+90,77,not allowed
+90,78,not allowed
+90,79,not allowed
+90,80,not allowed
+90,81,not allowed
+90,82,not allowed
+90,83,not allowed
+90,84,not allowed
+90,85,not allowed
+90,86,not allowed
+90,87,not allowed
+90,88,not allowed
+90,89,not allowed
+90,90,not allowed
+90,91,not allowed
+90,92,not allowed
+90,93,not allowed
+90,94,not allowed
+90,95,not allowed
+90,96,not allowed
+90,97,not allowed
+90,98,not allowed
+90,99,not allowed
+90,100,not allowed
+91,1,not allowed
+91,2,not allowed
+91,3,not allowed
+91,4,not allowed
+91,5,not allowed
+91,6,not allowed
+91,7,not allowed
+91,8,not allowed
+91,9,not allowed
+91,10,not allowed
+91,11,not allowed
+91,12,not allowed
+91,13,not allowed
+91,14,not allowed
+91,15,not allowed
+91,16,not allowed
+91,17,not allowed
+91,18,not allowed
+91,19,not allowed
+91,20,not allowed
+91,21,not allowed
+91,22,not allowed
+91,23,not allowed
+91,24,not allowed
+91,25,not allowed
+91,26,not allowed
+91,27,not allowed
+91,28,not allowed
+91,29,not allowed
+91,30,not allowed
+91,31,not allowed
+91,32,not allowed
+91,33,not allowed
+91,34,not allowed
+91,35,not allowed
+91,36,not allowed
+91,37,not allowed
+91,38,not allowed
+91,39,not allowed
+91,40,not allowed
+91,41,not allowed
+91,42,not allowed
+91,43,not allowed
+91,44,not allowed
+91,45,not allowed
+91,46,not allowed
+91,47,not allowed
+91,48,not allowed
+91,49,not allowed
+91,50,not allowed
+91,51,not allowed
+91,52,not allowed
+91,53,not allowed
+91,54,not allowed
+91,55,not allowed
+91,56,not allowed
+91,57,not allowed
+91,58,not allowed
+91,59,not allowed
+91,60,not allowed
+91,61,not allowed
+91,62,not allowed
+91,63,not allowed
+91,64,not allowed
+91,65,not allowed
+91,66,not allowed
+91,67,not allowed
+91,68,not allowed
+91,69,not allowed
+91,70,not allowed
+91,71,not allowed
+91,72,not allowed
+91,73,not allowed
+91,74,not allowed
+91,75,not allowed
+91,76,not allowed
+91,77,not allowed
+91,78,not allowed
+91,79,not allowed
+91,80,not allowed
+91,81,not allowed
+91,82,not allowed
+91,83,not allowed
+91,84,not allowed
+91,85,not allowed
+91,86,not allowed
+91,87,not allowed
+91,88,not allowed
+91,89,not allowed
+91,90,not allowed
+91,91,not allowed
+91,92,not allowed
+91,93,not allowed
+91,94,not allowed
+91,95,not allowed
+91,96,not allowed
+91,97,not allowed
+91,98,not allowed
+91,99,not allowed
+91,100,not allowed
+92,1,not allowed
+92,2,not allowed
+92,3,not allowed
+92,4,not allowed
+92,5,not allowed
+92,6,not allowed
+92,7,not allowed
+92,8,not allowed
+92,9,not allowed
+92,10,not allowed
+92,11,not allowed
+92,12,not allowed
+92,13,not allowed
+92,14,not allowed
+92,15,not allowed
+92,16,not allowed
+92,17,not allowed
+92,18,not allowed
+92,19,not allowed
+92,20,not allowed
+92,21,not allowed
+92,22,not allowed
+92,23,not allowed
+92,24,not allowed
+92,25,not allowed
+92,26,not allowed
+92,27,not allowed
+92,28,not allowed
+92,29,not allowed
+92,30,not allowed
+92,31,not allowed
+92,32,not allowed
+92,33,not allowed
+92,34,not allowed
+92,35,not allowed
+92,36,not allowed
+92,37,not allowed
+92,38,not allowed
+92,39,not allowed
+92,40,not allowed
+92,41,not allowed
+92,42,not allowed
+92,43,not allowed
+92,44,not allowed
+92,45,not allowed
+92,46,not allowed
+92,47,not allowed
+92,48,not allowed
+92,49,not allowed
+92,50,not allowed
+92,51,not allowed
+92,52,not allowed
+92,53,not allowed
+92,54,not allowed
+92,55,not allowed
+92,56,not allowed
+92,57,not allowed
+92,58,not allowed
+92,59,not allowed
+92,60,not allowed
+92,61,not allowed
+92,62,not allowed
+92,63,not allowed
+92,64,not allowed
+92,65,not allowed
+92,66,not allowed
+92,67,not allowed
+92,68,not allowed
+92,69,not allowed
+92,70,not allowed
+92,71,not allowed
+92,72,not allowed
+92,73,not allowed
+92,74,not allowed
+92,75,not allowed
+92,76,not allowed
+92,77,not allowed
+92,78,not allowed
+92,79,not allowed
+92,80,not allowed
+92,81,not allowed
+92,82,not allowed
+92,83,not allowed
+92,84,not allowed
+92,85,not allowed
+92,86,not allowed
+92,87,not allowed
+92,88,not allowed
+92,89,not allowed
+92,90,not allowed
+92,91,not allowed
+92,92,not allowed
+92,93,not allowed
+92,94,not allowed
+92,95,not allowed
+92,96,not allowed
+92,97,not allowed
+92,98,not allowed
+92,99,not allowed
+92,100,not allowed
+93,1,not allowed
+93,2,not allowed
+93,3,not allowed
+93,4,not allowed
+93,5,not allowed
+93,6,not allowed
+93,7,not allowed
+93,8,not allowed
+93,9,not allowed
+93,10,not allowed
+93,11,not allowed
+93,12,not allowed
+93,13,not allowed
+93,14,not allowed
+93,15,not allowed
+93,16,not allowed
+93,17,not allowed
+93,18,not allowed
+93,19,not allowed
+93,20,not allowed
+93,21,not allowed
+93,22,not allowed
+93,23,not allowed
+93,24,not allowed
+93,25,not allowed
+93,26,not allowed
+93,27,not allowed
+93,28,not allowed
+93,29,not allowed
+93,30,not allowed
+93,31,not allowed
+93,32,not allowed
+93,33,not allowed
+93,34,not allowed
+93,35,not allowed
+93,36,not allowed
+93,37,not allowed
+93,38,not allowed
+93,39,not allowed
+93,40,not allowed
+93,41,not allowed
+93,42,not allowed
+93,43,not allowed
+93,44,not allowed
+93,45,not allowed
+93,46,not allowed
+93,47,not allowed
+93,48,not allowed
+93,49,not allowed
+93,50,not allowed
+93,51,not allowed
+93,52,not allowed
+93,53,not allowed
+93,54,not allowed
+93,55,not allowed
+93,56,not allowed
+93,57,not allowed
+93,58,not allowed
+93,59,not allowed
+93,60,not allowed
+93,61,not allowed
+93,62,not allowed
+93,63,not allowed
+93,64,not allowed
+93,65,not allowed
+93,66,not allowed
+93,67,not allowed
+93,68,not allowed
+93,69,not allowed
+93,70,not allowed
+93,71,not allowed
+93,72,not allowed
+93,73,not allowed
+93,74,not allowed
+93,75,not allowed
+93,76,not allowed
+93,77,not allowed
+93,78,not allowed
+93,79,not allowed
+93,80,not allowed
+93,81,not allowed
+93,82,not allowed
+93,83,not allowed
+93,84,not allowed
+93,85,not allowed
+93,86,not allowed
+93,87,not allowed
+93,88,not allowed
+93,89,not allowed
+93,90,not allowed
+93,91,not allowed
+93,92,not allowed
+93,93,not allowed
+93,94,not allowed
+93,95,not allowed
+93,96,not allowed
+93,97,not allowed
+93,98,not allowed
+93,99,not allowed
+93,100,not allowed
+94,1,not allowed
+94,2,not allowed
+94,3,not allowed
+94,4,not allowed
+94,5,not allowed
+94,6,not allowed
+94,7,not allowed
+94,8,not allowed
+94,9,not allowed
+94,10,not allowed
+94,11,not allowed
+94,12,not allowed
+94,13,not allowed
+94,14,not allowed
+94,15,not allowed
+94,16,not allowed
+94,17,not allowed
+94,18,not allowed
+94,19,not allowed
+94,20,not allowed
+94,21,not allowed
+94,22,not allowed
+94,23,not allowed
+94,24,not allowed
+94,25,not allowed
+94,26,not allowed
+94,27,not allowed
+94,28,not allowed
+94,29,not allowed
+94,30,not allowed
+94,31,not allowed
+94,32,not allowed
+94,33,not allowed
+94,34,not allowed
+94,35,not allowed
+94,36,not allowed
+94,37,not allowed
+94,38,not allowed
+94,39,not allowed
+94,40,not allowed
+94,41,not allowed
+94,42,not allowed
+94,43,not allowed
+94,44,not allowed
+94,45,not allowed
+94,46,not allowed
+94,47,not allowed
+94,48,not allowed
+94,49,not allowed
+94,50,not allowed
+94,51,not allowed
+94,52,not allowed
+94,53,not allowed
+94,54,not allowed
+94,55,not allowed
+94,56,not allowed
+94,57,not allowed
+94,58,not allowed
+94,59,not allowed
+94,60,not allowed
+94,61,not allowed
+94,62,not allowed
+94,63,not allowed
+94,64,not allowed
+94,65,not allowed
+94,66,not allowed
+94,67,not allowed
+94,68,not allowed
+94,69,not allowed
+94,70,not allowed
+94,71,not allowed
+94,72,not allowed
+94,73,not allowed
+94,74,not allowed
+94,75,not allowed
+94,76,not allowed
+94,77,not allowed
+94,78,not allowed
+94,79,not allowed
+94,80,not allowed
+94,81,not allowed
+94,82,not allowed
+94,83,not allowed
+94,84,not allowed
+94,85,not allowed
+94,86,not allowed
+94,87,not allowed
+94,88,not allowed
+94,89,not allowed
+94,90,not allowed
+94,91,not allowed
+94,92,not allowed
+94,93,not allowed
+94,94,not allowed
+94,95,not allowed
+94,96,not allowed
+94,97,not allowed
+94,98,not allowed
+94,99,not allowed
+94,100,not allowed
+95,1,not allowed
+95,2,not allowed
+95,3,not allowed
+95,4,not allowed
+95,5,not allowed
+95,6,not allowed
+95,7,not allowed
+95,8,not allowed
+95,9,not allowed
+95,10,not allowed
+95,11,not allowed
+95,12,not allowed
+95,13,not allowed
+95,14,not allowed
+95,15,not allowed
+95,16,not allowed
+95,17,not allowed
+95,18,not allowed
+95,19,not allowed
+95,20,not allowed
+95,21,not allowed
+95,22,not allowed
+95,23,not allowed
+95,24,not allowed
+95,25,not allowed
+95,26,not allowed
+95,27,not allowed
+95,28,not allowed
+95,29,not allowed
+95,30,not allowed
+95,31,not allowed
+95,32,not allowed
+95,33,not allowed
+95,34,not allowed
+95,35,not allowed
+95,36,not allowed
+95,37,not allowed
+95,38,not allowed
+95,39,not allowed
+95,40,not allowed
+95,41,not allowed
+95,42,not allowed
+95,43,not allowed
+95,44,not allowed
+95,45,not allowed
+95,46,not allowed
+95,47,not allowed
+95,48,not allowed
+95,49,not allowed
+95,50,not allowed
+95,51,not allowed
+95,52,not allowed
+95,53,not allowed
+95,54,not allowed
+95,55,not allowed
+95,56,not allowed
+95,57,not allowed
+95,58,not allowed
+95,59,not allowed
+95,60,not allowed
+95,61,not allowed
+95,62,not allowed
+95,63,not allowed
+95,64,not allowed
+95,65,not allowed
+95,66,not allowed
+95,67,not allowed
+95,68,not allowed
+95,69,not allowed
+95,70,not allowed
+95,71,not allowed
+95,72,not allowed
+95,73,not allowed
+95,74,not allowed
+95,75,not allowed
+95,76,not allowed
+95,77,not allowed
+95,78,not allowed
+95,79,not allowed
+95,80,not allowed
+95,81,not allowed
+95,82,not allowed
+95,83,not allowed
+95,84,not allowed
+95,85,not allowed
+95,86,not allowed
+95,87,not allowed
+95,88,not allowed
+95,89,not allowed
+95,90,not allowed
+95,91,not allowed
+95,92,not allowed
+95,93,not allowed
+95,94,not allowed
+95,95,not allowed
+95,96,not allowed
+95,97,not allowed
+95,98,not allowed
+95,99,not allowed
+95,100,not allowed
+96,1,not allowed
+96,2,not allowed
+96,3,not allowed
+96,4,not allowed
+96,5,not allowed
+96,6,not allowed
+96,7,not allowed
+96,8,not allowed
+96,9,not allowed
+96,10,not allowed
+96,11,not allowed
+96,12,not allowed
+96,13,not allowed
+96,14,not allowed
+96,15,not allowed
+96,16,not allowed
+96,17,not allowed
+96,18,not allowed
+96,19,not allowed
+96,20,not allowed
+96,21,not allowed
+96,22,not allowed
+96,23,not allowed
+96,24,not allowed
+96,25,not allowed
+96,26,not allowed
+96,27,not allowed
+96,28,not allowed
+96,29,not allowed
+96,30,not allowed
+96,31,not allowed
+96,32,not allowed
+96,33,not allowed
+96,34,not allowed
+96,35,not allowed
+96,36,not allowed
+96,37,not allowed
+96,38,not allowed
+96,39,not allowed
+96,40,not allowed
+96,41,not allowed
+96,42,not allowed
+96,43,not allowed
+96,44,not allowed
+96,45,not allowed
+96,46,not allowed
+96,47,not allowed
+96,48,not allowed
+96,49,not allowed
+96,50,not allowed
+96,51,not allowed
+96,52,not allowed
+96,53,not allowed
+96,54,not allowed
+96,55,not allowed
+96,56,not allowed
+96,57,not allowed
+96,58,not allowed
+96,59,not allowed
+96,60,not allowed
+96,61,not allowed
+96,62,not allowed
+96,63,not allowed
+96,64,not allowed
+96,65,not allowed
+96,66,not allowed
+96,67,not allowed
+96,68,not allowed
+96,69,not allowed
+96,70,not allowed
+96,71,not allowed
+96,72,not allowed
+96,73,not allowed
+96,74,not allowed
+96,75,not allowed
+96,76,not allowed
+96,77,not allowed
+96,78,not allowed
+96,79,not allowed
+96,80,not allowed
+96,81,not allowed
+96,82,not allowed
+96,83,not allowed
+96,84,not allowed
+96,85,not allowed
+96,86,not allowed
+96,87,not allowed
+96,88,not allowed
+96,89,not allowed
+96,90,not allowed
+96,91,not allowed
+96,92,not allowed
+96,93,not allowed
+96,94,not allowed
+96,95,not allowed
+96,96,not allowed
+96,97,not allowed
+96,98,not allowed
+96,99,not allowed
+96,100,not allowed
+97,1,not allowed
+97,2,not allowed
+97,3,not allowed
+97,4,not allowed
+97,5,not allowed
+97,6,not allowed
+97,7,not allowed
+97,8,not allowed
+97,9,not allowed
+97,10,not allowed
+97,11,not allowed
+97,12,not allowed
+97,13,not allowed
+97,14,not allowed
+97,15,not allowed
+97,16,not allowed
+97,17,not allowed
+97,18,not allowed
+97,19,not allowed
+97,20,not allowed
+97,21,not allowed
+97,22,not allowed
+97,23,not allowed
+97,24,not allowed
+97,25,not allowed
+97,26,not allowed
+97,27,not allowed
+97,28,not allowed
+97,29,not allowed
+97,30,not allowed
+97,31,not allowed
+97,32,not allowed
+97,33,not allowed
+97,34,not allowed
+97,35,not allowed
+97,36,not allowed
+97,37,not allowed
+97,38,not allowed
+97,39,not allowed
+97,40,not allowed
+97,41,not allowed
+97,42,not allowed
+97,43,not allowed
+97,44,not allowed
+97,45,not allowed
+97,46,not allowed
+97,47,not allowed
+97,48,not allowed
+97,49,not allowed
+97,50,not allowed
+97,51,not allowed
+97,52,not allowed
+97,53,not allowed
+97,54,not allowed
+97,55,not allowed
+97,56,not allowed
+97,57,not allowed
+97,58,not allowed
+97,59,not allowed
+97,60,not allowed
+97,61,not allowed
+97,62,not allowed
+97,63,not allowed
+97,64,not allowed
+97,65,not allowed
+97,66,not allowed
+97,67,not allowed
+97,68,not allowed
+97,69,not allowed
+97,70,not allowed
+97,71,not allowed
+97,72,not allowed
+97,73,not allowed
+97,74,not allowed
+97,75,not allowed
+97,76,not allowed
+97,77,not allowed
+97,78,not allowed
+97,79,not allowed
+97,80,not allowed
+97,81,not allowed
+97,82,not allowed
+97,83,not allowed
+97,84,not allowed
+97,85,not allowed
+97,86,not allowed
+97,87,not allowed
+97,88,not allowed
+97,89,not allowed
+97,90,not allowed
+97,91,not allowed
+97,92,not allowed
+97,93,not allowed
+97,94,not allowed
+97,95,not allowed
+97,96,not allowed
+97,97,not allowed
+97,98,not allowed
+97,99,not allowed
+97,100,not allowed
+98,1,not allowed
+98,2,not allowed
+98,3,not allowed
+98,4,not allowed
+98,5,not allowed
+98,6,not allowed
+98,7,not allowed
+98,8,not allowed
+98,9,not allowed
+98,10,not allowed
+98,11,not allowed
+98,12,not allowed
+98,13,not allowed
+98,14,not allowed
+98,15,not allowed
+98,16,not allowed
+98,17,not allowed
+98,18,not allowed
+98,19,not allowed
+98,20,not allowed
+98,21,not allowed
+98,22,not allowed
+98,23,not allowed
+98,24,not allowed
+98,25,not allowed
+98,26,not allowed
+98,27,not allowed
+98,28,not allowed
+98,29,not allowed
+98,30,not allowed
+98,31,not allowed
+98,32,not allowed
+98,33,not allowed
+98,34,not allowed
+98,35,not allowed
+98,36,not allowed
+98,37,not allowed
+98,38,not allowed
+98,39,not allowed
+98,40,not allowed
+98,41,not allowed
+98,42,not allowed
+98,43,not allowed
+98,44,not allowed
+98,45,not allowed
+98,46,not allowed
+98,47,not allowed
+98,48,not allowed
+98,49,not allowed
+98,50,not allowed
+98,51,not allowed
+98,52,not allowed
+98,53,not allowed
+98,54,not allowed
+98,55,not allowed
+98,56,not allowed
+98,57,not allowed
+98,58,not allowed
+98,59,not allowed
+98,60,not allowed
+98,61,not allowed
+98,62,not allowed
+98,63,not allowed
+98,64,not allowed
+98,65,not allowed
+98,66,not allowed
+98,67,not allowed
+98,68,not allowed
+98,69,not allowed
+98,70,not allowed
+98,71,not allowed
+98,72,not allowed
+98,73,not allowed
+98,74,not allowed
+98,75,not allowed
+98,76,not allowed
+98,77,not allowed
+98,78,not allowed
+98,79,not allowed
+98,80,not allowed
+98,81,not allowed
+98,82,not allowed
+98,83,not allowed
+98,84,not allowed
+98,85,not allowed
+98,86,not allowed
+98,87,not allowed
+98,88,not allowed
+98,89,not allowed
+98,90,not allowed
+98,91,not allowed
+98,92,not allowed
+98,93,not allowed
+98,94,not allowed
+98,95,not allowed
+98,96,not allowed
+98,97,not allowed
+98,98,not allowed
+98,99,not allowed
+98,100,not allowed
+99,1,not allowed
+99,2,not allowed
+99,3,not allowed
+99,4,not allowed
+99,5,not allowed
+99,6,not allowed
+99,7,not allowed
+99,8,not allowed
+99,9,not allowed
+99,10,not allowed
+99,11,not allowed
+99,12,not allowed
+99,13,not allowed
+99,14,not allowed
+99,15,not allowed
+99,16,not allowed
+99,17,not allowed
+99,18,not allowed
+99,19,not allowed
+99,20,not allowed
+99,21,not allowed
+99,22,not allowed
+99,23,not allowed
+99,24,not allowed
+99,25,not allowed
+99,26,not allowed
+99,27,not allowed
+99,28,not allowed
+99,29,not allowed
+99,30,not allowed
+99,31,not allowed
+99,32,not allowed
+99,33,not allowed
+99,34,not allowed
+99,35,not allowed
+99,36,not allowed
+99,37,not allowed
+99,38,not allowed
+99,39,not allowed
+99,40,not allowed
+99,41,not allowed
+99,42,not allowed
+99,43,not allowed
+99,44,not allowed
+99,45,not allowed
+99,46,not allowed
+99,47,not allowed
+99,48,not allowed
+99,49,not allowed
+99,50,not allowed
+99,51,not allowed
+99,52,not allowed
+99,53,not allowed
+99,54,not allowed
+99,55,not allowed
+99,56,not allowed
+99,57,not allowed
+99,58,not allowed
+99,59,not allowed
+99,60,not allowed
+99,61,not allowed
+99,62,not allowed
+99,63,not allowed
+99,64,not allowed
+99,65,not allowed
+99,66,not allowed
+99,67,not allowed
+99,68,not allowed
+99,69,not allowed
+99,70,not allowed
+99,71,not allowed
+99,72,not allowed
+99,73,not allowed
+99,74,not allowed
+99,75,not allowed
+99,76,not allowed
+99,77,not allowed
+99,78,not allowed
+99,79,not allowed
+99,80,not allowed
+99,81,not allowed
+99,82,not allowed
+99,83,not allowed
+99,84,not allowed
+99,85,not allowed
+99,86,not allowed
+99,87,not allowed
+99,88,not allowed
+99,89,not allowed
+99,90,not allowed
+99,91,not allowed
+99,92,not allowed
+99,93,not allowed
+99,94,not allowed
+99,95,not allowed
+99,96,not allowed
+99,97,not allowed
+99,98,not allowed
+99,99,not allowed
+99,100,not allowed
+100,1,not allowed
+100,2,not allowed
+100,3,not allowed
+100,4,not allowed
+100,5,not allowed
+100,6,not allowed
+100,7,not allowed
+100,8,not allowed
+100,9,not allowed
+100,10,not allowed
+100,11,not allowed
+100,12,not allowed
+100,13,not allowed
+100,14,not allowed
+100,15,not allowed
+100,16,not allowed
+100,17,not allowed
+100,18,not allowed
+100,19,not allowed
+100,20,not allowed
+100,21,not allowed
+100,22,not allowed
+100,23,not allowed
+100,24,not allowed
+100,25,not allowed
+100,26,not allowed
+100,27,not allowed
+100,28,not allowed
+100,29,not allowed
+100,30,not allowed
+100,31,not allowed
+100,32,not allowed
+100,33,not allowed
+100,34,not allowed
+100,35,not allowed
+100,36,not allowed
+100,37,not allowed
+100,38,not allowed
+100,39,not allowed
+100,40,not allowed
+100,41,not allowed
+100,42,not allowed
+100,43,not allowed
+100,44,not allowed
+100,45,not allowed
+100,46,not allowed
+100,47,not allowed
+100,48,not allowed
+100,49,not allowed
+100,50,not allowed
+100,51,not allowed
+100,52,not allowed
+100,53,not allowed
+100,54,not allowed
+100,55,not allowed
+100,56,not allowed
+100,57,not allowed
+100,58,not allowed
+100,59,not allowed
+100,60,not allowed
+100,61,not allowed
+100,62,not allowed
+100,63,not allowed
+100,64,not allowed
+100,65,not allowed
+100,66,not allowed
+100,67,not allowed
+100,68,not allowed
+100,69,not allowed
+100,70,not allowed
+100,71,not allowed
+100,72,not allowed
+100,73,not allowed
+100,74,not allowed
+100,75,not allowed
+100,76,not allowed
+100,77,not allowed
+100,78,not allowed
+100,79,not allowed
+100,80,not allowed
+100,81,not allowed
+100,82,not allowed
+100,83,not allowed
+100,84,not allowed
+100,85,not allowed
+100,86,not allowed
+100,87,not allowed
+100,88,not allowed
+100,89,not allowed
+100,90,not allowed
+100,91,not allowed
+100,92,not allowed
+100,93,not allowed
+100,94,not allowed
+100,95,not allowed
+100,96,not allowed
+100,97,not allowed
+100,98,not allowed
+100,99,not allowed
+100,100,not allowed
+101,1,not allowed
+101,2,not allowed
+101,3,not allowed
+101,4,not allowed
+101,5,not allowed
+101,6,not allowed
+101,7,not allowed
+101,8,not allowed
+101,9,not allowed
+101,10,not allowed
+101,11,not allowed
+101,12,not allowed
+101,13,not allowed
+101,14,not allowed
+101,15,not allowed
+101,16,not allowed
+101,17,not allowed
+101,18,not allowed
+101,19,not allowed
+101,20,not allowed
+101,21,not allowed
+101,22,not allowed
+101,23,not allowed
+101,24,not allowed
+101,25,not allowed
+101,26,not allowed
+101,27,not allowed
+101,28,not allowed
+101,29,not allowed
+101,30,not allowed
+101,31,not allowed
+101,32,not allowed
+101,33,not allowed
+101,34,not allowed
+101,35,not allowed
+101,36,not allowed
+101,37,not allowed
+101,38,not allowed
+101,39,not allowed
+101,40,not allowed
+101,41,not allowed
+101,42,not allowed
+101,43,not allowed
+101,44,not allowed
+101,45,not allowed
+101,46,not allowed
+101,47,not allowed
+101,48,not allowed
+101,49,not allowed
+101,50,not allowed
+101,51,not allowed
+101,52,not allowed
+101,53,not allowed
+101,54,not allowed
+101,55,not allowed
+101,56,not allowed
+101,57,not allowed
+101,58,not allowed
+101,59,not allowed
+101,60,not allowed
+101,61,not allowed
+101,62,not allowed
+101,63,not allowed
+101,64,not allowed
+101,65,not allowed
+101,66,not allowed
+101,67,not allowed
+101,68,not allowed
+101,69,not allowed
+101,70,not allowed
+101,71,not allowed
+101,72,not allowed
+101,73,not allowed
+101,74,not allowed
+101,75,not allowed
+101,76,not allowed
+101,77,not allowed
+101,78,not allowed
+101,79,not allowed
+101,80,not allowed
+101,81,not allowed
+101,82,not allowed
+101,83,not allowed
+101,84,not allowed
+101,85,not allowed
+101,86,not allowed
+101,87,not allowed
+101,88,not allowed
+101,89,not allowed
+101,90,not allowed
+101,91,not allowed
+101,92,not allowed
+101,93,not allowed
+101,94,not allowed
+101,95,not allowed
+101,96,not allowed
+101,97,not allowed
+101,98,not allowed
+101,99,not allowed
+101,100,not allowed
+102,1,not allowed
+102,2,not allowed
+102,3,not allowed
+102,4,not allowed
+102,5,not allowed
+102,6,not allowed
+102,7,not allowed
+102,8,not allowed
+102,9,not allowed
+102,10,not allowed
+102,11,not allowed
+102,12,not allowed
+102,13,not allowed
+102,14,not allowed
+102,15,not allowed
+102,16,not allowed
+102,17,not allowed
+102,18,not allowed
+102,19,not allowed
+102,20,not allowed
+102,21,not allowed
+102,22,not allowed
+102,23,not allowed
+102,24,not allowed
+102,25,not allowed
+102,26,not allowed
+102,27,not allowed
+102,28,not allowed
+102,29,not allowed
+102,30,not allowed
+102,31,not allowed
+102,32,not allowed
+102,33,not allowed
+102,34,not allowed
+102,35,not allowed
+102,36,not allowed
+102,37,not allowed
+102,38,not allowed
+102,39,not allowed
+102,40,not allowed
+102,41,not allowed
+102,42,not allowed
+102,43,not allowed
+102,44,not allowed
+102,45,not allowed
+102,46,not allowed
+102,47,not allowed
+102,48,not allowed
+102,49,not allowed
+102,50,not allowed
+102,51,not allowed
+102,52,not allowed
+102,53,not allowed
+102,54,not allowed
+102,55,not allowed
+102,56,not allowed
+102,57,not allowed
+102,58,not allowed
+102,59,not allowed
+102,60,not allowed
+102,61,not allowed
+102,62,not allowed
+102,63,not allowed
+102,64,not allowed
+102,65,not allowed
+102,66,not allowed
+102,67,not allowed
+102,68,not allowed
+102,69,not allowed
+102,70,not allowed
+102,71,not allowed
+102,72,not allowed
+102,73,not allowed
+102,74,not allowed
+102,75,not allowed
+102,76,not allowed
+102,77,not allowed
+102,78,not allowed
+102,79,not allowed
+102,80,not allowed
+102,81,not allowed
+102,82,not allowed
+102,83,not allowed
+102,84,not allowed
+102,85,not allowed
+102,86,not allowed
+102,87,not allowed
+102,88,not allowed
+102,89,not allowed
+102,90,not allowed
+102,91,not allowed
+102,92,not allowed
+102,93,not allowed
+102,94,not allowed
+102,95,not allowed
+102,96,not allowed
+102,97,not allowed
+102,98,not allowed
+102,99,not allowed
+102,100,not allowed
+103,1,allowed
+103,2,allowed
+103,3,allowed
+103,4,allowed
+103,5,allowed
+103,6,allowed
+103,7,allowed
+103,8,allowed
+103,9,allowed
+103,10,allowed
+103,11,allowed
+103,12,not allowed
+103,13,allowed
+103,14,allowed
+103,15,allowed
+103,16,allowed
+103,17,allowed
+103,18,allowed
+103,19,not allowed
+103,20,allowed
+103,21,allowed
+103,22,allowed
+103,23,allowed
+103,24,allowed
+103,25,allowed
+103,26,allowed
+103,27,allowed
+103,28,allowed
+103,29,allowed
+103,30,allowed
+103,31,allowed
+103,32,allowed
+103,33,allowed
+103,34,allowed
+103,35,allowed
+103,36,allowed
+103,37,allowed
+103,38,allowed
+103,39,allowed
+103,40,allowed
+103,41,allowed
+103,42,allowed
+103,43,allowed
+103,44,allowed
+103,45,allowed
+103,46,not allowed
+103,47,allowed
+103,48,allowed
+103,49,allowed
+103,50,allowed
+103,51,allowed
+103,52,allowed
+103,53,not allowed
+103,54,allowed
+103,55,allowed
+103,56,not allowed
+103,57,not allowed
+103,58,allowed
+103,59,not allowed
+103,60,allowed
+103,61,not allowed
+103,62,allowed
+103,63,allowed
+103,64,allowed
+103,65,allowed
+103,66,allowed
+103,67,allowed
+103,68,allowed
+103,69,allowed
+103,70,allowed
+103,71,allowed
+103,72,allowed
+103,73,allowed
+103,74,allowed
+103,75,allowed
+103,76,allowed
+103,77,not allowed
+103,78,not allowed
+103,79,not allowed
+103,80,allowed
+103,81,not allowed
+103,82,allowed
+103,83,allowed
+103,84,allowed
+103,85,allowed
+103,86,allowed
+103,87,not allowed
+103,88,allowed
+103,89,allowed
+103,90,allowed
+103,91,allowed
+103,92,allowed
+103,93,not allowed
+103,94,not allowed
+103,95,not allowed
+103,96,allowed
+103,97,not allowed
+103,98,not allowed
+103,99,allowed
+103,100,not allowed
+104,1,allowed
+104,2,allowed
+104,3,allowed
+104,4,allowed
+104,5,allowed
+104,6,allowed
+104,7,allowed
+104,8,allowed
+104,9,allowed
+104,10,allowed
+104,11,allowed
+104,12,not allowed
+104,13,allowed
+104,14,allowed
+104,15,allowed
+104,16,allowed
+104,17,allowed
+104,18,allowed
+104,19,not allowed
+104,20,allowed
+104,21,allowed
+104,22,allowed
+104,23,allowed
+104,24,allowed
+104,25,allowed
+104,26,allowed
+104,27,allowed
+104,28,allowed
+104,29,allowed
+104,30,allowed
+104,31,allowed
+104,32,allowed
+104,33,allowed
+104,34,allowed
+104,35,allowed
+104,36,allowed
+104,37,allowed
+104,38,allowed
+104,39,allowed
+104,40,allowed
+104,41,allowed
+104,42,allowed
+104,43,allowed
+104,44,allowed
+104,45,allowed
+104,46,not allowed
+104,47,allowed
+104,48,allowed
+104,49,allowed
+104,50,allowed
+104,51,allowed
+104,52,allowed
+104,53,not allowed
+104,54,allowed
+104,55,allowed
+104,56,not allowed
+104,57,not allowed
+104,58,allowed
+104,59,not allowed
+104,60,allowed
+104,61,not allowed
+104,62,allowed
+104,63,allowed
+104,64,allowed
+104,65,allowed
+104,66,allowed
+104,67,allowed
+104,68,allowed
+104,69,allowed
+104,70,allowed
+104,71,allowed
+104,72,allowed
+104,73,allowed
+104,74,allowed
+104,75,allowed
+104,76,allowed
+104,77,not allowed
+104,78,not allowed
+104,79,not allowed
+104,80,allowed
+104,81,not allowed
+104,82,allowed
+104,83,allowed
+104,84,allowed
+104,85,allowed
+104,86,allowed
+104,87,not allowed
+104,88,allowed
+104,89,allowed
+104,90,allowed
+104,91,allowed
+104,92,allowed
+104,93,not allowed
+104,94,not allowed
+104,95,not allowed
+104,96,allowed
+104,97,not allowed
+104,98,not allowed
+104,99,allowed
+104,100,not allowed
+105,1,allowed
+105,2,allowed
+105,3,allowed
+105,4,allowed
+105,5,allowed
+105,6,allowed
+105,7,allowed
+105,8,allowed
+105,9,allowed
+105,10,allowed
+105,11,allowed
+105,12,not allowed
+105,13,allowed
+105,14,allowed
+105,15,allowed
+105,16,allowed
+105,17,allowed
+105,18,allowed
+105,19,not allowed
+105,20,allowed
+105,21,allowed
+105,22,allowed
+105,23,allowed
+105,24,allowed
+105,25,allowed
+105,26,allowed
+105,27,allowed
+105,28,allowed
+105,29,allowed
+105,30,allowed
+105,31,allowed
+105,32,allowed
+105,33,allowed
+105,34,allowed
+105,35,allowed
+105,36,allowed
+105,37,allowed
+105,38,allowed
+105,39,allowed
+105,40,allowed
+105,41,allowed
+105,42,allowed
+105,43,allowed
+105,44,allowed
+105,45,allowed
+105,46,not allowed
+105,47,allowed
+105,48,allowed
+105,49,allowed
+105,50,allowed
+105,51,allowed
+105,52,allowed
+105,53,not allowed
+105,54,allowed
+105,55,allowed
+105,56,not allowed
+105,57,not allowed
+105,58,allowed
+105,59,not allowed
+105,60,allowed
+105,61,not allowed
+105,62,allowed
+105,63,allowed
+105,64,allowed
+105,65,allowed
+105,66,allowed
+105,67,allowed
+105,68,allowed
+105,69,allowed
+105,70,allowed
+105,71,allowed
+105,72,allowed
+105,73,allowed
+105,74,allowed
+105,75,allowed
+105,76,allowed
+105,77,not allowed
+105,78,not allowed
+105,79,not allowed
+105,80,allowed
+105,81,not allowed
+105,82,allowed
+105,83,allowed
+105,84,allowed
+105,85,allowed
+105,86,allowed
+105,87,not allowed
+105,88,allowed
+105,89,allowed
+105,90,allowed
+105,91,allowed
+105,92,allowed
+105,93,not allowed
+105,94,not allowed
+105,95,not allowed
+105,96,allowed
+105,97,not allowed
+105,98,not allowed
+105,99,allowed
+105,100,not allowed
