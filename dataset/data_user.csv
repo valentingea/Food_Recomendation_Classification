@@ -1,0 +1,106 @@
+id_user,Usia,Jenis Kelamin,Tinggi (cm),Berat (kg),Kondisi Kesehatan
+1,56,Wanita,181,56,Radang Sendi
+2,69,Wanita,153,65,Radang Sendi
+3,46,Wanita,179,75,Radang Sendi
+4,32,Wanita,186,97,Radang Sendi
+5,60,Pria,172,98,Radang Sendi
+6,25,Wanita,188,51,Radang Sendi
+7,78,Pria,164,50,Radang Sendi
+8,38,Wanita,178,97,Radang Sendi
+9,56,Wanita,185,61,Radang Sendi
+10,75,Pria,162,54,Radang Sendi
+11,36,Wanita,181,86,Radang Sendi
+12,40,Pria,156,81,Radang Sendi
+13,28,Wanita,171,58,Radang Sendi
+14,28,Wanita,177,90,Radang Sendi
+15,41,Pria,151,84,PPOK
+16,70,Wanita,155,68,PPOK
+17,53,Pria,177,97,PPOK
+18,57,Wanita,177,65,PPOK
+19,41,Pria,169,52,PPOK
+20,20,Pria,179,69,PPOK
+21,39,Wanita,160,73,PPOK
+22,70,Wanita,177,82,PPOK
+23,19,Pria,174,73,PPOK
+24,41,Wanita,188,60,PPOK
+25,61,Wanita,182,98,PPOK
+26,47,Wanita,150,57,PPOK
+27,55,Pria,176,85,PPOK
+28,19,Pria,162,87,PPOK
+29,77,Pria,152,89,PPOK
+30,38,Pria,188,69,Penyakit Jantung
+31,50,Pria,155,84,Penyakit Jantung
+32,29,Pria,157,97,Penyakit Jantung
+33,75,Pria,176,74,Penyakit Jantung
+34,39,Pria,158,84,Penyakit Jantung
+35,78,Pria,186,74,Penyakit Jantung
+36,61,Wanita,182,78,Penyakit Jantung
+37,42,Pria,173,67,Penyakit Jantung
+38,66,Wanita,164,95,Penyakit Jantung
+39,44,Wanita,181,67,Penyakit Jantung
+40,76,Wanita,181,51,Penyakit Jantung
+41,59,Pria,173,84,Penyakit Jantung
+42,45,Pria,161,65,Penyakit Jantung
+43,77,Pria,188,90,Penyakit Jantung
+44,33,Pria,151,85,Penyakit Jantung
+45,32,Wanita,152,82,Kanker
+46,79,Pria,186,53,Kanker
+47,79,Pria,166,82,Kanker
+48,64,Pria,151,63,Kanker
+49,79,Pria,151,70,Kanker
+50,68,Pria,177,97,Kanker
+51,61,Wanita,172,69,Kanker
+52,72,Pria,186,57,Kanker
+53,69,Wanita,181,56,Kanker
+54,74,Pria,182,52,Kanker
+55,20,Wanita,150,66,Kanker
+56,54,Pria,168,82,Kanker
+57,68,Pria,151,97,Kanker
+58,24,Wanita,175,61,Kanker
+59,38,Wanita,181,71,Kanker
+60,26,Wanita,155,71,Hipertensi
+61,56,Pria,181,95,Hipertensi
+62,35,Wanita,153,79,Hipertensi
+63,21,Pria,160,87,Hipertensi
+64,42,Pria,166,87,Hipertensi
+65,77,Wanita,187,94,Hipertensi
+66,31,Wanita,173,57,Hipertensi
+67,67,Pria,154,76,Hipertensi
+68,75,Pria,183,76,Hipertensi
+69,26,Wanita,155,83,Hipertensi
+70,43,Wanita,171,70,Hipertensi
+71,70,Wanita,160,79,Hipertensi
+72,19,Pria,165,82,Hipertensi
+73,37,Pria,182,77,Hipertensi
+74,45,Pria,158,96,Hipertensi
+75,64,Pria,155,82,Gagal Ginjal Kronis
+76,77,Pria,165,54,Gagal Ginjal Kronis
+77,24,Pria,178,97,Gagal Ginjal Kronis
+78,61,Wanita,152,68,Gagal Ginjal Kronis
+79,78,Pria,169,53,Gagal Ginjal Kronis
+80,25,Pria,185,84,Gagal Ginjal Kronis
+81,64,Pria,168,98,Gagal Ginjal Kronis
+82,52,Wanita,175,66,Gagal Ginjal Kronis
+83,31,Pria,152,93,Gagal Ginjal Kronis
+84,34,Pria,168,77,Gagal Ginjal Kronis
+85,53,Wanita,169,79,Gagal Ginjal Kronis
+86,67,Pria,181,78,Gagal Ginjal Kronis
+87,57,Pria,156,95,Gagal Ginjal Kronis
+88,21,Pria,182,55,Diabetes
+89,19,Pria,189,84,Diabetes
+90,79,Pria,188,90,Diabetes
+91,23,Wanita,167,86,Diabetes
+92,71,Wanita,189,73,Diabetes
+93,59,Wanita,150,78,Diabetes
+94,21,Pria,160,98,Diabetes
+95,71,Pria,177,95,Diabetes
+96,46,Pria,174,80,Diabetes
+97,35,Wanita,172,84,Diabetes
+98,43,Pria,180,82,Diabetes
+99,61,Pria,179,70,Diabetes
+100,51,Wanita,184,81,Diabetes
+101,37,Pria,178,73,Diabetes
+102,41,Wanita,159,48,Diabetes
+103,35,Wanita,156,54,Radang Sendi
+104,21,Pria,187,49,Gagal Ginjal Kronis
+105,56,Pria,169,68,Gagal Ginjal Kronis
